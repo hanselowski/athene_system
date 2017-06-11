@@ -1,0 +1,15 @@
+gensim==0.13.4.1
+regex==2016.12.27
+tqdm==4.11.1
+pycorenlp==0.3.0
+nltk==3.2.2
+numpy==1.13.0
+scipy==0.18.1
+scikit-learn==0.18.1
+pandas==0.19.2
+matplotlib==2.0.0
+tensorflow==0.9.0
+networkx==1.11
+numba==0.30.1
+pexpect==4.2.1
+sphinx==1.5.1

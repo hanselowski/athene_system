@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="9" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9339727885022339" task="IE">
+<t>UBS survey finds 10 of consumers want a smartwatch, expects 24M Apple Watch sales in fiscal 2015</t>
+<h>Apple will sell 24 million Apple Watches in the first nine months</h>
+</pair>
+<pair id="10" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9035830205220979" task="IE">
+<t>10 of Consumers Very Likely to Buy a Smartwatch in 2015, Suggesting 24M Apple Watches</t>
+<h>Apple will sell 24 million Apple Watches in the first nine months</h>
+</pair>
+<pair id="199" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8182116775946068" task="IE">
+<t>Report claims steel Apple Watch to start at 500, gold model between 4-5K</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="200" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.771075740690834" task="IE">
+<t>Rumor: Gold Apple Watch Edition priced up to 5,000, steel version at 500, will debut on Feb. 14</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="201" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8437439942701906" task="IE">
+<t>Rumor: Stainless Steel Apple Watch Will Cost 500, Gold 4,000</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="202" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8537119152571782" task="IE">
+<t>Apple Watch to start at 500 in stainless steel, thousands for gold model</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="203" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6276223264270819" task="IE">
+<t>Apple Watch Stainless Steel variant reportedly priced at 500, 4,000 for the gold variant</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="204" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7938467549240331" task="IE">
+<t>Stainless steel Apple Watch could cost just 499, but gold will be 10 times as pricey</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="205" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8532900964430055" task="IE">
+<t>Info iGen: 500 for Apple Watch, February 14?</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="206" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8587042539723314" task="IE">
+<t>Apple Watch Pricing to Reportedly Start at 500 for Stainless Steel, 4,000 for Gold</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="207" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5302899246608357" task="IE">
+<t>Stainless steel Apple Watch will be priced 500, gold at 5,000</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="208" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8849827685725803" task="IE">
+<t>Apple Watch pricing: Will you spend 5000 for Gold edition, 500 for stainless steel?</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="273" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7968023844002027" task="IE">
+<t>Will Apple hit a Valentine's Day 2015 target for the Apple Watch's release?</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="274" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.68767927190527" task="IE">
+<t>Apple Watch Likely Be Launched On Valentine's Day Plus First Apple Watch Accessory To Be Showcased In CES 2015</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="275" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5541833357263125" task="IE">
+<t>Your Apple Watch might be ready just in time for Valentine's Day</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="276" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5578408352774114" task="IE">
+<t>Rumor: Apple Watch Production Gearing Up For Valentine's Day Release With High Prices</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="277" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5374217696464565" task="IE">
+<t>Valentine's Day 2015 May Be The Apple Watch Release Target</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="278" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8652935091005135" task="IE">
+<t>Apple Watch launch expected in March, retail training set for mid-February</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="279" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5020485444413854" task="IE">
+<t>The Apple Watch Will Debut by Late March Report</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="280" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8117562545512131" task="IE">
+<t>Apple Watch launch expected in late March</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="281" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8607030994997611" task="IE">
+<t>Apple Targeting March for Apple Watch Launch, Retail Training Begins Next Month</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="282" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.824929460488762" task="IE">
+<t>Apple Watch reportedly set to ship in the U.S. by March</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="283" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8455517757621976" task="IE">
+<t>Apple Watch to Ship in March</t>
+<h>The Apple Watch will ship by the end of March</h>
+</pair>
+<pair id="360" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7054734753507994" task="IE">
+<t>No, Banksy has not been arrested sigh</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="361" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.908202932896595" task="IE">
+<t>Graffiti Artist Banksy Arrested In London Identity Revealed</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="362" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8544541896785417" task="IE">
+<t>Everybody Relax, Banksy was not Arrested And Exposed As A 35-Year-Old Man</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="363" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9609279585984664" task="IE">
+<t>Street Artist BANKSY Arrested? Again?</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="364" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8538620640094353" task="IE">
+<t>A Bunch Of People Thought Banksy Got Arrested But It Was A Hoax</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="365" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8996491637730224" task="IE">
+<t>Everyone chill Banksy has NOT been arrested</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="366" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8599001616380478" task="IE">
+<t>Met police denies reports of Banksy arrest</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="367" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8897877689967626" task="IE">
+<t>Once Again, The Banksy Arrest Is A Giant Hoax. Repeat: A Hoax.</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="368" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8511123404359643" task="IE">
+<t>Banksy Arrested Real Identity Revealed Is The Same Hoax From Last Year</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="369" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9117138802377277" task="IE">
+<t>Hoax Banksy Arrested in London Story Dupes the Internet Again</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="370" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5663386640015096" task="IE">
+<t>Banksy not arrested: Internet duped by fake report claiming artist's identity revealed</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="371" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6886895059699168" task="IE">
+<t>No, Banksy has not been arrested</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="372" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8430287389998368" task="IE">
+<t>Calm down everyone, Banksy has not been arrested: 9 clues that it is a hoax</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="373" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5127543950701244" task="IE">
+<t>Banksy arrest hoax: US website claims street artist caught in Watford</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="478" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Russians Bag Better Bigfoot Footage</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="479" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9406336601459209" task="IE">
+<t>According to some Russians this dark figure stumbling through the snowy woods is a Yeti - and they even have a footprint. Hmmmmm</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="480" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9129905992257498" task="IE">
+<t>Bigfoot Strolls Through A Russian Forest -- At Least that is The Claim VIDEO</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="481" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9700075384826142" task="IE">
+<t>Russian Yeti Or Bigfoot Hoax? New Footage Sparks Debate</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="482" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7810443311338534" task="IE">
+<t>Is this proof of bigfoot? New yeti video shows giant hairy beast walking through forest</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="527" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7442903542869573" task="IE">
+<t>Source: Tom Brokaw Wants Brian Williams Fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="528" entailment="Entailment" benchmark="ENTAILMENT" confidence="1.0" task="IE">
+<t>Tom Brokaw wants Brian Williams fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="529" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6855758661545334" task="IE">
+<t>Tom Brokaw wants Brian Williams out: NBC legend furious at Iraq war lie, as it is claimed executives warned anchor to stop exaggerating the story in the past</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="530" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.9264674908124354" task="IE">
+<t>NBC's Tom Brokaw reportedly wants Brian Williams fired over fabricated Iraq helicopter story</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="531" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6526927085463521" task="IE">
+<t>Tom Brokaw Wants Brian Williams Fired Over Iraq Helicopter Story: Report</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="532" entailment="Entailment" benchmark="UNKNOWN" confidence="0.8165960214236723" task="IE">
+<t>Tom Brokaw Wants Brian Williams Fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="616" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6366197938463211" task="IE">
+<t>50 foot crab : Is this a Crabzilla spotted in the UK?</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="617" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8832796715016284" task="IE">
+<t>Crabzilla a 50-foot colossal conundrum</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="618" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.961699339109009" task="IE">
+<t>Could Crabzilla, a 50-foot-long crab be real?</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="619" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9528550351129029" task="IE">
+<t>The papers: Pension reforms - and crabzilla</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="620" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8660523017564423" task="IE">
+<t>The Whole Internet Is Waiting For This Pic Of A Monster 50-Foot Crab To Be Declared A Hoax</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="621" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8986472602848343" task="IE">
+<t>Crabzilla Photo appears to show giant CRAB measuring at least 50ft across lurking in the waters off Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="622" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8416098778231446" task="IE">
+<t>Is Crabzilla real or not? Leading marine biologist rules picture of giant crab lurking in shallow waters must be a HOAX</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="623" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9123884795445856" task="IE">
+<t>Is this Crabzilla? Giant crab measuring 50ft spotted off British coast</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="624" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9700075384826142" task="IE">
+<t>Crabzilla or Crapzilla -- You Decide</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="625" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9335644385536497" task="IE">
+<t>Crabzilla Satellite Picture Reveals Giant Crustacean Lurking Off The Coast Of Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="626" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9516823408481583" task="IE">
+<t>Five reasons Crabzilla is definitely not real</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="627" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9288671284709049" task="IE">
+<t>Crabzilla: Photo Appears To Show Giant, 50-Foot Crab Lurking In British Waters</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="628" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.963916773985063" task="IE">
+<t>Mystery of 50ft giant crab caught on camera in Kent harbour</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="629" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8484811271439949" task="IE">
+<t>50ft crustacean, dubbed Crabzilla, photographed lurking beneath the waters in Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="630" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9340234263469032" task="IE">
+<t>Crabzilla artist Quinton Winter reveals all after image of crab off Whitstable appeared at Horsebridge Centre</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="631" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9614365075315455" task="IE">
+<t>Mystery of 50ft giant crab caught on camera yards from British harbour</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="632" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9334887708800393" task="IE">
+<t>Crabzilla spotted off the coast of Britain</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="633" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9535377101951764" task="IE">
+<t>Is this Crabzilla? Giant Monster Crab Caught on Camera</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="634" entailment="NonEntailment" benchmark="UNKNOWN" confidence="NaN" task="IE">
+<t>Crabzilla</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="635" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6530661519283024" task="IE">
+<t>Is this a Crabzilla spotted in the UK? Monster crab measures about 50 feet</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="636" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Giant Crab</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="645" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6899403346730171" task="IE">
+<t>Apple rumored to further enhance personalization of Apple Watch with custom engravings</t>
+<h>Apple will offer custom engraving on the Apple Watch</h>
+</pair>
+<pair id="646" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9586400084365665" task="IE">
+<t>APPLE WATCH: THE ENGRAVING MAY ALSO BE PART OF THE SHOW</t>
+<h>Apple will offer custom engraving on the Apple Watch</h>
+</pair>
+<pair id="857" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.68646922979651" task="IE">
+<t>Gold Apple Watch Edition price? Speculators say at least 10,000</t>
+<h>The gold Apple Watch Edition will cost 9,999 USD</h>
+</pair>
+<pair id="911" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9381275595795431" task="IE">
+<t>NEWS you will Never Guess How a Homeless Man Spent 100Watch the Touching Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="912" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9700075384826142" task="IE">
+<t>Eyewitness: Viral Video That Netted 130K in Donations is Bullshit</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="913" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9676428287899148" task="IE">
+<t>Was Heart-Tugging Viral Video Of Generous Homeless Man All A Hoax?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="914" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.908207980908599" task="IE">
+<t>What This Homeless Guy Did With 100 Completely Stunned The Man Who Gave It To Him</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="915" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9480717317434926" task="IE">
+<t>This Selfless Homeless Man Receives 100 does not Spend A Dime On Himself</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="916" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9455845191606466" task="IE">
+<t>Was The Video Of That Homeless Man Doing Good Deeds With 100 All An Elaborate Hoax?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="917" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8439821514925545" task="IE">
+<t>Homeless man who became a YouTube sensation after spending 100 on food for his beggar friends gets a surprise Christmas meal, makeover and night in a hotel in new video... but is it all a hoax by a serial prankster'?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="918" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7808638070308864" task="IE">
+<t>Homeless man who received a meal and hotel stay after spending 100 donation on food for friends insists it was NOT a hoax despite new witness insisting there was no way he could have been secretly filmed</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="919" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.917854761186256" task="IE">
+<t>Prankster Gives Homeless Man 100, Secretly Follows Him And Learns He Buys Food For Others</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="920" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8096672806751903" task="IE">
+<t>Josh Paler Lin Gives A Homeless Man 100 And Follows Him To See How He Spends It</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="921" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9125547839734898" task="IE">
+<t>See How This Homeless Man Spends A Hundred Dollars, And Keep A Tissue Handy Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="922" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9491318001779488" task="IE">
+<t>Viral Video Of Homeless Man Spending 100 On Food For Other Homeless Was Faked, Witness Says</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="923" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.75191322080194" task="IE">
+<t>Give a homeless man 100 and see what he does with it Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="924" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8699029904357596" task="IE">
+<t>SEE IT: California homeless man uses 100 gift to give food to others</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="925" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9474282527406648" task="IE">
+<t>What One Homeless Man Does with 100 Will Astonish You VIDEO</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="926" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8846025289958972" task="IE">
+<t>Homeless man receives 100... then shocks everyone with how he spends it</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="927" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9469171547836993" task="IE">
+<t>After Giving A Homeless Man 100, This Guy Secretly Filmed Him...</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="928" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8927109710515149" task="IE">
+<t>Did Josh Paler Lin Stage His Viral Video About Helping the Homeless?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="1079" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9057285102291933" task="IE">
+<t>ISIS Advances to Within 10 Miles of Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1080" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8676041910584008" task="IE">
+<t>ISIS FIGHTING JUST ONE MILE OUTSIDE BAGHDAD DESPITE AIRSTRIKES</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1081" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7916386684756899" task="IE">
+<t>ISIS fighters now at the gates of Baghdad: Islamic militants fighting just one mile from Iraqi capital despite days Western airstrikes</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1082" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7788159691290496" task="IE">
+<t>ISIS Baghdad March: Islamic State 1 Mile Away From Iraqi Capital</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1083" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6229022089829145" task="IE">
+<t>Isis just one mile from Baghdad as al-Qaeda fighters join forces against Syria air strikes</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1084" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8983338647503868" task="IE">
+<t>ISIS Is One Mile From Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1085" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9271658459806253" task="IE">
+<t>ISIS Islamists at the Gates of Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1086" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9388363219397156" task="IE">
+<t>Islamic State reportedly on Baghdad's outskirts after week of victories</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1087" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7731877789928753" task="IE">
+<t>ISIS militants less than 2 miles from Baghdad, fierce fighting reported near Iraqi capital</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1088" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6010953730520356" task="IE">
+<t>Isis just one mile from Baghdad as al-Qaeda joins militants fight against West</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1098" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7959784827494842" task="IE">
+<t>ISIS Claims Female American Hostage, Kayla Mueller, Killed in Airstrike</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1099" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9147434027744801" task="IE">
+<t>Purported ISIS claim: Jordan airstrike kills female US hostage</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1100" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.834936469659043" task="IE">
+<t>Jordanian airstrike killed American aid worker held hostage by ISIS according to statement by militants</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1101" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8504166792960899" task="IE">
+<t>Kayla Jean Mueller, U.S. hostage, killed in Jordan airstrike, ISIS claims</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1102" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8164158943448679" task="IE">
+<t>ISIS claims that female American aid worker who has been held hostage for 18 months has died in Jordanian air strike - but minister insists it is a PR stunt by jihadis</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1103" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6544962500598205" task="IE">
+<t>Isis claims US hostage Kayla Mueller killed in coalition airstrike</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1104" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8799224143497616" task="IE">
+<t>Unconfirmed: ISIS Claims Kayla Mueller, American Female Hostage, Is Dead</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1105" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8431538412416733" task="IE">
+<t>ISIS Claims an American Hostage, Kayla Mueller, Died in Airstrike in Syria</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1106" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9032015226083021" task="IE">
+<t>Isis supporters claim US hostage killed in Jordanian air strike in Syria</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1107" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9818476739401842" task="IE">
+<t>IS Beheads Briton David Cawthorne Haines, Threatens to Execute Another Briton, Alan Henning</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1108" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9170672629759542" task="IE">
+<t>Unverified video shows beheading of aid worker David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1109" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9355555432810546" task="IE">
+<t>Hostage David Haines Murder Evil, PM Says</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1110" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8396319329969" task="IE">
+<t>British Aid Worker Confirmed Murdered By ISIS</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1111" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8291457211755479" task="IE">
+<t>ISIS Video Claims to Show Beheading of British Hostage</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1112" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9379770350524067" task="IE">
+<t>Cameron vows to hunt down IS monsters after Haines murder</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1113" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8873886263161156" task="IE">
+<t>David Haines Beheaded By ISIS, Execution Video Contains Threats Against UK: Reports</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1114" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9508910841266638" task="IE">
+<t>ISIS video showing beheading triggers international response</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1115" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9581830495437008" task="IE">
+<t>ISIS Extremists Claim to Behead British Hostage David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1116" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8378309117356628" task="IE">
+<t>ISIS Video Purports To Show Beheading Of British Aid Worker</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1117" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8856539423474816" task="IE">
+<t>ISIS Video Shows Execution of David Cawthorne Haines, British Aid Worker</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1118" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9804101455624417" task="IE">
+<t>British hostage David Haines beheaded by Islamic State terrorists</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1119" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9402741968981145" task="IE">
+<t>Isis video claims to show beheading of British hostage David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1120" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.922998984313447" task="IE">
+<t>British aid worker David Haines beheaded by ISIL</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1121" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9875500054567957" task="IE">
+<t>Unconfirmed reports saying ISIS UK Hostage David Haines Beheaded</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1122" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9072879764409998" task="IE">
+<t>David Haines beheading video confirmed genuine UK PM Cameron vows to hunt down ISIS monsters</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1470" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6754753652750101" task="IE">
+<t>Jordan Vs ISIS: Reports Say King Abdullah II Could Personally Lead Airstrikes After Pilot's Death</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1471" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7440073551882608" task="IE">
+<t>Jordan's King May Participate Personally In ISIS Raids</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1472" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9578313455099982" task="IE">
+<t>Jordan king cites Clint Eastwood in revenge vow</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1473" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9150946016262476" task="IE">
+<t>JORDANIAN KING PERSONALLY FLYING SORTIES AGAINST ISIS</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1474" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7282456604253433" task="IE">
+<t>Jordan's King Abdullah Did Not Personally Fly Airstrikes On ISIS</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1475" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8310135145175219" task="IE">
+<t>Will King of Jordan lead airstrikes on ISIS HIMSELF? Reports say trained pilot plans to take part in attack after quoting Clint Eastwood's Unforgiven to Congressmen</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1476" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8105786407535521" task="IE">
+<t>No, Jordan's King Abdullah II is not personally flying planes against Isis</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1477" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9173822443055075" task="IE">
+<t>Rumors of King Abdullah Flying in Airstrikes Not True, Fox Excited Anyway</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1553" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7624193442859877" task="IE">
+<t>McDonald's Will Stop Serving Overweight Customers Beginning 1115</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1554" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7624193442859877" task="IE">
+<t>Fake-News: McDonald's Will Stop Serving Overweight Customers</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1555" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9528613129012453" task="IE">
+<t>MCDONALD'S WILL STOP SERVING OVERWEIGHT CUSTOMERS BEGINNING 1115</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1556" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7782130305978208" task="IE">
+<t>McDonald's to Stop Serving Overweight Customers in January? Nope, 1152015 Story is Fake</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1642" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9227569012761986" task="IE">
+<t>Fox News Floats BS Story About Fleeing Marines Giving Rebels Their Guns</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1643" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9474669477817504" task="IE">
+<t>MARINES ORDERED BY STATE DEPT TO SURRENDER WEAPONS IN US EMBASSY EVAC IN YEMEN</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1644" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8887841007273994" task="IE">
+<t>Official: Houthis take U.S. vehicles, weapons in Yemen</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1645" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8971162907180071" task="IE">
+<t>Pete Hegseth: Marines Exit Yemen Forced to Surrender Dignity, Weapons</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1646" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7187733354751789" task="IE">
+<t>Yemen's Houthi rebels seize U.S. Marines weapons at airport</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1793" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6564686130976143" task="IE">
+<t>NHL expansion to include Toronto, Quebec City, Seattle and Las Vegas: Report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1794" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8116482984846861" task="IE">
+<t>Four new NHL expansion teams? Vegas, Seattle, Toronto and Quebec by 2017: Report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1795" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8404557716979572" task="IE">
+<t>NHL expansion plans in the works: reports</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1796" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7498785680874819" task="IE">
+<t>NHL expansion could include Las Vegas, others</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1797" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9068647606147495" task="IE">
+<t>NHL expansion ahead? No, says Gary Bettman</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1798" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.901603832066449" task="IE">
+<t>Bettman says NHL expansion not imminent</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1799" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9156522191038553" task="IE">
+<t>NHL Expansion Plan Report Is Complete Fabrication: Bettman</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1800" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6307400487568753" task="IE">
+<t>Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1801" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6893615688829648" task="IE">
+<t>NHL expansion rumors: This time, Las Vegas is about to get a team</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1802" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5923486323224567" task="IE">
+<t>NHL denies Las Vegas expansion report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1803" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9140533350400245" task="IE">
+<t>Gallagher: Bettman has changed his tune on NHL expansion</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1804" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7730492887742544" task="IE">
+<t>NHL expansion to Las Vegas a done deal</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1957" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.90506518218126" task="IE">
+<t>Pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1958" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9067986651605939" task="IE">
+<t>Luckiest Pizza Delivery Guy Ever Gets 2,000 Tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1959" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7749712939396624" task="IE">
+<t>Pizza delivery man gets tipped more than 2,000 for a single delivery</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1960" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.823819372081098" task="IE">
+<t>Ann Arbor pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1961" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8830847659341694" task="IE">
+<t>Pizza delivery man gets 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1962" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.823819372081098" task="IE">
+<t>Ann Arbor pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1963" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8344729321438553" task="IE">
+<t>NASA: Planetary Alignment On Jan 4, 2015 Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness???</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1964" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8266106155082671" task="IE">
+<t>Planetary Alignment On Jan 4, 2015 Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1965" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9723119849835594" task="IE">
+<t>you are Not Going to Become Weightless on January 4th</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1966" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6995318590264151" task="IE">
+<t>No, a Planetary Alignment on Jan. 4, 2015, will not Decrease Gravity</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1967" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8604191479285764" task="IE">
+<t>Planetary Alignment Decrease Gravity Hoax on Jan 4, 2015: Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness in January is Totally Bogus</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1986" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9166776411730475" task="IE">
+<t>Predator Drone Reportedly Spotted Over ISIS Stronghold</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1987" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8792219697174268" task="IE">
+<t>Armed U.S. drones spotted flying over Syria in possible hunt for ISIS leader</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1988" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7597777754507765" task="IE">
+<t>Predator Drone Reportedly Sighted Circling Raqqa, Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1989" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9702264154032141" task="IE">
+<t>American Predator Drone Circling Islamic State's Stronghold</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1990" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8870151304731838" task="IE">
+<t>US Drones Over Syria Looking for ISIS Leader Abu Bakr al-Baghdadi</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1991" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9474927565983616" task="IE">
+<t>A Predator Drone Has Reportedly Been Spotted Circling Above ISIS's Capital City</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1992" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7968418730069703" task="IE">
+<t>SEND IN THE DRONES: Predator drones flown over IS headquarters in Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1993" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9325387659893063" task="IE">
+<t>US Drones, Hunting for ISIS Leader, Seen Flying over Syrian Airspace</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1994" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8570921802741672" task="IE">
+<t>Predator Drone Reportedly Spotted Over ISIS Hotbed in Syria Airstrikes Hit ISIS Targets</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1995" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9071337436238681" task="IE">
+<t>US drones hunt Isis leader in Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1996" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8826358834001204" task="IE">
+<t>Predator drones being flown over Isil's Syrian capital</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1997" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9079013611425923" task="IE">
+<t>Brown Moses on what is flying over Iraq and Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="2064" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7480209101191597" task="IE">
+<t>Rumor debunked: RoboCop-style robots are not patrolling Microsoft's campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2065" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8992579771613908" task="IE">
+<t>Here Are Microsoft's New Robot Security Guards</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2066" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7374818111697965" task="IE">
+<t>Robot security guards now patrolling Microsoft's Silicon Valley campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2067" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8845650685960968" task="IE">
+<t>Microsoft Hires Dalek-style Robocops to Guard Silicon Valley HQ</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2068" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6509148544616364" task="IE">
+<t>Microsoft's Silicon Valley campus now guarded by Daleks</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2069" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8749717460761647" task="IE">
+<t>Microsoft turns to robotic security guards to watch for trouble</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2070" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8269970074339743" task="IE">
+<t>Microsoft Tried Out Robot Security Guards on Its Silicon Valley Campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2071" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9054771524308327" task="IE">
+<t>Knightscope Security Robots Are Keeping Microsoft Campuses Safe and They Look Really Scary</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2304" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9005351839476449" task="IE">
+<t>Russian TV actor wakes up to find his testicles stolen</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2305" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9573166471393039" task="IE">
+<t>In Moscow, police are looking for a felon, cut the male genitals</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2306" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7852777759229003" task="IE">
+<t>Married TV actor wakes up to find his testicles have been stolen after kissing young woman in sauna</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2307" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8484547802014363" task="IE">
+<t>Actor has his testicles stolen after meeting young blonde woman at a bar</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2308" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9577608850201696" task="IE">
+<t>This Soap Opera Star Reportedly Had His Testicles Stolen By An Attractive Blonde Organ Trafficker</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2309" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8944641798379361" task="IE">
+<t>Russian Man Wakes Up to Find His Testicles Have Been Stolen</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2310" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8513563069992371" task="IE">
+<t>Married TV actor wakes up to find his testicles have been STOLEN after he is drugged in Russian bar by attractive blonde working for organ traffickers</t>
+<h>A Russian man met a woman for a drink in a sauna and woke up to find his testicles stolen</h>
+</pair>
+<pair id="2498" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9522365286267327" task="IE">
+<t>Son's Asinine Questions Inspire Priceless Dad-Rage</t>
+<h>Video shot by student for school project shows his dad losing it after being asked inane questions</h>
+</pair>
+<pair id="2499" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9371260364452143" task="IE">
+<t>Student interviews his dad for vlog, fails spectacularly</t>
+<h>Video shot by student for school project shows his dad losing it after being asked inane questions</h>
+</pair>
+</entailment-corpus>

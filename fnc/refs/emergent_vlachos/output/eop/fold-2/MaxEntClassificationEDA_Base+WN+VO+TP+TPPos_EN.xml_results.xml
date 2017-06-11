@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="442" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.897081273432348" task="IE">
+<t>Justin Bieber Helps Defend Russian Fisherman From Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="443" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8527150200329615" task="IE">
+<t>Justin Bieber Saved A Guy Getting Mauled By A Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="444" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8958702793680682" task="IE">
+<t>Man Mauled By Bear Says he is Only Alive Thanks to Justin Bieber</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="445" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8853924199835729" task="IE">
+<t>Justin Bieber's Baby Saves Man From Violent Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="446" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6131085713576959" task="IE">
+<t>Justin Bieber saves man from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="447" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5069778679360186" task="IE">
+<t>Justin Bieber ringtone saves man being mauled by bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="448" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7332691237886324" task="IE">
+<t>Justin Bieber ringtone saved a Russian fisherman during a bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="449" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7132127062105141" task="IE">
+<t>Bieber ringtone scares bear, saves man's life</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="450" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.898024708597361" task="IE">
+<t>A Russian Guy Says His Justin Bieber Ringtone Saved Him From A Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="451" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8490465843135877" task="IE">
+<t>Justin Bieber Saved This Guy From a Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="452" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6953168276195857" task="IE">
+<t>Finally, proof that Justin Bieber IS unbearable: Russian fisherman saved from bear attack when ringtone featuring one of the pop brat's songs scares it away</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="453" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5545490652346223" task="IE">
+<t>Man saved from bear attack - thanks to his Justin Bieber ringtone</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="454" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9568447552457034" task="IE">
+<t>Fisherman Saved from Deadly Bear Attack by His Justin Bieber Ringtone</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="455" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8476489767836751" task="IE">
+<t>Justin Bieber scares off GRIZZLY BEAR and saves fisherman from a mauling</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="456" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6021870192263076" task="IE">
+<t>Justin Bieber Basically Saves A Russian Man From A Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="457" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6857978280275555" task="IE">
+<t>Man saved from bear attack when his Justin Bieber ringtones goes off, sending bear fleeing</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="458" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.902135424301356" task="IE">
+<t>Justin Bieber Ringtone Startles Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="459" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7474462256156678" task="IE">
+<t>Justin Bieber ringtone saves Russian fisherman from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="460" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8588206732247252" task="IE">
+<t>Bear attack foiled by Justin Bieber's music: A story too good to check</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="461" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5063005613269415" task="IE">
+<t>Justin Bieber ringtone saves Russian man from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="462" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8228854475409352" task="IE">
+<t>Unbearable: Man fends off bear attack by playing Justin Bieber song</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="463" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7396216626792396" task="IE">
+<t>Justin Bieber ringtone scares bear, saves Russian fisherman</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="510" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6937615818704709" task="IE">
+<t>No joke: 5-year-old billed for missing friend's birthday party</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="511" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5489085239223742" task="IE">
+<t>I am lost for words, 5-year-old boy billed for missing friend's birthday party</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="512" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6813864154597105" task="IE">
+<t>Parents billed 29 for a no-show fee after five-year-old son misses birthday party</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="513" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6998935462395471" task="IE">
+<t>Party invoice: Boy sent bill for birthday no-show</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="514" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9426575283418827" task="IE">
+<t>Boy, 5, billed with no show fee for missing friend's BIRTHDAY PARTY</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="515" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9527392597360606" task="IE">
+<t>Torpoint: Five-Year-Old Billed For Missing Friend's Birthday Party In England</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="516" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7051299025221154" task="IE">
+<t>Five-year-old boy gets a bill for missing school friend's birthday party</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="517" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6769431385728633" task="IE">
+<t>Boy, 5, given 15.95 invoice for missing friend's birthday party</t>
+<h>A 5-year-old boy was invoiced for missing a birthday party</h>
+</pair>
+<pair id="518" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9289178519208565" task="IE">
+<t>Groom unwell, bride weds guest in fit of rage</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="519" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6894103399894946" task="IE">
+<t>Angry Indian bride marries wedding guest</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="520" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9415372920783835" task="IE">
+<t>After Finding Out Mid-Wedding That Her Groom Was Unwell, This Bride Married A Wedding Guest Instead</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="521" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9530496287706761" task="IE">
+<t>Rampur: Angry Bride Marries Guest after Learning Groom is Epileptic</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="522" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9202380265413138" task="IE">
+<t>India: Angry bride marries guest after original groom falls ill during wedding ceremony</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="523" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6258315278665559" task="IE">
+<t>Indian bride marries wedding guest after husband has epileptic seizure during ceremony</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="524" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.928626456811215" task="IE">
+<t>The Groom Was Sick, So The Bride Married A Guest At Her Wedding In A Fit Of Rage</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="525" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8612994327022099" task="IE">
+<t>Wedding punch-up when bride marries guest INSTEAD after groom suffers epileptic fit</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="526" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.84877761609388" task="IE">
+<t>Desperate bride marries wedding guest instead of groom</t>
+<h>An Indian bride married a guest at her wedding after her fiance had a seizure and collapsed</h>
+</pair>
+<pair id="552" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.800918498489367" task="IE">
+<t>Woman catches husband cheating with her twin, humiliates them</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="553" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.671314718476042" task="IE">
+<t>Spurned wife leaves cheating husband and twin naked in busy car park</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="554" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9563369692816538" task="IE">
+<t>Woman, Ting Su, Finds Husband Cheating With Her Own Twin, Gets Spectacular Revenge</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="555" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8931559505686704" task="IE">
+<t>Scorned wife leaves love-rat husband and twin sister NAKED in car park</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="647" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9295921553997405" task="IE">
+<t>Brian Williams Debunks Peeing Meteorologist Report On NBC Nightly News: Video</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="648" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9369638931321131" task="IE">
+<t>Weatherman caught peeing live on camera</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="649" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9419683699984148" task="IE">
+<t>Brian Williams Insists NBC News Meteorologist Did Not Pee in the Snow While on Air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="650" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9358612905207827" task="IE">
+<t>Did NBC Nightly News Go Live To A Man Who Was Taking A Piss?</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="651" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8638660619357678" task="IE">
+<t>WAS NBC METEOROLOGIST MIKE SEIDEL PEEING IN THE SNOW ON CAMERA? A TESTY BRIAN WILLIAMS EXPLAINS</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="652" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.932523533996335" task="IE">
+<t>NBC weatherman caught urinating in the woods live on air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="653" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9280379671164082" task="IE">
+<t>Weather Reporter Caught Writing His Name In The Snow Was NOT Ready To Go On Camera UPDATED</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="654" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9145991681727553" task="IE">
+<t>Wild Misinformation: Brian Williams Explains the Mike Seidel Liveshot</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="655" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9541931054917947" task="IE">
+<t>Brian Williams: No, Our Meteorologist Was Not Peeing on Live TV</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="656" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9288005462654468" task="IE">
+<t>Watch moment TV weatherman is caught urinating in the bushes LIVE on camera</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="657" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9640986631270168" task="IE">
+<t>Brian Williams slams social media for speculation weatherman Mike Seidel relieved himself on air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="658" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.524458151298344" task="IE">
+<t>SEE IT: NBC meteorologist Mike Seidel appears to relieve himself during broadcast network says he was looking for phone</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="659" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8452562952568221" task="IE">
+<t>Weather Channel's Mike Seidel was not caught with his pants down</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="660" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9700075384826142" task="IE">
+<t>Brian Williams Demands Apology From Social Media Over Erroneous Urination Reports Video</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="661" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9271115963520042" task="IE">
+<t>Weather Reporter Mike Seidel Was Caught Off Guard on Live TV and Appeared to Be Urinating in the Snow -- Watch</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="665" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.929619742142181" task="IE">
+<t>Dog Found Abandoned With Suitcase Filled With His Belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="666" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9296855146254532" task="IE">
+<t>Dog abandoned at Ayr station with belongings in suitcase</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="667" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.881525641667608" task="IE">
+<t>This Dog Was Left At A Railway Station With A Suitcase Of His Belongings After He Was Sold On Gumtree</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="668" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6715101374839045" task="IE">
+<t>Dog abandoned at Scottish rail station with suitcase full of belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="669" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9202115501843535" task="IE">
+<t>From the Philippines to Canada: Dog-lovers around the world offer home to abandoned Shar-Pei Kai - but carers say he will stay in Scotland after he turned up at train station</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="670" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9443690110931052" task="IE">
+<t>Hunt for cruel owner who abandoned dog at train station</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="671" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5818217380191673" task="IE">
+<t>Dog found abandoned outside railway station with suitcase of his belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="672" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8482171085414008" task="IE">
+<t>Search launched for dog's owner after pooch found dumped next to suitcase filled with belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="673" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8180594035556814" task="IE">
+<t>Dog abandoned at railway station with suitcase set for happy ending as offers pour in</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="674" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8023827620823717" task="IE">
+<t>Dog found abandoned at Scottish train station with suitcase of belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="675" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.955705499684686" task="IE">
+<t>Dog abandoned at Scotland train station with suitcase</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="740" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.796520930826397" task="IE">
+<t>Report claims steel Apple Watch to start at 500, gold model between 4-5K</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="741" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7269395146736657" task="IE">
+<t>Rumor: Gold Apple Watch Edition priced up to 5,000, steel version at 500, will debut on Feb. 14</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="742" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7888959973466219" task="IE">
+<t>Rumor: Stainless Steel Apple Watch Will Cost 500, Gold 4,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="743" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6598565373244972" task="IE">
+<t>Apple Watch to start at 500 in stainless steel, thousands for gold model</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="744" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7585697890333271" task="IE">
+<t>Apple Watch Stainless Steel variant reportedly priced at 500, 4,000 for the gold variant</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="745" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6309980922908756" task="IE">
+<t>Stainless steel Apple Watch could cost just 499, but gold will be 10 times as pricey</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="746" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8555089453227359" task="IE">
+<t>Info iGen: 500 for Apple Watch, February 14?</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="747" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8820300242643654" task="IE">
+<t>Insiders Claim Steel Apple Watch to Start at 500, Gold at 4,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="748" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8438974115501866" task="IE">
+<t>Apple Watch Pricing to Reportedly Start at 500 for Stainless Steel, 4,000 for Gold</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="749" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6003529267170242" task="IE">
+<t>Apple Watch pricing: Will you spend 5000 for Gold edition, 500 for stainless steel?</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="750" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8898272352532405" task="IE">
+<t>Want a Gold Apple Watch? All You Need is 5,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="943" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9238567391355886" task="IE">
+<t>Hewlett-Packard Plans to Break in Two</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="944" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9192799204193847" task="IE">
+<t>Hewlett-Packard Announces Plans To Break Up Company</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="945" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9189485915684581" task="IE">
+<t>HP to split into two companies, one focused on PCsprinters and one on enterprise computing</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="946" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.978838803184375" task="IE">
+<t>HP is better not together company to split into enterprise and PCprinter businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="947" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7498840869479481" task="IE">
+<t>Hewlett-Packard will reportedly split into two companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="948" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9865863773596135" task="IE">
+<t>HP confirms plan to split company</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="949" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.981070567312602" task="IE">
+<t>Hewlett-Packard to split into two companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="950" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8996462091710642" task="IE">
+<t>Hewlett-Packard plans to break into 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="951" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9266053664348389" task="IE">
+<t>it is OFFICIAL: HP Is Splitting Into 2 Separate Businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="952" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9458894098830491" task="IE">
+<t>Hewlett-Packard Plans To Split Into Two Companies: WSJ Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="953" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9140756814682647" task="IE">
+<t>Hewlett-Packard to break into 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="954" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8349237127621424" task="IE">
+<t>Hewlett-Packard plans to split into two companies: Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="955" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9927663132025072" task="IE">
+<t>HP to split into two businesses -- report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="956" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9979851342200842" task="IE">
+<t>Hewlett-Packard to split in 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="957" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9210979280249402" task="IE">
+<t>Hewlett-Packard splits off PC, printer businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="958" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9642974149513441" task="IE">
+<t>Hewlett-Packard to split into two public companies, lay off 5,000</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="959" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8493322999226617" task="IE">
+<t>HP officially splitting into two companies update</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="960" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8276316623365619" task="IE">
+<t>Hewlett-Packard Plans To Break Into Two Companies: Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="961" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9700075384826142" task="IE">
+<t>Sorry - this page has been removed.</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="962" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9860622254714052" task="IE">
+<t>HP reportedly plans to split PC and printer business from enterprise unit</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="963" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9748027816181636" task="IE">
+<t>HP announces plan to split in two</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="975" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8966424745961593" task="IE">
+<t>Man breaks down in tears when a lost recording of his deceased wife resurfaces</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="976" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9198925483251476" task="IE">
+<t>Mirfield man's tears of joy after lost voicemail of wife retrieved</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="977" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9246569044766136" task="IE">
+<t>A Husband Breaks Down In Tears After Lost Voicemail Message By His Late Wife Is Recovered</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="978" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9723814302727897" task="IE">
+<t>This is the recording you thought you had lost forever</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="979" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.919530676270582" task="IE">
+<t>WATCH: Stan Beaton cries tears of joy when phone engineers find treasured voicemail recording of his late wife he thought was lost forever</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="980" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9362913854410069" task="IE">
+<t>Widower Cries Tears Of Joy After Hearing Late Wife's Voice Again</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="981" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8846839222415237" task="IE">
+<t>A wonderful, wonderful sound: Man breaks down after hearing voicemail from his late wife that was lost for 14 years</t>
+<h>A widower heard his dead wife's voice again after a company managed to recover a deleted voicemail recording</h>
+</pair>
+<pair id="1009" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8797450469583799" task="IE">
+<t>iOS 8.2 may launch Monday with new health features</t>
+<h>Apple will release iOS 8.2 on March 9</h>
+</pair>
+<pair id="1010" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7665556548596186" task="IE">
+<t>iOS 8.2 arriving Monday, here are full release notes</t>
+<h>Apple will release iOS 8.2 on March 9</h>
+</pair>
+<pair id="1219" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9372201857039689" task="IE">
+<t>Islamic State Leader al-Baghdadi Not Dead</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1220" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8623366232506311" task="IE">
+<t>ISIS leader dead?</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1221" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7921539553991703" task="IE">
+<t>ISIS Leader Abu Bakr Al-Baghdadi Assassinated In U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1222" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9211286013063551" task="IE">
+<t>Iraqi airstrike kills key ISIL leader</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1223" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6941840338220739" task="IE">
+<t>We took a look at the photo said to show the body of Islamic State leader Abu Bakr Al-Baghdadi right and found it was really an ethnic Albanian militant killed in 2013</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1224" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8956362454183276" task="IE">
+<t>Rumors of ISIS leader's death debunked</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1225" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8956362454183276" task="IE">
+<t>Rumors of ISIS leader's death debunked</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1226" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8150773607050472" task="IE">
+<t>Urgent: The Leader of ISIL Abu Bakr al-Baghdadi Killed Photo</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1227" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8908206363125236" task="IE">
+<t>ISIS leader killed in US airstrikes</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1228" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7545268969483822" task="IE">
+<t>ISIS Leader Killed: Abu Bakr Al-Baghdadi Reportedly Killed By U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1229" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7545268969483822" task="IE">
+<t>ISIS Leader Killed: Abu Bakr Al-Baghdadi Reportedly Killed By U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1230" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6485771528235899" task="IE">
+<t>URGENT: ISIS leader Abu Bakr al-Baghdadi allegedly killed by US airstrikes</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1231" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9499524791521617" task="IE">
+<t>Pentagon Denies It Killed ISIS Chief As Airstrikes Hit Top Extremists</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1232" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9076151163904412" task="IE">
+<t>Iraqi social-media rumors claim IS leader slain</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1233" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9082612230043123" task="IE">
+<t>Photo of slain IS leader reported to be doctored</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1284" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9767613215574372" task="IE">
+<t>Isis tells mother on rescue mission :you have just eaten your son</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1285" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8866177998298174" task="IE">
+<t>ISIS militants trick mother into eating her kidnapped son</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1286" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9554309637213058" task="IE">
+<t>ISLAMIC STATE FED MURDERED MAN TO HIS OWN MOTHER</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1287" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8679302227110366" task="IE">
+<t>Isis fed murdered kidnap victim to his own mother after she travelled to their headquarters and demanded to see him</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1288" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9225367242829365" task="IE">
+<t>There is no limit to their depravity Islamic State FEED mother her own SON</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1289" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.900607924011801" task="IE">
+<t>After ISIS trick mum into eating son - 5 other reluctant cannibals including those forced to eat own body parts</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1290" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9605261749395568" task="IE">
+<t>ISIS: Desperate mum told you have just eaten your son after visiting militants base in search of kidnap victim</t>
+<h>ISIS gave a Kurdish woman a meal and told her she had eaten her own son</h>
+</pair>
+<pair id="1406" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8678021322088421" task="IE">
+<t>Kim Jong-un relying on cobra wine after problems with trouser snake</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1407" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9471843162584689" task="IE">
+<t>Kim Jong-un drinks rare snake wine to boost love life</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1408" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7162512724799106" task="IE">
+<t>Kim Jong-un necks litres of rare SNAKE wine because he is too fat to please his wife</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1409" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8870765712760713" task="IE">
+<t>Snake wine to the rescue of Kim Jong-un's love life</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1410" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9516567387989946" task="IE">
+<t>KIM JONG-UN NECKS SNAKE WINE FOR VIRILITY</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1505" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7408156337845421" task="IE">
+<t>That powerful Lego letter to parents from the 1970s? it is real</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1506" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9587878937658965" task="IE">
+<t>These LEGO Instructions from 1974 Are Awesome And Yes, they are Real</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1507" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9233539084664539" task="IE">
+<t>These egalitarian Lego instructions from the 1970s are pretty cool, but are they real?</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1508" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.891051570324135" task="IE">
+<t>A Letter Lego Sent to Parents in 1974 Holds an Important Message for the Parents of 2014</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1509" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7124927472464858" task="IE">
+<t>Forty years ago, Lego wrote a powerful letter to parents about how gender works</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1510" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9246887940073044" task="IE">
+<t>This Letter To Parents From A 1970s Lego Set Contains An Important Message For Gender Equality</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1511" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8669366365603964" task="IE">
+<t>Letter From LEGO To Parents In The 70s Makes An Important Point About Gender</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1512" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5712129793437176" task="IE">
+<t>Lego letter from the 1970s still offers a powerful message to parents 40 years later</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1513" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8060448687562101" task="IE">
+<t>Lego letter to parents in 1974 on gender equality still resonates 40 years on</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1578" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9374092893117292" task="IE">
+<t>Man Kicked Off Flight Thanks to His Burning Hatred for Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1579" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9368506309376644" task="IE">
+<t>Passenger Gets Kicked Off Plane After Merry Christmas Meltdown</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1580" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9336251739314119" task="IE">
+<t>Airline passenger freaks out over crew's Merry Christmas greeting</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1581" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9336251739314119" task="IE">
+<t>Passenger tossed after flipping out over staff's Merry Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1582" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9324662402062286" task="IE">
+<t>Passenger headed to Dallas rages over Merry Christmas, removed from plane</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1583" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9486239048636311" task="IE">
+<t>Man removed from plane over Christmas greeting dispute</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1584" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8617603418278154" task="IE">
+<t>Man kicked off flight after Merry Christmas greeting sets him off</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1585" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9250584547145185" task="IE">
+<t>Angry Passenger Tossed Off Plane after Crew Wishes Him Merry Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1586" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8427189131673595" task="IE">
+<t>American Airlines boots man from plane after Merry Christmas prompts meltdown</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1710" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7884114152821265" task="IE">
+<t>Michelle Obama's Hair Appeared Totally Uncensored on Saudi TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1711" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6349758663439542" task="IE">
+<t>Michelle Obama Not Blurred Out on Saudi TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1712" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8568801572243512" task="IE">
+<t>Saudis Say Michelle Obama Not Blurred on TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1713" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8822968204748124" task="IE">
+<t>Michelle Obama's face blurred by Saudi state television</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1714" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8325518717906311" task="IE">
+<t>Updated Saudi State Television Allegedly Blurs Michelle Obama's Face During Meeting With New Saudi King</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1715" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.850566823303178" task="IE">
+<t>No, Saudi TV Did Not Blur Out Images of Michelle Obama</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1716" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.801355528815209" task="IE">
+<t>No, Saudi TV did not Blur Out Michelle Obama's Face When the President Met King Salman</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1717" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8822968204748124" task="IE">
+<t>Michelle Obama's face blurred by Saudi state television</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1767" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9271963211422957" task="IE">
+<t>Sick Mum Sedated After Trying To Eat Baby</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="1768" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8615371751753667" task="IE">
+<t>Cannibal mother tries to eat her newborn baby after giving birth</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="1769" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9465483558915835" task="IE">
+<t>Cannibal mum tries to EAT her own baby shortly after giving birth</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="2154" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8609511734820526" task="IE">
+<t>New Audio Shows Michael Brown Was Shot at 11 Times</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2155" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9271069939321663" task="IE">
+<t>Shots Heard In Alleged Brown Shooting Recording AUDIO</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2156" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5495256954267937" task="IE">
+<t>Alleged audio of Michael Brown shooting released</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2157" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9373377445947019" task="IE">
+<t>CNN Plays Alleged Recording of Michael Brown Shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2158" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5970705659086588" task="IE">
+<t>CNN audio: Is this the moment Michael Brown was shot?</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2159" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8568241665315672" task="IE">
+<t>New Audio Reveals Pause in Gunfire When Michael Brown Was Shot: Attorney</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2160" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8908821628219485" task="IE">
+<t>CNN Plays Alleged Audiotape of Michael Brown ShootingMilitarization Of Police</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2161" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5848785369441949" task="IE">
+<t>Experts: More facts needed on purported audio recording of Michael Brown shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2162" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5354076379990272" task="IE">
+<t>An audio recording of the Michael Brown shooting has reportedly surfaced</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2163" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8738105850281102" task="IE">
+<t>Alleged Audio of Michael Brown Shooting does not Sound Good for Officer Darren Wilson</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2164" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6716978289953484" task="IE">
+<t>Michael Brown shooting audio caught on tape?</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2165" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8870128829204433" task="IE">
+<t>CNN Broadcasts Purported Audio Containing Gunshots That Felled Michael Brown Jr. Leaders, Celebrities Fill Pews At Teen's Funeral</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2166" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.891479323669947" task="IE">
+<t>Alleged New Audio of Michael Brown Shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2167" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9227723288837552" task="IE">
+<t>New Audio Recording From Ferguson May Capture Michael Brown Shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2168" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7474614602756209" task="IE">
+<t>Attorney: New audio reveals pause in gunfire when Michael Brown was shot</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2169" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7008665115382566" task="IE">
+<t>Audio captured at time of Michael Brown shooting, company says</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2170" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5797048848207033" task="IE">
+<t>Alleged audio of Michael Brown shooting has surfaced</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2171" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6580251504131959" task="IE">
+<t>Moment Michael Brown was shot dead caught on audio recording: FBI handed potentially damning tape of ELEVEN shots being fired - including final volley of kill shots</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2172" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5361186600909755" task="IE">
+<t>Audio recording of Michael Brown being gunned down WAS made at the time he was killed: App company appears to confirm tape of ELEVEN bullets being fired - including final volley of kill shots</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2173" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7819546089997537" task="IE">
+<t>Video Messaging App Says Audio Recording Of Michael Brown's Shooting Is Authentic</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2174" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.863246954572913" task="IE">
+<t>New Audio Allegedly Captures Moment Michael Brown Was Shot</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2175" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8371157344940159" task="IE">
+<t>Was Alleged Audio of Michael Brown Shooting on CNN a Hoax?</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2176" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9175905849529942" task="IE">
+<t>CNN Airs Alleged Audio from Michael Brown Shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2177" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9192584023672999" task="IE">
+<t>CNN Expert on Brown Audio: At First I Thought Someone's Trying to Punk CNN</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2178" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.811040820100584" task="IE">
+<t>Audio of gunfire in Michael Brown case authenticated by app company</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2179" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8872040914484061" task="IE">
+<t>FBI Probing Alleged Audio of Michael Brown Shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2180" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6447056768217868" task="IE">
+<t>Audio recording allegedly captures moment Michael Brown was shot</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2181" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5485457729805795" task="IE">
+<t>Possible audio tape of Michael Brown shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2182" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7085968340296201" task="IE">
+<t>CNN plays chilling audio recording allegedly from Michael Brown shooting: At least 11 shots</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2183" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7860335048206026" task="IE">
+<t>CNN Posts Alleged Audio of Michael Brown ShootingRunning ScaredVikings Star Adrian Peterson Reportedly Indicted for Child AbuseWhy the Military Treats Male Sexual Assault Victims So HorriblyWhy Google Bought a SpoonWe All Have Certain Words We Use Too Often. what is Yours?Meatless MondaysThe Beatles. Bob Dylan. Biggie Smalls.How to Fix Gerrymandering and Improve American Politics in One Fell SwoopThe Very Funny Comic Who Just Became SNL's Next Weekend Update Anchor</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2184" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7042282087319095" task="IE">
+<t>Ferguson riots: audio may have captured Michael Brown shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2185" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6415431151916705" task="IE">
+<t>Is the Alleged Audio of the Gunshots That Killed Michael Brown a Hoax?</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2186" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.790349578144473" task="IE">
+<t>Audio Reveals Pause Between Gunshots When Michael Brown Was Shot</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2187" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7726766766585047" task="IE">
+<t>An Audio Recording of the Michael Brown Shooting Has Reportedly Surfaced</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2188" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7191331193817213" task="IE">
+<t>Audio may have captured Michael Brown shooting</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2189" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8996219298803875" task="IE">
+<t>Video messaging service verifies timing of CNN audio recording</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2190" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.774670107139801" task="IE">
+<t>Audio recording allegedly captures at least 10 shots fired in Michael Brown killing</t>
+<h>there is an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2250" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8509664976789207" task="IE">
+<t>Sorry, Everyone: Durex Is Unfortunately Not Making Pumpkin Spice Condoms</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2251" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8766779795421077" task="IE">
+<t>No, Pumpkin Spice Condoms Are Not A Real Thing</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2252" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8074230861146355" task="IE">
+<t>Christmas Is Cancelled: Pumpkin Spice Condoms Are a Goddamn Hoax</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2253" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8597310411018854" task="IE">
+<t>The Pumpkin-Spice Condom Is Just a Figment of Your Own Gross Imagination</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2254" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5668380638824081" task="IE">
+<t>Durex shuts down rumors of a pumpkin spice condom</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2255" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9079976347168703" task="IE">
+<t>Is Durex Planning To Release A Pumpkin Spice Condom?</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2256" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9301299415912917" task="IE">
+<t>Calm Yourselves, Durex Has NOT Come Out With A Pumpkin Spice Condom</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2257" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8782261999999699" task="IE">
+<t>Sadly, Pumpkin Spice Condoms are not A Thing After All</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2258" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9528230170424796" task="IE">
+<t>Durex on Rumored Pumpkin Spice Condom: No Comment</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2259" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8977039328073378" task="IE">
+<t>Pumpkin Spice Condoms, And 6 Other Flavors That are not Happening</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2260" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.7500271325117629" task="IE">
+<t>Durex denies rumors of a pumpkin spice flavored condom</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2261" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.725277253126904" task="IE">
+<t>Durex Is Not Making Pumpkin Spice Condoms After All: A Hoax Debunked</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2262" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7520064172649228" task="IE">
+<t>Not coming to a store near you: The pumpkin spice condom</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2263" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8694467279108907" task="IE">
+<t>What was fake on the Internet this week: Obama's peace prize, pumpkin-spice condoms and insane winter snow</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2264" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8793612045196106" task="IE">
+<t>The pumpkin spice condom is not happening</t>
+<h>Durex is launching a pumpkin spice condom</h>
+</pair>
+<pair id="2373" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9551336544166451" task="IE">
+<t>Texas Plumber Has No Idea How Company Truck Ended Up With ISIS</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2374" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.935006943157061" task="IE">
+<t>Texas plumber baffled after truck ends up in the hands of Syrian rebels</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2375" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9313874316289218" task="IE">
+<t>Texas plumber threatened over jihadis using his old truck</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2376" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9062461470486147" task="IE">
+<t>Texas plumber's truck on front line of Syria war</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2377" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8821074171353709" task="IE">
+<t>How did a Texas plumber's truck end up with Syrian rebels? video</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2378" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8714970599482668" task="IE">
+<t>Did a plumber's pick-up truck from Texas end up carrying an anti-aircraft gun for Islamic fighters on the front lines of Syria?</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2379" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9443970334982811" task="IE">
+<t>Texas City plumber's truck ends up in Syrian war</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2380" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8763119538146559" task="IE">
+<t>Texas Plumber is not Sure How Extremists In Syria Ended Up With His Work Truck</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2381" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8149436197469387" task="IE">
+<t>Islamist terrorists Jabhat Ansar al-Deen tweet picture of Texas plumber's truck fitted with anti-aircraft gun in Syria</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2382" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.890886544238787" task="IE">
+<t>Texas plumber's truck spotted in Syria: We have nothing to do with terror at all</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2383" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9029422618942791" task="IE">
+<t>Texas Truck Winds Up in Syria With Islamic Militants</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2398" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8966061584819882" task="IE">
+<t>Woman With Three Breasts Is Reportedly A Fake: Jasmine Tridevil's Real Identity Revealed</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2399" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7114029560849132" task="IE">
+<t>Woman has third breast implanted</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2400" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8365532900670373" task="IE">
+<t>Third boob likely a hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2401" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9623616394892063" task="IE">
+<t>This Third Boob Is Probably Only Real in Our Hearts</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2402" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9321115158802636" task="IE">
+<t>Three Boobs Are Most Likely Two Boobs and a Lie</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2403" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9027110250697856" task="IE">
+<t>Woman Gets Third Boob Implanted, Wants to Be Unattractive to Men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2404" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8393949260654899" task="IE">
+<t>Woman pays 20,000 for third breast to make herself LESS attractive to men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2405" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8245380799259071" task="IE">
+<t>Woman with three breasts was a fake who has tricked people online before</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2406" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9528613129012453" task="IE">
+<t>The Story of the 3-Boobed Lady Is As Fake As Her Third Boob</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2407" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8360289087243298" task="IE">
+<t>The Story of a Woman Getting a Third Boob to Appear Unattractive to Men Is a Hoax Updated</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2408" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9867112518076191" task="IE">
+<t>Meet the 3-boobed woman</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2409" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9337723101458496" task="IE">
+<t>Three-boobed woman: they are not fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2410" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9293769417314166" task="IE">
+<t>Three-Boobed Girl probably a hoax, because obviously</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2411" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5625668536362091" task="IE">
+<t>Florida woman claims to have surgically added third breast</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2412" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8183133901979416" task="IE">
+<t>Florida Woman Has Surgery To Add Third Breast To Her Chest</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2413" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9401784456957047" task="IE">
+<t>Woman Who Claimed To Have Surgery To Add Third Breast Exposed As Hoaxer</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2414" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8477756273403999" task="IE">
+<t>Florida woman reportedly gets third breast surgically implanted</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2415" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7765583669981205" task="IE">
+<t>Woman's Claims She Had Plastic Surgery To Add A Third Breast Likely A Hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2416" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7955800762778773" task="IE">
+<t>Fake or freak? Woman, 21, claims to have paid 20,000 to surgically add third breast in desperate bid to become a reality TV star</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2417" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.694826102801112" task="IE">
+<t>they are fake Woman who claims to have surgically implanted third breast is a self-proclaimed hoaxer who once reported a 3 breast prosthesis stolen from her luggage</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2418" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6444488417285307" task="IE">
+<t>Woman claims she had third breast added, hopes to become a TV star</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2419" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7757414816749931" task="IE">
+<t>Woman who claimed to have third breast added is fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2420" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9623616394892063" task="IE">
+<t>Jasmine Tridevil Has Surgery To Add Third Breast Total Recall Style</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2421" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9623616394892063" task="IE">
+<t>Is Jasmine Tridevil's Triple Breasted Tale An Internet Hoax?</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2422" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9623616394892063" task="IE">
+<t>Is Jasmine Tridevil's Third Boob Real? Alisha Hessler Hoax Rumors Swirl</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2423" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8657409539665383" task="IE">
+<t>Woman Adds Third Breast by Undergoing Surgery to Participate in Reality Show</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2424" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7802440792884417" task="IE">
+<t>Woman has surgery to get third breast: The three most statistically unlikely pairs of boobs</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2425" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8858860926984946" task="IE">
+<t>Triple-breasted woman pictured before operation and vows surgery footage will prove third boob is no hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2426" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9408863275740971" task="IE">
+<t>Jasmine Tridevil: The woman with three breasts</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2427" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8999879691809387" task="IE">
+<t>Jasmine Tridevil: Woman with three breast denies surgery hoax claims</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2428" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7879297459078176" task="IE">
+<t>Three-breasted Florida woman Jasmine Tridevil insists third boob is real, but police report shows she once lost prosthesis</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2429" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5653257369451339" task="IE">
+<t>Florida woman has surgery to add third breast to make herself unattractive to men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2430" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7997605101336254" task="IE">
+<t>Woman with three breasts is a fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2431" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9288436808162801" task="IE">
+<t>Breast Chancer</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2432" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7120877494534159" task="IE">
+<t>I had a third breast implant so I can turn off men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2433" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9307625896243843" task="IE">
+<t>3-Boobed Woman a Fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2434" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.82457321859589" task="IE">
+<t>Florida woman gets third breast to become unattractive 32</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2435" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9007293055958814" task="IE">
+<t>Three-breasted woman outed as fake by Tampa police</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2436" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9710810363427417" task="IE">
+<t>Tampa woman claims to add 3rd breast</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2437" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.914712742674318" task="IE">
+<t>Woman with three breasts: Real or hoax?</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2461" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8657363665783163" task="IE">
+<t>1901 Boston time capsule yields small red book</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2462" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9638431186417956" task="IE">
+<t>Oldest Time Capsule in U.S. Unearthed in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2463" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9403099636605338" task="IE">
+<t>Founding Fathers-Era Time Capsule Found in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2464" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9431828029005216" task="IE">
+<t>Time Capsule from Paul Revere and Samuel Adams Discovered in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2465" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9354529853321887" task="IE">
+<t>State House time capsule from 1795 unearthed</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2466" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9354529853321887" task="IE">
+<t>Paul Revere's 1795 time capsule unearthed</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2467" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8746164148350875" task="IE">
+<t>America's oldest time capsule unearthed at Boston statehouse after being buried in 1795 by Sam Adams and Paul Revere</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2468" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8282587106240611" task="IE">
+<t>Small red book among finds in 113-year-old Boston time capsule</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2480" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7651082417643486" task="IE">
+<t>A really devoted man spent 460 on surgery for his constipated goldfish</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2481" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9052965806701684" task="IE">
+<t>Constipated goldfish operated on by North Walsham vet</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2482" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7917196236522529" task="IE">
+<t>Devoted pet owner spends 300 to save his GOLDFISH after it became constipated</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2483" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8340623635230048" task="IE">
+<t>Photo gallery: Amazing 300 operation by North Walsham vet on constipated goldfish</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2484" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.74183982000842" task="IE">
+<t>Norfolk Man Pays 300 For His Constipated Goldfish To Have Lifesaving Surgery</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2485" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7193342055570666" task="IE">
+<t>British man pays 460 to save constipated goldfish's life</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2520" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9375031629936863" task="IE">
+<t>A Wanted Man Responded To A Police Facebook Post That He Would Turn Himself In</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2521" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7908478145011273" task="IE">
+<t>Rodney Constantine keeps Facebook promise and turns himself in to police</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2522" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7956334884353677" task="IE">
+<t>See you Monday: N.L. man keeps Facebook promise to police, turns himself in</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2523" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9309254632059368" task="IE">
+<t>Rodney Constantine, Newfoundland Suspect, Keeps Facebook Pledge To Turn Himself In</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+</entailment-corpus>

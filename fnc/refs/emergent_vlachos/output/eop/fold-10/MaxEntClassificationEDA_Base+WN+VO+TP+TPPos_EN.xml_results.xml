@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="97" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9794986585422227" task="IE">
+<t>WSJ: Amazon Is Opening a Brick-and-Mortar Store in Manhattan</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="98" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9677316891864676" task="IE">
+<t>Amazon to Open First Brick-and-Mortar Site</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="99" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.965329853038345" task="IE">
+<t>Amazon is opening its first physical store</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="100" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9442050943736662" task="IE">
+<t>Amazon Is Going To Open A Physical Store</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="101" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9893065899355297" task="IE">
+<t>Amazon.com to open first physical store in Manhattan: DJ</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="102" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9772493730988433" task="IE">
+<t>Amazon's first brick-and-mortar store said to open in Manhattan</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="103" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9483856527243663" task="IE">
+<t>Amazon is about to open its first-ever physical store in New York City</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="104" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8683958607208769" task="IE">
+<t>Amazon to launch first brick-and-mortar store, report says</t>
+<h>Amazon will open its first physical store in NY this year</h>
+</pair>
+<pair id="105" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9534864329759153" task="IE">
+<t>Amazon reportedly developing a new weapon to combat Netflix</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="106" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5947098550274333" task="IE">
+<t>Amazon plans ad-supported video streaming service - NY post</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="107" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9334423466723843" task="IE">
+<t>Amazon plans a streaming-video alternative</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="108" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.917420670282118" task="IE">
+<t>Amazon Reportedly Planning An Ad-Supported Video Service That Will Be Cheaper Than Netflix</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="109" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7844632643549139" task="IE">
+<t>Amazon reportedly launching free, ad-supported video service updated</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="110" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9278246899107229" task="IE">
+<t>Amazon to Launch Ad-Supported Streaming Service</t>
+<h>Amazon will launch an ad-supported video streaming service in early 2015</h>
+</pair>
+<pair id="113" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8907761742274377" task="IE">
+<t>Apple's next major Mac revealed: the radically new 12-inch MacBook Air</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="114" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8247585452854155" task="IE">
+<t>Huge new leak reveals Apple's radically redesigned 12-inch MacBook Air</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="115" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9400658819247557" task="IE">
+<t>A Radically Redesigned 12-Inch MacBook Air Is Coming</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="116" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9011971559259799" task="IE">
+<t>The Next MacBook Air Will Be A 12-Inch Beauty With An Edge-To-Edge Keyboard</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="117" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7401652523264759" task="IE">
+<t>Apple's New MacBook Will Be A Thinner, Cleaner, Faster 12-Inch MacBook Air</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="118" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9844236391647823" task="IE">
+<t>Apple may launch 12-inch MacBook Air with Retina Display</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="119" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8256011543656572" task="IE">
+<t>Apple 12-Inch MacBook Air Details Emerge Device Could Be Thinner, Lighter Than Current Model</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="120" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7868936679456728" task="IE">
+<t>Apple's 12-Inch Retina MacBook Air Shown in Artist's Renditions</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="121" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7150396948633708" task="IE">
+<t>Apple's next MacBook could be a 12-inch MacBook Air</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="122" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7739440688150321" task="IE">
+<t>12in Retina MacBook Air release date rumours: All-new 12in MacBook Air design for 2015, launching at WWDC?</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="123" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.90008492962236" task="IE">
+<t>new 12-inch MacBook Air slims down, has single USB port</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="124" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8182274601171367" task="IE">
+<t>Apple Reportedly Preparing 12-inch MacBook Air, Thinner and Lighter than Existing Models</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="125" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7900356773838288" task="IE">
+<t>Apple working on 12-inch MacBook Air</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="126" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7869449060575231" task="IE">
+<t>Is Apple about to launch a totally redesigned, 12-inch MacBook Air?</t>
+<h>Apple will launch a 12 MacBook Air in 2015</h>
+</pair>
+<pair id="334" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7614556156597092" task="IE">
+<t>Boy, 16, secretly films sex with teacher then uploads it to WhatsApp</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="335" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9251774999080692" task="IE">
+<t>This Woman Is Wrongly Being Called A Sexual Predator After Her Private Sex Tape Was Used For A Hoax</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="336" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7438472997434069" task="IE">
+<t>Has this Argentine woman fallen victim to a cruel online hoax? Adult video claiming to show teacher having sex with pupil is not all it seems</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="337" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8633028483486082" task="IE">
+<t>Female teacher facing sack after making SEX TAPE with teenager</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="338" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8168236263561004" task="IE">
+<t>Teacher sex tape exposed as a FAKE after internet detectives trace the origin of pornographic clip</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="339" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7212490704064463" task="IE">
+<t>Teacher suspended after sex session with teen pupil ends up on hardcore porn website</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="340" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7586439365162092" task="IE">
+<t>Lucita Sandoval sex tape hoax: Viral Argentine video features college student not 16-year-old boy</t>
+<h>Teacher had sex with 16-year-old</h>
+</pair>
+<pair id="401" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8441393581790813" task="IE">
+<t>GCPD Solved Stolen Batmobile Case?</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="402" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8608109222066472" task="IE">
+<t>Holy Theft Batmobile Stolen from Batman v Superman'???</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="403" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9068113611247722" task="IE">
+<t>Batmobile Rumored To Have Been Stolen From Batman V. Superman: Dawn Of Justice Set</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="404" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.710829982672228" task="IE">
+<t>Detroit Police Issue Statement That The Batmobile Is Safe</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="405" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6770408483817031" task="IE">
+<t>Was The Batmobile Stolen In Detroit?</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="406" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5230010368959753" task="IE">
+<t>The Batmobile Might Have Been Stolen In Detroit UPDATE: Nope</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="407" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9554309637213058" task="IE">
+<t>BATMAN VS. SUPERMAN BATMOBILE STOLEN</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="408" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7781647710911317" task="IE">
+<t>The Case of the Stolen Batmobile Has Been Solved</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="409" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8067299505939483" task="IE">
+<t>Zack Snyder Makes Fun of Stolen Batmobile Rumor with New Image</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="410" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5993254411276804" task="IE">
+<t>Has The Batman Vs. Superman Batmobile Been Stolen In Detroit? UPDATE</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="411" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8647380271817338" task="IE">
+<t>UPDATE: BATMAN v SUPERMAN Batmobile Reportedly Stolen By Shocker Detroit Locals</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="412" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5667460212010923" task="IE">
+<t>it is back The incredible new Batmobile takes a spin around Detroit... after rumors it had been STOLEN</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="413" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.804706003916438" task="IE">
+<t>At CBS Detroit, Fan Site Scuttlebutt Is Enough to Report False Batmobile Theft</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="414" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8485092165447089" task="IE">
+<t>Batmobile stolen in Detroit? Good one, joker</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="415" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5500989641797827" task="IE">
+<t>Batmobile Stolen From Batman V Superman: Dawn Of Justice Set? Report Claims That One Of The Batmobile Models Is Missing Detroit Locals Responsible?</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="416" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8153933066857414" task="IE">
+<t>Zack Snyder's Batman V Superman: Dawn Of Justice Stolen Batmobile Rumor Put To Rest</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="417" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8003834402882457" task="IE">
+<t>Zack Snyder Kills Stolen Batmobile Rumor With Great Photo</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="418" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8547415093253623" task="IE">
+<t>Zack Snyder Responds to Fake Stolen Batmobile Report</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="419" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9465003285208485" task="IE">
+<t>LOL: RICH JOHNSTON SAYS THE BATMOBILE HAS BEEN STOLEN IN DETROIT</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="420" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9342502529537391" task="IE">
+<t>BATMOBILE NOT STOLEN, MTV CONTEST PRIZE REMAINS UNCLAIMED</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="421" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7632149309206808" task="IE">
+<t>Batmobile was not stolen: Cops</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="422" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9367468553734098" task="IE">
+<t>Batmobile Stolen From Batman v Superman: Dawn of Justice Set, Zack Snyder Knows Who Did It</t>
+<h>The Batmobile was stolen</h>
+</pair>
+<pair id="493" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8302890168021304" task="IE">
+<t>Terrorist Plot Targeting Black Friday Shoppers Uncovered</t>
+<h>There was a terrorist plot to target Black Friday shopppers</h>
+</pair>
+<pair id="533" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6229377972516207" task="IE">
+<t>DNA Results Confirm Michael Jackson Is Biological Father Of Bruno Mars</t>
+<h>A DNA test proved that Bruno Mars is Michael Jackson's son</h>
+</pair>
+<pair id="534" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8489072517589257" task="IE">
+<t>Fake-News Report Claims Michael Jackson Is Father Of Bruno Mars</t>
+<h>A DNA test proved that Bruno Mars is Michael Jackson's son</h>
+</pair>
+<pair id="535" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6404183839489183" task="IE">
+<t>No, Michael Jackson is not Bruno Mars Dad</t>
+<h>A DNA test proved that Bruno Mars is Michael Jackson's son</h>
+</pair>
+<pair id="536" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8803428580372703" task="IE">
+<t>Penis Spray-Painted on a 2.5 Million Car Was Just for a Prank Video</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="537" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8919421098890825" task="IE">
+<t>Vandal paints penis on 1.5million Bugatti Veyron</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="538" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9175677067115913" task="IE">
+<t>Bugatti Veyron Vandalized With Penis Graffiti? Viral Photo is not What It Seems</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="539" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8218014007852446" task="IE">
+<t>Someone Spraypainted A Penis On A 1.5m Bugatti Veyron And It Went Very Viral</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="540" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7476935384334261" task="IE">
+<t>Vandals spray a rude drawing on 2.4m Bugatti Veyron but fortunately for the owner it is all a prank</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="541" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8142894035760426" task="IE">
+<t>Someone painted a graffiti dick on a 2.5 million car</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="542" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9293396925721581" task="IE">
+<t>Penis Drawn On Bugatti Veyron Could Be World's Most Expensive Car Vandalism</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="543" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8438496716219567" task="IE">
+<t>Cheeky vandals paint giant penis on bonnet of 1.5 million Bugatti Veyron sportscar</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="544" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9155925794497842" task="IE">
+<t>Penis graffiti drawn on 1.5million Bugatti Veyron</t>
+<h>Someone vandalized a Bugatti sportscar with a penis drawing</h>
+</pair>
+<pair id="550" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9266175451327927" task="IE">
+<t>Woman Says She Gave Her Cheating Man a Printout of His DMs for Christmas</t>
+<h>A woman broke up with her cheating boyfriend by printing out and wrapping his incriminating Twitter direct messages</h>
+</pair>
+<pair id="551" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.961370430276049" task="IE">
+<t>This Woman Exposed Her Cheating Boyfriend With A Brilliant Christmas Gift</t>
+<h>A woman broke up with her cheating boyfriend by printing out and wrapping his incriminating Twitter direct messages</h>
+</pair>
+<pair id="571" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6282947771694034" task="IE">
+<t>Christian Bale in talks to play Steve Jobs in upcoming Sorkin film</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="572" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5860127636315735" task="IE">
+<t>Oscar winner Christian Bale to play Steve Jobs in upcoming biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="573" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8440722678140317" task="IE">
+<t>Christian Bale passes on role of Steve Jobs, actor reportedly felt he was not right for part</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="574" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8945331158858102" task="IE">
+<t>Batman Set To Play Steve Jobs In Upcoming Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="575" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8279624333512353" task="IE">
+<t>Christian Bale Is Steve Jobs</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="576" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7583833354413296" task="IE">
+<t>Christian Bale Just Bailed on the Steve Jobs Movie</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="577" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6863714007375602" task="IE">
+<t>Christian Bale Will Play Steve Jobs</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="578" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7709472565751828" task="IE">
+<t>Who Should Play Steve Jobs Now That Christian Bale Quit?</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="579" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7491529649411249" task="IE">
+<t>Aaron Sorkin Confirms Christian Bale Will Play Steve Jobs</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="580" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7162676872045379" task="IE">
+<t>Christian Bale Drops Out of Steve Jobs Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="581" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6360624450141349" task="IE">
+<t>Christian Bale to Play Steve Jobs in New Movie</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="582" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6897070974051465" task="IE">
+<t>Christian Bale Will Play Steve Jobs In Sony's Next Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="583" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7162676872045379" task="IE">
+<t>Christian Bale Drops Out Of Steve Jobs Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="584" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9786720234915901" task="IE">
+<t>Christian Bale will not play Steve Jobs</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="585" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.611688144472069" task="IE">
+<t>Christian Bale Exits Steve Jobs Movie Exclusive</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="586" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6699268787656241" task="IE">
+<t>Christian Bale in Talks to Play Steve Jobs Exclusive</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="587" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8093831325092256" task="IE">
+<t>Christian Bale will not Play Steve Jobs After All</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="588" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8660570486555158" task="IE">
+<t>Christian Bale in talks to play Steve Jobs for Sony, Danny Boyle</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="589" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5984949979113486" task="IE">
+<t>Christian Bale in Talks to Star in Sony's Steve Jobs Film</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="590" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7427126221199294" task="IE">
+<t>Christian Bale Pulls Out of Upcoming Steve Jobs Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="591" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8053773388488231" task="IE">
+<t>That Was Fast: Christian Bale Bails on Steve Jobs Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="592" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.692329758768436" task="IE">
+<t>Christian Bale quits Steve Jobs movie</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="593" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7823672949710002" task="IE">
+<t>Christian Bale set to play Steve Jobs in forthcoming biopic of Apple co-founder</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="594" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5960484376844677" task="IE">
+<t>Christian Bale to play Steve Jobs in upcoming biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="595" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6674459342225507" task="IE">
+<t>Christian Bale in Talks to Play Steve Jobs in Danny Boyle's Biopic</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="596" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9786720234915901" task="IE">
+<t>Christian Bale will not play Steve Jobs</t>
+<h>Christian Bale to play Steve Jobs in an upcoming bio flick</h>
+</pair>
+<pair id="706" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7275253642201468" task="IE">
+<t>No, ESPN is not having an all-male domestic violence panel tonight</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="707" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9255194445572655" task="IE">
+<t>That ESPN Domestic Violence Panel You Keep Hearing About is not Real</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="708" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.941362560099499" task="IE">
+<t>UPDATED 11 Men and 0 Women on Tonight's ESPN Domestic Violence Panel</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="709" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9577689182368161" task="IE">
+<t>ESPN's Domestic Violence Panel Is Missing Something Important</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="710" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9394583581366649" task="IE">
+<t>ESPN's All-Male Monday Night Football Panel On Domestic Violence Is Not Real</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="711" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9603232354308662" task="IE">
+<t>ESPN's Domestic Abuse Tonight Panel Will Be 100 Dudes</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="712" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9348649777243191" task="IE">
+<t>ESPN to save NFL's image with all-male domestic abuse discussion</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="713" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6878084555560253" task="IE">
+<t>There was never a panel discussion on domestic violence planned for ESPN's Monday Night Football pregame show</t>
+<h>ESPN planned a special domestic violence panel that did not include any women</h>
+</pair>
+<pair id="725" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9304243907404409" task="IE">
+<t>Ferguson Protester's Photo Gets Edited Into Racist Meme, Goes Viral</t>
+<h>A Ferguson protester held up a sign that read, No mother should have to fear for her son's life every time he robs a store.</h>
+</pair>
+<pair id="726" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9616775027392974" task="IE">
+<t>Dumb Racists Photoshop Ferguson Protester Into Awful Viral Meme</t>
+<h>A Ferguson protester held up a sign that read, No mother should have to fear for her son's life every time he robs a store.</h>
+</pair>
+<pair id="751" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8688419192069928" task="IE">
+<t>Apple Orders More Than 5 Million Watches for Initial Run</t>
+<h>Apple has ordered at least 5 million watches for its first run</h>
+</pair>
+<pair id="774" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7177391546420369" task="IE">
+<t>Missing Fort Carson item not a nuclear weapon - despite Internet rumors</t>
+<h>Fort Carson is locked down because of a missing nuclear weapon</h>
+</pair>
+<pair id="775" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Missing Nuke In Colorado Sparks Intense Russian Fears</t>
+<h>Fort Carson is locked down because of a missing nuclear weapon</h>
+</pair>
+<pair id="776" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9133697834504618" task="IE">
+<t>Apple May Be Reintroducing The 4-inch iPhone</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="777" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7467399855445084" task="IE">
+<t>Unlikely rumor claims Apple will bring back the 4-inch iPhone for 2015</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="778" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9848076822813884" task="IE">
+<t>Apple to launch new 4 iPhone next year</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="779" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9194659989364126" task="IE">
+<t>Sketchy Rumor Claims Apple Planning New 4-Inch iPhone for 2015</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="780" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9532999764187039" task="IE">
+<t>Rumor: new 4-inch iPhone on the way</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="781" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7808152809145217" task="IE">
+<t>Apple iPhone Mini with 4-inch Display Set to Replace iPhone 5c: Rumor</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="782" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9156489773942587" task="IE">
+<t>4-inch iPhone 6 reported to be in development</t>
+<h>Apple will launch a 4-inch iPhone in 2015</h>
+</pair>
+<pair id="895" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9157767292539306" task="IE">
+<t>Unconfirmed Reports Say U.K. Hostage Held By ISIS Found Innocent By Sharia Court</t>
+<h>ISIS hostage Alan Henning found innocent by Sharia court</h>
+</pair>
+<pair id="896" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Islamic State Declares Captured Aid Worker to be Innocent</t>
+<h>ISIS hostage Alan Henning found innocent by Sharia court</h>
+</pair>
+<pair id="897" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9337583242293837" task="IE">
+<t>ISIS Hostage Alan Henning's Wife Invokes Sharia Law in New Plea</t>
+<h>ISIS hostage Alan Henning found innocent by Sharia court</h>
+</pair>
+<pair id="1770" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8451661115783724" task="IE">
+<t>Afghan family kills 25 Taliban, media report</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1771" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5161384715521865" task="IE">
+<t>Afghan woman kills 25 Taliban rebels to avenge her son's murder</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1772" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8472882736990588" task="IE">
+<t>Afghan Family Kills 25 In Revenge For Son's Death</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1773" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6562424205232741" task="IE">
+<t>Grieving Afghan mother takes bloody revenge by killing 25 Taliban militants during seven hour battle after they gunned down her son</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1774" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8940025285916035" task="IE">
+<t>Afghan Mother Kills 25 Taliban Fighters In Seven-Hour Gunbattle After Watching Her Son Slain In Ambush</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1775" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7242769715376932" task="IE">
+<t>Mum helps kill 25 Taliban fighters during SEVEN-hour gun battle in revenge for cop son's death</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1776" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9044068327847041" task="IE">
+<t>Afghan Mother Reza Gul Takes Up Slain Son's Gun to Kill Taliban Attackers</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1777" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.709042549093957" task="IE">
+<t>Afghan woman picks up dead son's gun, helps kill 25 Taliban militants to save village</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1778" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8039789604701932" task="IE">
+<t>Afghan Mother Kills 25 Taliban</t>
+<h>An Afghan woman avenged her son's death by helping kill 25 Taliban fighters</h>
+</pair>
+<pair id="1779" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9623616394892063" task="IE">
+<t>MICROSOFT IN SERIOUS DISCUSSIONS TO PURCHASE MINECRAFT DEV MOJANG</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1780" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7276663086495547" task="IE">
+<t>Minecraft Is Expected to Be Acquired by Microsoft</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1781" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7850369526119756" task="IE">
+<t>Microsoft Trying To Buy Mojang, Creators Of Minecraft</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1782" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5567774646748258" task="IE">
+<t>Microsoft Near Deal to Buy Minecraft Maker Mojang</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1783" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8440517000038188" task="IE">
+<t>Yes, we are being bought by Microsoft</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1784" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5817880548616856" task="IE">
+<t>Microsoft to buy Minecraft creator Mojang for 2.5B</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1785" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6834273376796969" task="IE">
+<t>Microsoft is reportedly buying Minecraft developer Mojang for 2 billion</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1786" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7478619633618621" task="IE">
+<t>Microsoft may buy Minecraft studio Mojang</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1787" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6305498371329009" task="IE">
+<t>Microsoft nears deal to buy Minecraft maker Mojang : WSJ</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1788" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7623944297077025" task="IE">
+<t>Microsoft said to be buying the maker of Minecraft for 2 billion</t>
+<h>Microsoft is going to acquire Mojang AB</h>
+</pair>
+<pair id="1936" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9573366913074958" task="IE">
+<t>Stolen Member</t>
+<h>A Chinese man's penis was stolen by thieves</h>
+</pair>
+<pair id="1937" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8807094690176599" task="IE">
+<t>Four masked men break into migrant's home and rip off his penis after he had affairs with local women</t>
+<h>A Chinese man's penis was stolen by thieves</h>
+</pair>
+<pair id="1938" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8349776587528915" task="IE">
+<t>Fei Lin's Penis Stolen By Thieves</t>
+<h>A Chinese man's penis was stolen by thieves</h>
+</pair>
+<pair id="1939" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7818094962374031" task="IE">
+<t>Fei Lin's Penis Stolen By Thieves: Chinese Man Allegedly Had Penis Stolen By Jealous Lovers</t>
+<h>A Chinese man's penis was stolen by thieves</h>
+</pair>
+<pair id="1998" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8932189170292258" task="IE">
+<t>Dead for 48 minutes, this Catholic Priest claims God is female</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="1999" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9388675270865686" task="IE">
+<t>Catholic Priest Claims God Is Female After Clinically Dead Experience</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2000" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6812450962760332" task="IE">
+<t>Priest died and met God and she is a woman</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2001" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9108244240190475" task="IE">
+<t>Catholic Priest Dies for 48 Minutes, Comes Back to Life and Claims God Is Female</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2002" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7778909835475339" task="IE">
+<t>Back-from-the-dead Catholic priest claims God is a female</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2003" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8903399380532898" task="IE">
+<t>Catholic priest dies for 48 mins, wakes up claiming God is a woman</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2004" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7955928180988036" task="IE">
+<t>Back-from-the-dead Catholic priest claims God is a female...</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2005" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9362738453801532" task="IE">
+<t>Priest Dies, Wakes Up, Claims God Is a Woman. Huh?</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2006" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Etats-Unis: Mort pendant 48 minutes, un prtre affirme que Dieu est une femme</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2007" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9136187958545563" task="IE">
+<t>Op-Ed: Hoax Priest who never existed claims he died, saw female God</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2008" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9263775491145657" task="IE">
+<t>Catholic Priest Dead For 48 Minutes, Is Miraculously Revived His Revelations About God Are Even More Shocking</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2009" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8530263970423836" task="IE">
+<t>God is a woman- Priest who died for 48 minutes claims</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2010" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8224497432782731" task="IE">
+<t>Hoax Alert: Father O'Neal, Who Has Met God and Thinks She is a Woman, Is Made Up Just Like God Herself</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2011" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9311843369721778" task="IE">
+<t>God Is A Woman Resurrected Father Narated</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2012" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8794799025174643" task="IE">
+<t>Dead for 48 minutes, Catholic Priest claims God is female</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2013" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8933913800103462" task="IE">
+<t>Priest claim of seeing God as a woman dismissed as hoax</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2014" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8328253179792298" task="IE">
+<t>That Story About a Catholic Priest Dying, Seeing God as a Woman, and Coming Back to Life? it is Almost Definitely Fake</t>
+<h>A Catholic priest who was declared clinically dead says he met God and she is a woman</h>
+</pair>
+<pair id="2028" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7358518769283202" task="IE">
+<t>Joan Rivers Doctor Reportedly Took a Selfie Before Her Cardiac Arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2029" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8597748591707602" task="IE">
+<t>Doctor Took Mid-Surgery Selfie with Unconscious Joan Rivers</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2030" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8532968910239237" task="IE">
+<t>Doctor took selfie with Joan Rivers while star was under anesthesia, CNN says</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2031" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8708969811612398" task="IE">
+<t>Selfie-Taking Doc's Unauthorized Biopsy May Have Killed Joan Rivers</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2032" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.622450755473584" task="IE">
+<t>Joan Rivers doctor snapped a selfie before biopsy surgery</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2033" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7362996691753338" task="IE">
+<t>Joan Rivers Personal Doctor Allegedly Took A Selfie During Her Throat Procedure</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2034" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9045965507488477" task="IE">
+<t>Disgusting Joan Rivers Doc Gwen Korovin's Sick Selfie EXPOSED Last Photo Of Comic Icon, When She Was Under Anesthesia, At Center Of Medical Investigation</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2035" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9172957530541154" task="IE">
+<t>Explosive New Details Of Joan Rivers Medical Crisis: Doctor Snapped Selfie With Legendary Comic Performed Unauthorized Biopsy While She Was Under Anesthesia</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2036" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8611786479152281" task="IE">
+<t>Joan Rivers Personal Doctor Allegedly Took A Selfie Before Her Biopsy And Cardiac Arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2037" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8911905884277809" task="IE">
+<t>Doctor Snapped A Selfie While Joan Rivers Was Under Anesthesia</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2038" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5460816443430675" task="IE">
+<t>Source: Joan Rivers doctor took selfie, began biopsy before her cardiac arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2039" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7320228428741204" task="IE">
+<t>Joan Rivers doctor denies unauthorized procedure, selfie before cardiac arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2040" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6575374032588336" task="IE">
+<t>Joan Rivers's doctor took a SELFIE with the comedian as she was under anesthesia and just moments before she went into cardiac arrest that killed her</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2041" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7863256421546304" task="IE">
+<t>Throat specialist to the stars allegedly involved in fatal Joan Rivers procedure denies taking selfie with star as she releases statement saying she will not comment on tragic incident</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2042" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9714525353367902" task="IE">
+<t>Joan Rivers doctor took selfie during procedure</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2043" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8611786479152281" task="IE">
+<t>Joan Rivers Personal Doctor Allegedly Took A Selfie Before Her Biopsy And Cardiac Arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2044" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8338896518521307" task="IE">
+<t>Joan Rivers Doctor Took a Selfie During Procedure: CNN</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2045" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9189521175221946" task="IE">
+<t>Doc calls macabre selfie claims completely crazy</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2046" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.883165594504811" task="IE">
+<t>Joan Rivers Death Preventable? Melissa Rivers Taking Legal Action, News Of Doctor's Selfie Surfaces</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2047" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8968637265424723" task="IE">
+<t>Joan Rivers Doctor Took a Selfie While She Was Under Anesthesia Report</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2048" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7915553726214501" task="IE">
+<t>Source: Joan Rivers doc did biopsy, selfie</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2049" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7511640530293071" task="IE">
+<t>Joan Rivers doctor took selfie, began biopsy, source says</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2050" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8323429440815574" task="IE">
+<t>Joan Rivers Doctor Reportedly Took Selfie, Biopsy Right Before Her Heart Attack</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2051" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9328110928727262" task="IE">
+<t>Joan Rivers death: Biopsy doctor took SELFIE with star while she was under anesthesia moments before cardiac arrest</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2052" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6123671917760677" task="IE">
+<t>Joan Rivers selfie doctor DENIES performing biopsy and taking photo while star was under anesthesia</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2053" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6147532554175593" task="IE">
+<t>Joan Rivers doctor took a selfie while she was out cold before doing an unauthorised biopsy</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2054" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7409152145830104" task="IE">
+<t>Joan Rivers doctor snapped selfie during throat surgery: report</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2055" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9725716684459574" task="IE">
+<t>Joan Rivers doctor took selfie before biopsy</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2056" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8754336959843262" task="IE">
+<t>Joan Rivers Doctor Denies Selfie</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2057" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8301115029973792" task="IE">
+<t>Joan Rivers Doctor Snapped Selfie During Throat Procedure Report</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2058" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.903336892458447" task="IE">
+<t>Joan Rivers: Doctor Took Selfie With Unconscious Comedian, Performed Biopsy Without Consent -- Details</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2059" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8550756588720756" task="IE">
+<t>Joan Rivers's Personal Doctor Denies Taking Operating-Room Selfie</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2060" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7099055087867283" task="IE">
+<t>Joan Rivers Doctor Allegedly Took a Selfie During Her Throat Surgery</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2061" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6785087225148572" task="IE">
+<t>Doctor took a selfie when Joan Rivers was under anesthesia</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2062" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5218991126126108" task="IE">
+<t>Gwen Korovin, Joan Rivers's doctor, denies taking selfie</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2063" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7915553726214501" task="IE">
+<t>Source: Joan Rivers doc did biopsy, selfie</t>
+<h>Joan Rivers doctor took a selfie during her operation</h>
+</pair>
+<pair id="2095" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5758348130999495" task="IE">
+<t>Saudi cleric says snowmen are anti-Islamic</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2096" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8657218347276876" task="IE">
+<t>Saudi fatwa banning snowmen triggers heated debate</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2097" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6409238571059405" task="IE">
+<t>Saudi cleric condemns snowmen as anti-Islamic</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2098" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9352602083347683" task="IE">
+<t>Saudi Arabia Cleric Issues Fatwa Against Building Snowmen</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2099" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7067866175720439" task="IE">
+<t>Saudi Arabian cleric issues fatwa against snowmen</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2100" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8317349150372203" task="IE">
+<t>Snowmen Declared Anti-Islamic As Snow Falls in Saudi Arabia</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2101" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6409238571059405" task="IE">
+<t>Saudi cleric condemns snowmen as anti-Islamic</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2102" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.878858601968279" task="IE">
+<t>Saudi Arabia fatwa over building of snowmen</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2103" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6699781629003017" task="IE">
+<t>Saudi cleric issues fatwa on snowmen</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2104" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7067866175720439" task="IE">
+<t>Saudi cleric issues fatwa against building snowmen</t>
+<h>A Saudi cleric declared that snowmen are anti-Islamic</h>
+</pair>
+<pair id="2486" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9599031284894657" task="IE">
+<t>This resignation letter in a video-game could be the greatest ever</t>
+<h>A developer quit his job with an X-rated message inserted in a video game called Electric Boogie</h>
+</pair>
+<pair id="2487" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9785590454528443" task="IE">
+<t>This Is The Most Epic Way To Quit Your Job</t>
+<h>A developer quit his job with an X-rated message inserted in a video game called Electric Boogie</h>
+</pair>
+<pair id="2488" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9432137543011001" task="IE">
+<t>iPhone Game Developer Quits Job By Hiding The Greatest Letter Of Resignation Ever Inside His Game</t>
+<h>A developer quit his job with an X-rated message inserted in a video game called Electric Boogie</h>
+</pair>
+<pair id="2489" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9522674809838614" task="IE">
+<t>Developer quits using the app he was hired to makeor did he?</t>
+<h>A developer quit his job with an X-rated message inserted in a video game called Electric Boogie</h>
+</pair>
+<pair id="2490" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.934212695046197" task="IE">
+<t>Electric Boogie Developer Leaves Secret Resignation Letter To Boss At The End Of The Game Video</t>
+<h>A developer quit his job with an X-rated message inserted in a video game called Electric Boogie</h>
+</pair>
+<pair id="2542" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5269215207841528" task="IE">
+<t>Wife chops off cheating husband's penis twice then stray animal steals it</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2543" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8724132523470726" task="IE">
+<t>Woman Reportedly Cuts Off Husband's Penis Twice in One Night</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2544" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5358678633350121" task="IE">
+<t>Wife chops off cheating husband's penis, twice</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2545" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7205293629774656" task="IE">
+<t>Woman cuts off husband's penis twice after catching him cheating</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2546" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.591940379449903" task="IE">
+<t>Wife chopped her husband's penis off after she discovered he had cheated on her then cut it off AGAIN after surgeons managed to reattach it in China</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2547" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8152354819957502" task="IE">
+<t>Enraged spouse chops off unfaithful husband's manhood TWICE</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2548" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5682233465487764" task="IE">
+<t>China: Wife chops off cheating husband's penis twice with scissors and throws it out of window</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2549" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8731825291832506" task="IE">
+<t>Jealous Wife Who Chopped Off Husband's Penis For Cheating On Her, Chops It Off A Second Time</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2550" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7046188495038843" task="IE">
+<t>Jilted wife chopped off husband's penis TWICE with scissors after catching him cheating</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2551" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5358678633350121" task="IE">
+<t>Wife chops off cheating husband's penis, twice</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2552" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7248771536495681" task="IE">
+<t>Jilted wife chops off two-timing hubby's manhood twice</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2553" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8813593787112636" task="IE">
+<t>Woman Cuts Off Husband's Penis Twice, Then Throws It Out the Window</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2554" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9407272898246111" task="IE">
+<t>Wife cuts off husband's penis TWICE after catching him cheating</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+<pair id="2555" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9213392425693705" task="IE">
+<t>Man in China recovering in hospital after wife chopped off his penis</t>
+<h>A woman cut off her husband's penis twice</h>
+</pair>
+</entailment-corpus>

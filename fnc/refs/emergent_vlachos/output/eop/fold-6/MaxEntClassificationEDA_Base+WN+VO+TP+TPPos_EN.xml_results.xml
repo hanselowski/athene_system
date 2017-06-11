@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="0" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8509023353944455" task="IE">
+<t>BMO forecasts 19M Apple Watch sales in 2015, with more than half selling in holiday season</t>
+<h>Apple will sell 19 million Apple Watches in 2015</h>
+</pair>
+<pair id="19" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8955759384873807" task="IE">
+<t>Iraq Says Arrested Woman Is Not The Wife of ISIS Leader al-Baghdadi</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="20" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8619067036630648" task="IE">
+<t>DNA Tests Confirm Lebanon Is Holding ISIS Leader's Child</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="21" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7489199896145959" task="IE">
+<t>DNA test confirms child is IS head Abu Bakr al-Baghdadi's daughter</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="22" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.961862430063829" task="IE">
+<t>Lebanon detains wife and son of Al-Baghdadi</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="23" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9272181759733334" task="IE">
+<t>Lebanon confirms holding ISIS chief's kin</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="24" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8221551923547977" task="IE">
+<t>Lebanon holding IS leader's daughter and ex-wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="25" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9162285714138091" task="IE">
+<t>Confusion Surrounds Capture Of ISIS Leader's Wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="26" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8789787909920231" task="IE">
+<t>Mystery surrounds arrest of woman who may be ISIS leader's wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="27" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.778785901582677" task="IE">
+<t>Iraq claims ISIS leader al-Baghdadi's wife has NOT been arrested, despite Lebanon insisting woman detained at border told them she was Islamist extremist's spouse</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="28" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8314752937752565" task="IE">
+<t>DNA tests prove Lebanon IS holding ISIS chief al-Baghdadi's ex-wife and daughter after they were caught with fake passports</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="29" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.642528113636102" task="IE">
+<t>Wife Of ISIS Leader Abu Bakr al-Baghdadi Detained In Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="30" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5787891019995421" task="IE">
+<t>Iraq Denies Lebanon Captured Abu Bakr al-Baghdadi's Wife and Child</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="31" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6759185873440304" task="IE">
+<t>Isis leader Abu Bakr al-Baghdadi's wife and son detained in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="32" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6130318514308641" task="IE">
+<t>Wife and son of Islamic State leader Abu Bakr al-Baghdadi detained in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="33" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5020678099261361" task="IE">
+<t>Wife and son of Isil leader Abu Bakr al-Baghdadi detained at Lebanon border</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="34" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9295716843437162" task="IE">
+<t>The Arrest of the ISIS Leader's Wife and Son</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="35" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9309090240801516" task="IE">
+<t>Islamic State leader's family detained by Lebanon, officials say</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="36" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7382862653109533" task="IE">
+<t>Woman detained in Lebanon is not al-Baghdadi's wife, Iraq says</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="37" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7684865225894075" task="IE">
+<t>Wife and child of Islamic State leader Baghdadi held in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="38" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5406242965407854" task="IE">
+<t>Wife, child of Islamic State head Abu Bakr al-Baghdadi held in Lebanon, officials say</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="112" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7625457897122285" task="IE">
+<t>Apple Watch to come with AMOLED panels from LG Display</t>
+<h>The Apple Watch will include an AMOLED panel from LG Display</h>
+</pair>
+<pair id="127" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9867199372277732" task="IE">
+<t>Why the Gold Apple Watch Edition Must Cost 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="128" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5073617598853759" task="IE">
+<t>Why the most expensive Apple Watch will probably cost around 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="129" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5588727833073304" task="IE">
+<t>Gold Apple Watch Edition price? Speculators say at least 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="130" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6523052606669899" task="IE">
+<t>Would you pay 10,000 for the Apple Watch?</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="220" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9192436658328078" task="IE">
+<t>Apple: Citi Sees 550 and 950 Apple Watches, Accessory Plethora</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="221" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8652935091005135" task="IE">
+<t>Citi sees Apple Watch price points of 550 and 950 myriad accessories</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="222" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7901672789084271" task="IE">
+<t>Analyst: Apple Watch Edition to Cost 950</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="223" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8291088116624944" task="IE">
+<t>Brilliant patent details how Apple may be saving money on the 18k Gold Apple Watch</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="224" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8776436035230084" task="IE">
+<t>Apple Watch Edition Will Save On Gold With Patented Alloy, Could Start At 2,999</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="225" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.946032199890796" task="IE">
+<t>Apple Watch Edition contains new Apple gold</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="352" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5027850858444597" task="IE">
+<t>Axl Rose dead 2014 : Guns N Roses frontman killed by internet death hoax</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="353" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7407285762322423" task="IE">
+<t>Sources: Guns N Roses Frontman Axl Rose Found Dead in West Hollywood Home at Age 52</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="354" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9431104959693416" task="IE">
+<t>Axl Rose Dead? Fans Freak Out Over Death Rumors</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="355" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9530464655200832" task="IE">
+<t>The Internet Tried To Make Axl Rose Its Latest Death Hoax Victim</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="356" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9337081600223212" task="IE">
+<t>Axl Rose NOT Dead: Fake MSNBC Death Hoax Goes Viral On Facebook</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="357" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8272506156981314" task="IE">
+<t>Posted in: Celebrity News Posted: December 3, 2014 Axl Rose Dead? Of Course Not Tiresome Internet Death Hoax Plague Hits Guns N Roses Frontman</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="358" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9440733296519438" task="IE">
+<t>Axl Rose Found Dead of Shtty Hoax Website at Age 52</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="359" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.578481653714417" task="IE">
+<t>Axl Rose Dies? Guns N Roses Singer Dead West Hollywood Home at Age 52 is Fake</t>
+<h>Guns N Roses signer Axel Rose is dead</h>
+</pair>
+<pair id="383" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8494962555499126" task="IE">
+<t>Senior Western Intelligence Official Confirms London Rapper Abdel Majed Abdel Bary Is A Suspect In The Foley Killing</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="384" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6146845515667692" task="IE">
+<t>James Foley Killer Jihadi John Believed to Be Former London Rapper Abdel-Majed Abdel Bary</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="385" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9623616394892063" task="IE">
+<t>British rapper a suspect in ISIS beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="386" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8597073787912961" task="IE">
+<t>Former British Rapper Reportedly Under Investigation for James Foley Beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="387" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8449775107700018" task="IE">
+<t>The rapper, the hacker and the terror travel guide writer. Is one of these British extremists Jihadi John? Three potential Islamic State Beatles emerge as MI5 zeroes in on murderer who beheaded U.S. journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="388" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5540430888550679" task="IE">
+<t>Abdel-Majed Abdel Bary in Foley beheading: London rapper songs help identify him</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="389" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9551701837018507" task="IE">
+<t>US, UK eye rapper as British-born militant who beheaded journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="390" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9337723101458496" task="IE">
+<t>British intelligence has identified Foley's killer</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="391" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.861186565218015" task="IE">
+<t>L Jinny: London rapper turned jihadist believed to be under investigation for James Foley beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="392" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5219896117025123" task="IE">
+<t>Abdel-Majed Abdel Bary: London Rapper Identified As ISIS Militant Who Beheaded James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="393" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5967584069290116" task="IE">
+<t>London hip-hop artist Abdel-Majed Abdel Bary key suspect in hunt for killer of American journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="394" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6932511305080743" task="IE">
+<t>Abdel Majed Abdel Bary Emerges as Suspect in Foley Beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="395" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8860150102081215" task="IE">
+<t>British-born rapper is main suspect in search for ISIS jihadist who beheaded James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="396" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8856001559528296" task="IE">
+<t>Rapper identified as James Foley's executioner: reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="397" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8856001559528296" task="IE">
+<t>Rapper identified as James Foley's executioner: reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="398" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5660949294714336" task="IE">
+<t>L. Jinny? Abdel-Majed Abdel Bary, UK Rapper, Suspected in James Foley Killing: Reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="399" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Gateway Pundit</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="400" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9004519104846834" task="IE">
+<t>James Foley executioner said identified as British rapper Read more: James Foley executioner said identified as British rapper</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="464" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5925500274963567" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="465" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5655401272476307" task="IE">
+<t>Sugarhill Gang Rapper Big Bank Hank Dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="466" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6189607903394094" task="IE">
+<t>Big Bank Hank, US rapper and Sugarhill Gang founder member, dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="467" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5747804810899498" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dies at age 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="468" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6825193112672864" task="IE">
+<t>Sugarhill Gang co-founder Big Bank Hank dies</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="469" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5283717908318228" task="IE">
+<t>Sugarhill Gang's Big Bank Hank Dead At 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="470" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5654061051087398" task="IE">
+<t>Big Bank Hank, co-founder of the Sugarhill Gang, has died</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="471" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6111581255860209" task="IE">
+<t>Big Bank Hank dead: Sugarhill Gang member and rapper dies aged 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="472" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8455058128008097" task="IE">
+<t>Big Bank Hank of The Sugarhill Gang is dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="473" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5460607788193403" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dies aged 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="474" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5655401272476307" task="IE">
+<t>Sugarhill Gang Rapper Big Bank Hank Dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="475" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5548964211693981" task="IE">
+<t>Sugarhill Gang's Big Bank Hank dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="476" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7008575480552475" task="IE">
+<t>Rapper Big Bank Hank of Sugarhill Gang dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="477" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5498400536386936" task="IE">
+<t>Big Bank Hank of pioneering rap group Sugarhill Gang has died</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="492" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9668675745649428" task="IE">
+<t>Federal Judge: Enough With the Stupid Names</t>
+<h>A federal judge ruled that black women do not have independent naming rights for their children</h>
+</pair>
+<pair id="701" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9167180789044803" task="IE">
+<t>Ghost Ship</t>
+<h>A ghost ship filled with Ebola-infected rats is heading towards Florida.</h>
+</pair>
+<pair id="727" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9642081447180901" task="IE">
+<t>A Murdered Witness?</t>
+<h>20-year-old Deandre Joshua was killed in retaliation for his grand jury testimony in the Michael Brown case.</h>
+</pair>
+<pair id="856" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9344139935708399" task="IE">
+<t>Hand grenade found at Beckenham Lane property in Shortlands</t>
+<h>A grenade was found in a safe in Bromley, England</h>
+</pair>
+<pair id="883" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.994423804787975" task="IE">
+<t>Passenger Wears A Hazmat Suit To Dulles Airport PHOTO</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="884" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8998612006040763" task="IE">
+<t>Woman At Dulles Plays It Safe, Wears A Rain Poncho And Mask</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="885" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9958607860036742" task="IE">
+<t>Passenger Wears A Hazmat Suit To Dulles Airport</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="886" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9516187177953433" task="IE">
+<t>Air travelers wary of Ebola fears seen with surgical masks ... and a HAZMAT suit</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="887" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.94957047438667" task="IE">
+<t>It Begins: HazMat-Wearing Passenger Spotted At Airport</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="1006" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9573110288134017" task="IE">
+<t>Stop Sharing Those Photos of Fancy International School Lunches</t>
+<h>Photos comparing school lunches from around the world include a meagre offering from the U.S.</h>
+</pair>
+<pair id="1007" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9546280569075637" task="IE">
+<t>PICTURES: Shocking Pictures Comparing US School Lunches to Other Countries Goes Viral</t>
+<h>Photos comparing school lunches from around the world include a meagre offering from the U.S.</h>
+</pair>
+<pair id="1008" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8195030025684633" task="IE">
+<t>The school lunches that shame America: Photos reveal just how meager US students meals are compared to even the most cash-strapped of nations</t>
+<h>Photos comparing school lunches from around the world include a meagre offering from the U.S.</h>
+</pair>
+<pair id="1021" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5812278073514333" task="IE">
+<t>Debunk: No, Apple did not change up iPhone 6 Plus internals to avoid bending</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it does not bend</h>
+</pair>
+<pair id="1022" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7709939950203907" task="IE">
+<t>Has Apple quietly fixed its iPhone 6 Plus Bendgate problem?</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it does not bend</h>
+</pair>
+<pair id="1023" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7709939950203907" task="IE">
+<t>Has Apple quietly fixed its iPhone 6 Plus Bendgate problem?</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it does not bend</h>
+</pair>
+<pair id="1024" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8726083119459609" task="IE">
+<t>iFixit Debunks iPhone 6 Plus Reinforcement Claims</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it does not bend</h>
+</pair>
+<pair id="1025" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8587447038415893" task="IE">
+<t>Next-gen iPhone rumored to sport dual-lenses, DSLR quality in biggest camera jump ever</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1026" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9071956662357864" task="IE">
+<t>iPhone 6s ... transfiguration Nurse</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1027" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9634112819094304" task="IE">
+<t>Next-generation Apple iPhones features leaked</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1028" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8782914656220174" task="IE">
+<t>we are Getting More Detail On The Amazing New Camera Apple Is Planning For The Next iPhone</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1029" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8523724599645097" task="IE">
+<t>Crystal Baller: Dual-lens iPhone 6s, ARM-based Macs and 6 more crazy Apple rumors</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1030" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7280630047481493" task="IE">
+<t>iPhone 6s To Have DSLR-Quality Camera? Rumors Suggest Dual-Lens Camera, Apple Watch Force Touch Feature</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1031" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8721929777657087" task="IE">
+<t>iPhone 6s Rumored to Include 2GB of Faster RAM and Force Touch Technology</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1032" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9423475837022074" task="IE">
+<t>iPhone 6S rumors suggest new camera, HealthKit sensors</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1033" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8549187585488442" task="IE">
+<t>iPhone 6s Rumor Suggests Dual Lens Optical Zoom Camera, Pressure Sensors Inbound</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1034" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8937588501361884" task="IE">
+<t>Phone 6s Will Sport Dual-lens Camera, Healthkit Sensors: Rumor</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1291" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8546572920002711" task="IE">
+<t>ISIS Blasts Scorpion Bombs At Civilian Areas In Iraq Mosul Residents Living In Fear</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1292" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.778715232368984" task="IE">
+<t>IS using scorpion bombs to terrify Iraqi civilians</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1293" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7883282671911099" task="IE">
+<t>ISIS using bombs containing live SCORPIONS in effort to spread panic, in tactic used 2,000 years ago against Romans</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1294" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9009132070294907" task="IE">
+<t>Islamic State using SCORPION bombs to terrorise victims</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1295" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9445763936243792" task="IE">
+<t>Islamic State fighters detonate SCORPION bombs in terror siege</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1296" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9518328576728318" task="IE">
+<t>ISIS launch SCORPION BOMBS to spread panic in Iraq</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1297" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9146831429218403" task="IE">
+<t>ISIS Unleash Scorpion Bombs In Iraq</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1434" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6855302339512509" task="IE">
+<t>BREAKING: Brat Pack Judd Nelson Found Dead in Los Angeles Condo</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1435" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6528807034114753" task="IE">
+<t>do not Worry, The Breakfast Club Star Judd Nelson Is Not Dead</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1436" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7734621317901496" task="IE">
+<t>Judd Nelson rebuffs Internet rumors that he died of a drug overdose.</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1437" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.7337943461869134" task="IE">
+<t>80s Brat Pack star Judd Nelson forced to deny that he is dead after fake news story starts trending on social media</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1438" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7286127759029821" task="IE">
+<t>Judd Nelson Proof Of Life After Death Hoax: FOX News Impersonator Claims Actor Found Dead In Los Angeles Condo Updated</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1439" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.7811475682626233" task="IE">
+<t>Judd Nelson is not dead report is a hoax</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1440" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6248289751096456" task="IE">
+<t>Fake Fox News Website Reports Judd Nelson's Death for Some Reason</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1557" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9776198333853714" task="IE">
+<t>Someone Trolled Twitter Into Thinking Macklemore Joined ISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1558" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9408092668402285" task="IE">
+<t>People On Twitter Think Macklemore Has Joined ISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1559" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9262691745832229" task="IE">
+<t>Macklemore Gets Twitter-Trolled with the MacklemoreJoinedISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1560" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6478265056969198" task="IE">
+<t>Magic mushroom found growing at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1561" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7315774859655632" task="IE">
+<t>Now that is a Royal trip Alan Titchmarsh finds psychedelic mushroom in the Queen's garden at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1562" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6109661258542326" task="IE">
+<t>Psychoactive magic mushroom found in grounds of Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1563" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5303092282738028" task="IE">
+<t>Magic mushrooms found in BUCKINGHAM PALACE by Alan Titchmarsh</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1564" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8498804781486676" task="IE">
+<t>Magic Mushrooms Found in Queen Elizabeth's Garden at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1565" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5545777605025954" task="IE">
+<t>Magic mushrooms found at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1566" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9656327504025992" task="IE">
+<t>Her Majesty's magic mushrooms</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1567" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8494553337898776" task="IE">
+<t>Magic Mushrooms Found on Buckingham Palace Grounds</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1668" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8213827627894981" task="IE">
+<t>Matt Taibbi Leaves Omidyar's First Look Media Updated</t>
+<h>Journalist Matt Taibbi has left First Look Media</h>
+</pair>
+<pair id="1669" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8207491403555717" task="IE">
+<t>Taibbi takes time out from First Look after disagreements. Can I publish our emails now, Matt?</t>
+<h>Journalist Matt Taibbi has left First Look Media</h>
+</pair>
+<pair id="1670" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7304741917978167" task="IE">
+<t>Matt Taibbi takes a leave of absence from First Look Media</t>
+<h>Journalist Matt Taibbi has left First Look Media</h>
+</pair>
+<pair id="1671" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.757754228164902" task="IE">
+<t>Matt Taibbi on leave of absence from First Look Media</t>
+<h>Journalist Matt Taibbi has left First Look Media</h>
+</pair>
+<pair id="1906" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9197797067269553" task="IE">
+<t>Alleged Ottawa gunman: What we know so far about Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1907" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9366411352599275" task="IE">
+<t>RCMP release security footage of Michael Zehaf Bibeau during attack, say he shot soldier in back</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1908" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9179915921411398" task="IE">
+<t>Ottawa gunman identified as 32-year-old Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1909" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9089978292503242" task="IE">
+<t>Michael Zehaf-Bibeau, slain Ottawa shooter, had criminal record in Quebec, B.C.</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1910" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7949462899589917" task="IE">
+<t>Pictured: Recent Muslim convert Michael Zehaf-Bibeau who shot dead a solider and opened fire on Canadian Parliament</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1911" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9163623399346603" task="IE">
+<t>Canada probes Michael Zehaf-Bibeau as possible suspect in Ottawa shooting - source</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1912" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9193068893402033" task="IE">
+<t>Ottawa Gunman Identified As Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1913" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8863468892713063" task="IE">
+<t>Who Is Michael Zehaf-Bibeau? Ottawa Shooter Suspect Identified By Canadian Officials</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1914" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8670997743505684" task="IE">
+<t>Ottawa shooting: Nathan Cirillo named as dead soldier while suspect identified as Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1915" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9302920607565781" task="IE">
+<t>CBS News Names Canadian Parliament Shooting Suspect</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1916" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9609170338148355" task="IE">
+<t>UPDATE: Soldier, gunman who died in Ottawa rampage identified</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1917" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8318230487146522" task="IE">
+<t>Canadian Michael Zehaf-Bibeau thought to be the gunman in Ottawa shooting</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1918" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9304720449758552" task="IE">
+<t>Hero soldier Nathan Cirillo killed by convicted criminal Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1919" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9071321798220126" task="IE">
+<t>Michael Zehaf-Bibeau ID'd as Canadian Shooting Suspect in Ottawa Also Known as Michael Joseph Hall</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1920" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9507155935577306" task="IE">
+<t>Michael Abdul Zehaf Bibeau Pictures: Photos of Alleged ISIS-Linked Gunman in Canada</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="1921" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9168401535315039" task="IE">
+<t>Canadian official identifies dead Ottawa gunman as Michael Zehaf-Bibeau</t>
+<h>The attacker shot and killed on Parliament Hill is named Michael Zehaf-Bibeau</h>
+</pair>
+<pair id="2072" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5999820828327858" task="IE">
+<t>Samsung is reportedly making a secret new chip in the Apple Watch</t>
+<h>Samsung is producing a new chip for Apple Watch</h>
+</pair>
+<pair id="2073" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5999820828327858" task="IE">
+<t>Samsung is reportedly making a secret new chip in the Apple Watch</t>
+<h>Samsung is producing a new chip for Apple Watch</h>
+</pair>
+<pair id="2074" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.75930446188091" task="IE">
+<t>Samsung reportedly grabs processor orders for Apple Watch</t>
+<h>Samsung is producing a new chip for Apple Watch</h>
+</pair>
+<pair id="2075" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7389107584393345" task="IE">
+<t>Samsung Supposedly Wins Orders to Produce Apple Watch Components</t>
+<h>Samsung is producing a new chip for Apple Watch</h>
+</pair>
+<pair id="2076" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7203397649659489" task="IE">
+<t>Apple Watch may be powered by Samsung processor</t>
+<h>Samsung is producing a new chip for Apple Watch</h>
+</pair>
+</entailment-corpus>

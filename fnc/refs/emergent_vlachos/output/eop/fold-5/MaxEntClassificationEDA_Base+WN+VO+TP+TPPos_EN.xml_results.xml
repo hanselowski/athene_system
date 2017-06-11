@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="137" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9345914078421127" task="IE">
+<t>Apple plans relaunched Beats streaming music service for WWDC, skipping March event Apple TV still coming</t>
+<h>Apple will not reveal the iTunes subscription service based on Beats Music at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="147" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8859304569167452" task="IE">
+<t>Rumor: Apple in late-stage talks to buy Path social platform</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="148" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5093803669914093" task="IE">
+<t>Apple May Buy Social Network Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="149" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6359017445836099" task="IE">
+<t>Wednesday Apple Rumors: Apple May Be Ready to Buy Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="150" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8217680127678779" task="IE">
+<t>Source: Apple set to acquire Path in an attempt to bolster iOS social cred</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="151" entailment="Entailment" benchmark="UNKNOWN" confidence="0.8311286156577564" task="IE">
+<t>Morin goes back on transparency pledge, refuses to confirm or deny report that Apple is buying Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="152" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7756733269131899" task="IE">
+<t>Four Reasons Not To Give Up Hope If Apple Buys Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="153" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7694504080654425" task="IE">
+<t>Apple reported to be near buying Path social network</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="154" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9561717844160864" task="IE">
+<t>Apple in late stages to acquire Path, report says</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="155" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7973200856691668" task="IE">
+<t>Here's What You Can Do On Path, The Social Network That Apple May Be About To Acquire</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="156" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8796562688599622" task="IE">
+<t>Apple Will Acquire Path, The Struggling Social Network</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="157" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5894969298096875" task="IE">
+<t>Apple could be eyeing purchase of social networking app Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="158" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8526451225314102" task="IE">
+<t>Everything You Need To Know About Path, The Struggling Social Network In Apple's Sights</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="159" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8068396729581018" task="IE">
+<t>Apple Reportedly Close to Acquiring Path, Looking to Integrate Service Into Messages</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="160" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8790737637252778" task="IE">
+<t>Apple may buy Path, that social app you do not use</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="161" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6030309143941472" task="IE">
+<t>HBO reportedly in talks to debut 15month standalone streaming service on Apple TV next month</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="162" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7254420151245199" task="IE">
+<t>HBO Now coming to Apple TV next month</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="163" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7634174801788361" task="IE">
+<t>Apple in talks to become launch partner for cable-free HBO Now service</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="164" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.821322173771135" task="IE">
+<t>HBO Now coming this spring for 15 per month, with Apple as launch partner</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="165" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6768724834842217" task="IE">
+<t>HBO in talks with Apple to be launch partner for coming web service HBO Now</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="166" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8883005499742812" task="IE">
+<t>HBO Reportedly in Talks with Apple for Launch of New Unbundled Streaming Service</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="167" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7608327511005389" task="IE">
+<t>HBO In Talks With Apple To Be Launch Partner For Coming Web Service HBO Now: Exclusive</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="168" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8208754978136988" task="IE">
+<t>HBO and Apple in Talks for 15Month Apple TV Streaming Service Launching in April</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="169" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8984210374690971" task="IE">
+<t>Apple-HBO Deal Seen Launching Web-only Apple TV Streaming Service For 15 Per Month</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="170" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7205702145446785" task="IE">
+<t>HBO streaming service could launch in April for 15 per month, work on Apple TV</t>
+<h>HBO Now streaming subscription is coming to Apple TV</h>
+</pair>
+<pair id="171" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9069684104753613" task="IE">
+<t>Apple plans relaunched Beats streaming music service for WWDC, skipping March event Apple TV still coming</t>
+<h>Apple will reveal a refreshed Apple TV at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="188" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9041295721567537" task="IE">
+<t>WSJ: Apple struggled to find purpose for Apple Watch after many planned health features were cut, 5 million units ordered</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="189" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.852923637883469" task="IE">
+<t>Apple scrapped advanced Apple Watch health monitoring features due to reliability issues</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="190" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.755372186770693" task="IE">
+<t>Apple tested and cut more advanced fitness sensors from the Apple Watch</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="191" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8637895795281727" task="IE">
+<t>A bunch of cool health features were cut from the Apple Watch at the last minute</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="192" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9476615385184958" task="IE">
+<t>Apple was forced to nix key health features from its smartwatch -- report</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="193" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9355532870733955" task="IE">
+<t>WSJ: Apple cut watch health features due to erratic sensors</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="194" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9115706528175758" task="IE">
+<t>Original Apple Watch Health Features Were Dropped Due to Consistency Issues</t>
+<h>Apple removed from Apple Watch a sensor that would monitor blood-pressure</h>
+</pair>
+<pair id="226" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8594597964426787" task="IE">
+<t>Tim Cook: Apple Watch will be showerproof, Apple Pay goal for Europe is end of the year</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="227" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8391658151931921" task="IE">
+<t>Apple Watch to Be Shower-Proof, Have 100,000 Apps at Launch: Reports</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="228" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8874788218657687" task="IE">
+<t>Yes, you can wear your Apple Watch in the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="229" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7012878044814739" task="IE">
+<t>that is one way to clean it: Apple Watch will reportedly survive a trip through the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="230" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7485723799213917" task="IE">
+<t>Tim Cook: I wear my Apple Watch in the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="231" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8847355638379241" task="IE">
+<t>Tim Cook Reportedly Showers with Apple Watch, Suggesting it is Waterproof</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="232" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8411641020737521" task="IE">
+<t>Cook said to confirm Apple Watch is showerproof, lasts a day</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="233" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9226304178614199" task="IE">
+<t>Tim Cook Reportedly Reveals Apple Watch Waterproofing Has Improved</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="248" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6180480627312015" task="IE">
+<t>Apple saving money on the gold in Apple Watch Edition, could be planning a platinum model for future designs</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="249" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9218265983387901" task="IE">
+<t>Future Apple Watches could include platinum models - report</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="250" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8954283766233958" task="IE">
+<t>Forget 18-karat gold, next-generation Apple Watch Edition could use platinum: Report</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="251" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.877522972266423" task="IE">
+<t>Apple to Take Reservations for Trying On Apple Watch, Considered Platinum Model</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="252" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.892846849356582" task="IE">
+<t>The next Apple Watch could be platinum</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="284" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6815006860129652" task="IE">
+<t>KGI: iPhone sales forecast at 73M for Q4 ahead of Apple Watch debut in March, 12 MacBook Air in Q1</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="285" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9134723103522508" task="IE">
+<t>APPLE WATCH MAY GO ON SALE IN MARCH ACCORDING TO ANALYST</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="286" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5984811490908459" task="IE">
+<t>The World's Most Accurate Apple Analyst Says The Apple Watch Is Coming In March</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="287" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5019569751463837" task="IE">
+<t>Apple Watch shipments to start in March: 12in new MacBook Air expected to be launched in same quarter</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="288" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5913740791501808" task="IE">
+<t>Apple Reported to Begin Shipping Apple Watch in March, 12-Inch MacBook Air in Early 2015</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="289" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6384885875675206" task="IE">
+<t>Apple Watch to go on sale in March, claims analyst</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="290" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6260139270050246" task="IE">
+<t>New report tips Apple Watch release in March, 12in MacBook Air in Q1</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="291" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.649963890781878" task="IE">
+<t>Apple Watch on Your Wrist in March, 12-inch MacBook Air Set for Q1 Launch: Analyst</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="292" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8601893625731178" task="IE">
+<t>Analyst Confirms Apple Watch And 12-inch MacBook Air's Q1 2015 Launch</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="293" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9252988899337179" task="IE">
+<t>WSJ: Apple struggled to find purpose for Apple Watch after many planned health features were cut, 5 million units ordered</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="294" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9094740742873428" task="IE">
+<t>Apple scrapped advanced Apple Watch health monitoring features due to reliability issues</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="295" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9157572150439015" task="IE">
+<t>A bunch of cool health features were cut from the Apple Watch at the last minute</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="296" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9588179970068998" task="IE">
+<t>Apple was forced to nix key health features from its smartwatch -- report</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="297" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.941549291319515" task="IE">
+<t>Apple Watch will not be the digital doctor it could have been</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="298" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9464952835677906" task="IE">
+<t>WSJ: Apple cut watch health features due to erratic sensors</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="299" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9324461476732903" task="IE">
+<t>Original Apple Watch Health Features Were Dropped Due to Consistency Issues</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="300" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9764723100641187" task="IE">
+<t>What Exactly Is an Apple Watch For?</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="508" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9402333805417138" task="IE">
+<t>Accused Boston Marathon Bomber Severely Injured In Prison, May Never Walk Or Talk Again</t>
+<h>Boston marathon bombing suspect Dzhokhar Tsarnaev was severely beaten in prison</h>
+</pair>
+<pair id="509" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8044310734037119" task="IE">
+<t>Dzhokhar Tsarnaev Beaten In Prison? Satirical Site Claims Boston Marathon Bombing Suspect Blinded And Paralyzed</t>
+<h>Boston marathon bombing suspect Dzhokhar Tsarnaev was severely beaten in prison</h>
+</pair>
+<pair id="561" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9523244664285127" task="IE">
+<t>China: Satirical site warns citizens over name choices</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="562" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9541671207812957" task="IE">
+<t>Chinese State Media Warns People To Stop Calling Themselves Dumbledore</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="563" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7693280432461737" task="IE">
+<t>Tips for Chinese choosing an English name</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="564" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9576108037342078" task="IE">
+<t>How did Fake Chinese News Site Dupe Washington Post, Atlantic, BBC?</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="565" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9225475602099976" task="IE">
+<t>Chinese advised to choose British-sounding names to get ahead</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="566" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8773414217876396" task="IE">
+<t>The Chinese Guide to Avoiding a Bad English Name</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="567" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9421964882199573" task="IE">
+<t>Satirical news site attacks China's weird English names</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="702" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7462110796282546" task="IE">
+<t>Elon University has not banned the term freshman, despite rumors</t>
+<h>Elon University has banned use of the term freshman</h>
+</pair>
+<pair id="703" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8080331323727084" task="IE">
+<t>At Elon, first-year has not replaced freshman, university says</t>
+<h>Elon University has banned use of the term freshman</h>
+</pair>
+<pair id="704" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9029267598824242" task="IE">
+<t>University Bans Word Freshman Because it is Sexist and Promotes Rape</t>
+<h>Elon University has banned use of the term freshman</h>
+</pair>
+<pair id="705" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9610563896582555" task="IE">
+<t>UNIVERSITY DROPS TERM FRESHMAN, REPLACES IT WITH FIRST-YEAR</t>
+<h>Elon University has banned use of the term freshman</h>
+</pair>
+<pair id="829" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9871214016863634" task="IE">
+<t>ADVISORY-Islamist rebel leader killed in U.S. strike - Somali government</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="830" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7782714701733281" task="IE">
+<t>Somalia Shebab chief Ahmed Abdi Godane likely dead in US strike: Source</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="831" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9828621954962686" task="IE">
+<t>6 Islamist militants killed in US attack in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="832" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9315639340009226" task="IE">
+<t>Somali terrorist leader dead after US airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="833" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.729123378826757" task="IE">
+<t>US airstrike targets Al Shabaab leader Ahmed Abdi Godane in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="834" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9369183752724219" task="IE">
+<t>Al-Shabaab Terror Group Leader Killed in U.S. Airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="835" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7507767307005491" task="IE">
+<t>Pentagon: Somali terror group leader killed in U.S. airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="836" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9318613590296524" task="IE">
+<t>Al-Shabab leader who ordered Kenya mall massacre believed killed in US drone attack in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="837" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9573366913074958" task="IE">
+<t>US confirms death of Somalia terror group leader</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="838" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.536444511378551" task="IE">
+<t>Terror Leader Ahmed Abdi Godane Killed in U.S. Strike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="839" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8984935614004566" task="IE">
+<t>U.S. airstrike kills Islamic Al Shabab terrorist leader in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="840" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9457982174727253" task="IE">
+<t>Leader of Qaeda-Linked Somali Group Is Dead, U.S. Says</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="841" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9255173305855795" task="IE">
+<t>Pentagon: death of al Shabaab leader in U.S. strike would be major blow</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="842" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9084350255584263" task="IE">
+<t>Al-Shabaab leader Ahmed Abdi Godane killed by US air strike in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="843" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9814064915415234" task="IE">
+<t>Pentagon: Airstrike kills terror leader in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="844" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9349521695321578" task="IE">
+<t>White House confirms al-Shabab leader killed in airstrike in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="970" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9653374509990648" task="IE">
+<t>First Human Death Confirmed From Eating GMO Satire</t>
+<h>Doctors confirmed the first case of death by genetically modified food</h>
+</pair>
+<pair id="971" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9369548749726645" task="IE">
+<t>Doctors confirmed the first case of death from ingesting GMOs</t>
+<h>Doctors confirmed the first case of death by genetically modified food</h>
+</pair>
+<pair id="1320" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8207784500973994" task="IE">
+<t>Italian fisherman catches monstrous 280-pound catfish</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1321" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7681368951420798" task="IE">
+<t>Caught a catfish record in Po: 127 kg and 2.67 meters</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1322" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7694634408489247" task="IE">
+<t>Giant 8ft 9in catfish weighing 19 stone caught in Italy is thought to be the biggest ever reeled in with a rod and line</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1323" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6367005568577256" task="IE">
+<t>Italian catches huge wels catfish is it a record?</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1324" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8873826307999801" task="IE">
+<t>Enormous 20-stone catfish caught with fishing rod in Italy after 40-minute boat battle</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1325" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9492328562231145" task="IE">
+<t>280 Pound Catfish: Fisherman Makes Huge Catch In Italy, Catfish Could Set Record</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1326" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9002894071375576" task="IE">
+<t>Fisherman lands 19 STONE catfish which could be biggest in world to be hooked</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1327" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7213549584276078" task="IE">
+<t>Monster catfish which looks big enough to swallow a man whole caught in Italy</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1328" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9700075384826142" task="IE">
+<t>Surreal Photos of Fisherman's Jaw-Dropping Catch Will Likely Have People Wondering If it is Real</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1531" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9390882240220714" task="IE">
+<t>Twitter messages attributed to Lisa Bonet was hoax, manager says</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1532" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8122365290249414" task="IE">
+<t>Lisa Bonet Did NOT Send Cryptic Tweet About Bill Cosby Twitter Account Fake</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1533" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.88771317992205" task="IE">
+<t>Purported Lisa Bonet Twitter Account Suspended After Cryptic Cosby Tweet</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1534" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8929482796336017" task="IE">
+<t>Fake Lisa Bonet Tweet on Cosby Scandal Fools Major Media Outlets</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1535" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8158908261940195" task="IE">
+<t>Lisa Bonet Denies Slamming Bill Cosby on Twitter</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1536" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7904956470809551" task="IE">
+<t>Lisa Bonet Tweet About Bill Cosby Sent From Fake Account, Manager Confirms</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1568" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9382669189192067" task="IE">
+<t>Electric shock turns Russian boy into Marvel's Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1569" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9386609023894371" task="IE">
+<t>Isilkulskom student has gained superhero powers after shock</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1570" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9645939237373716" task="IE">
+<t>Meet Magneto Boy, the kid who attracts metal with his body</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1571" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9241594436326666" task="IE">
+<t>Omsk schoolboy turned into a man-magnet after shock</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1572" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9592162171678144" task="IE">
+<t>This boy nearly died, now he has a superpower like Marvel's Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1573" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9475284380157849" task="IE">
+<t>Schoolboy who got electric shock from lamppost claims he now has magnetic powers</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1574" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9052600876555112" task="IE">
+<t>Boy who suffered powerful electric shock claims he now has superpowers like X-Men's Magneto as metal objects stick to him</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1575" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9645938034190065" task="IE">
+<t>Meet the X-BOY: Electric shock turns kid into MAGNETO</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1576" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9372021674197901" task="IE">
+<t>Real-life Magneto boy becomes living magnet after getting massive electric shock from street lamp</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1577" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9475284380157849" task="IE">
+<t>Schoolboy almost killed by electric shock claims he now has superpowers like Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1729" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9608632871026132" task="IE">
+<t>Newly-Found Document Holds Eyewitness Account of Jesus Performing Miracle</t>
+<h>A historian discovered a text with an account of a miracle performed by Jesus</h>
+</pair>
+<pair id="1730" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9363024431684676" task="IE">
+<t>No, Nobody's Discovered a New Eyewitness Account of Jesus Miracles</t>
+<h>A historian discovered a text with an account of a miracle performed by Jesus</h>
+</pair>
+<pair id="1848" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8916679718886664" task="IE">
+<t>NEWS Read the Touching Letter This 9-Year-Old Girl Sent Her Teacher After He Came Out to the Class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1849" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9511901117698391" task="IE">
+<t>9-year-old girl pens touching letter to teacher who came out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1850" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6017181928404453" task="IE">
+<t>Even though you are gay, I will always treat you the same way as I do now: Moving letter from nine-year-old to her school teacher after he came out to his class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1851" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.907466270309178" task="IE">
+<t>Gay Teacher Receives Touching Letter From Student, 9, After He Comes Out</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1852" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9548607577658936" task="IE">
+<t>9-Year-Old Writes Moving Letter to Teacher Who Came Out as Gay to His Class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1853" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8464946049862947" task="IE">
+<t>Nine-year-old girl writes letter to amazing, fantastic teacher after he comes out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1854" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8224663495382806" task="IE">
+<t>School pupil writes moving letter to her teacher after he comes out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1855" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9264876884440001" task="IE">
+<t>A 9-year-old girl gave this hearfelt letter to her teacher after he came out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1858" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6646887872985813" task="IE">
+<t>A North Korean Student Is On The Run In France After Escaping Pyongyang Agents</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1859" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6438002431529746" task="IE">
+<t>Son of North Korean aide linked to Kim Jong-un's executed uncle is on the run in France amid fears he will be killed by regime</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1860" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5710232037754784" task="IE">
+<t>North Korean student on the run in France after escaping from Pyongyang's agents</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1972" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6396702261051926" task="IE">
+<t>NEWS All Dogs Go to Heaven Pope Francis Confirms Paradise Is Open to All of God's Creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1973" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6442117867238952" task="IE">
+<t>Do all dogs go to heaven? Pope tells grieving boy: Paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1974" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8608745364348886" task="IE">
+<t>Pope Francis did not tell boy heaven has room for pets, contrary to report</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1975" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.948741496457157" task="IE">
+<t>Pope Francis tells boy whose dog had died that heaven is open to all</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1976" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.898322687592972" task="IE">
+<t>Pope Francis turns out not to have made pets in heaven comment</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1977" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8286838294012687" task="IE">
+<t>Dogs DO go to heaven and cats, and horses: Pope assures young boy that there is a place in paradise for animals as well</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1978" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6465886104069153" task="IE">
+<t>Pope says dogs can go to heaven: Paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1979" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9278800092332841" task="IE">
+<t>Animal lovers abuzz over pope's comments that paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1980" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9225250012128425" task="IE">
+<t>Sorry, Fido. Pope Francis did NOT say our pets are going to heaven</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1981" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8200134999467361" task="IE">
+<t>Some dogs go to heaven? Pope's remark to boy opens can of worms on animal rights</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1982" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8051556372541062" task="IE">
+<t>Paradise is open to all, even dogs, Pope tells boy</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="2015" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8236496786038753" task="IE">
+<t>Evocative shape: Is Vladimir Putin trolling the world with his motorcade formation?</t>
+<h>A photo shows Vladimir Putin traveled in a penis-shaped motorcade</h>
+</pair>
+<pair id="2016" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8190183001984648" task="IE">
+<t>Putin's motorcade looks suspiciously like a massive</t>
+<h>A photo shows Vladimir Putin traveled in a penis-shaped motorcade</h>
+</pair>
+<pair id="2017" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7953011831591472" task="IE">
+<t>Vladimir Putin's Motorcade Looks Like A Massive Knob</t>
+<h>A photo shows Vladimir Putin traveled in a penis-shaped motorcade</h>
+</pair>
+<pair id="2018" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6472531031635589" task="IE">
+<t>Sadly Vladimir Putin has not Been Driving Round In A Motorcade Shaped Like A Penis</t>
+<h>A photo shows Vladimir Putin traveled in a penis-shaped motorcade</h>
+</pair>
+<pair id="2129" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9528613129012453" task="IE">
+<t>Man Severed Penis That Failed To Impress Girls</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2130" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9300113983175103" task="IE">
+<t>Man Chops Off and Throws Away His Small Penis After Bad Breakup</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2131" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5651897533680114" task="IE">
+<t>Jilted lover chops off his penis after girlfriend dumps him</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2132" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6134837837229212" task="IE">
+<t>Man chops off his own penis after girlfriend told him he was no good in bed</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2133" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7109913105993081" task="IE">
+<t>Man chops off his penis after his girlfriend breaks up with him</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2134" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6263707071582039" task="IE">
+<t>Boyfriend cuts off his penis and throws it in the bin after girlfriend dumps him for being bad in bed</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2135" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9373005689426752" task="IE">
+<t>GRAPHIC CONTENT: Girl sneers at man's tiny penis so he CHOPS IT OFF and bins it</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2136" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5621434151484339" task="IE">
+<t>Man cut off manhood and threw it in bin after girlfriend dumped him over small penis</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2137" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7405891997015176" task="IE">
+<t>Man cuts off manhood, throws it in the bin, after girlfriend leaves over small penis</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2138" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8044018679460144" task="IE">
+<t>Man chops off his own penis, throws it in the trash after getting dumped for bad bedroom skills</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2139" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.918015292926066" task="IE">
+<t>Graphic Photo: Oliver Ilic Uses Razor Blade To Slice Off Own Manhood After Girlfriend Broke Up With Him</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2140" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6599933118974439" task="IE">
+<t>Man chops off own penis after being dumped by his girlfriend</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2141" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8161330502633646" task="IE">
+<t>Man chops off own penis, throws it in a dustbin after poor show in bed</t>
+<h>A Macedonian man cut off his penis after his girlfriend broke up with him</h>
+</pair>
+<pair id="2330" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9604325674399702" task="IE">
+<t>Michael Phelps Reported Girlfriend Reveals She Was Born Intersex</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2331" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9285639721638671" task="IE">
+<t>Michael Phelps Tinder Girlfriend Was Born Male We Made Love During Halftime</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2332" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9496248999787379" task="IE">
+<t>Lady on FB: I am 41, Intersex, and Fucked Michael Phelps on First Date</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2333" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9171867311691284" task="IE">
+<t>Michael Phelps Sex Scandal: Troubled Olympian's Girlfriend Was Born A Man</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2334" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.954421829946552" task="IE">
+<t>Michael Phelps girlfriend reveals she was born a man and never told the swimmer</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2335" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8878229676330034" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend, 41, reveals she was born a male as she describes her amazing intimacy with Olympic swimmer</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2336" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9443932620273047" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend says she was born a BOY and reveals amazing sex with Olympian</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2337" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5120685625188357" task="IE">
+<t>Michael Phelps girlfriend Taylor Lianne Chandler reveals she was raised as a boy</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2338" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.954421829946552" task="IE">
+<t>Michael Phelps girlfriend was born male but did not tell swimmer about her past</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2339" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9147270227649702" task="IE">
+<t>Michael Phelps alleged girlfriend says she was born intersex</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+</entailment-corpus>

@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="18" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.966630767271684" task="IE">
+<t>AUSTRALIA: 600-POUND WOMAN GIVES BIRTH TO 40-POUND BABY</t>
+<h>A 600-pound Australian woman gave birth to 40-pound baby</h>
+</pair>
+<pair id="73" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9436611264792691" task="IE">
+<t>British Jihadi Killed In US Airstrike - Reports</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="74" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8993917584327187" task="IE">
+<t>Teenage British jihadi killed in US airstrikes: 19-year-old from Brighton died in US-led bombing</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="75" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8976856579487509" task="IE">
+<t>Brit teenage jihadi killed in Syrian airstrike as Britain set to enter war</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="76" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7417494774615618" task="IE">
+<t>Jihadist Brit teen killed in US air strikes</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="77" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9436611264792691" task="IE">
+<t>British teenager Ibrahim Kamara Killed In US Airstrikes In Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="78" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9436611264792691" task="IE">
+<t>Syria: Teenage British Jihadi from Brighton Killed in US Airstrikes</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="79" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5363839147338321" task="IE">
+<t>Brighton teenage jihadi known as Khalil al-Britani killed in Syria drone strike</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="80" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.893752976366751" task="IE">
+<t>British teenage jihadist killed during US air strikes on Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="81" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8918123632052127" task="IE">
+<t>Brighton jihadi among five killed in Syria drone strike</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="82" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8918123632052127" task="IE">
+<t>Brighton teenager killed in US air strikes in Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="83" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9258197161821758" task="IE">
+<t>British teenage jihadi believed to have been killed in Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="242" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6731476844716039" task="IE">
+<t>Rumor: Apple Watch to feature 512MB of RAM, 4GB of storage</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="243" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9748457978026484" task="IE">
+<t>Apple Watch will reportedly have pretty unimpressive specs</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="244" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7887064595729253" task="IE">
+<t>Apple Watch Specs Tipped Said to Feature 512MB RAM, 4GB of Storage</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="245" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8977040481694443" task="IE">
+<t>Apple's Watch Will Come In 2 Storage Sizes</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="246" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9089236415940505" task="IE">
+<t>Spec leak suggests Apple Watch will be on par with Android Wear rivals</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="545" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8402284155069352" task="IE">
+<t>Cesar Millan is Not Dead: Dog Whisperer Death Hoax Circulates</t>
+<h>Cesar Milln, the Dog Whisperer, has died</h>
+</pair>
+<pair id="546" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8578361730998962" task="IE">
+<t>Hoax Busted: Report on Popular Dog Whisperer Cesar Millan's Death is False</t>
+<h>Cesar Milln, the Dog Whisperer, has died</h>
+</pair>
+<pair id="547" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9208685049262934" task="IE">
+<t>The news of Cesar Millan's death is false</t>
+<h>Cesar Milln, the Dog Whisperer, has died</h>
+</pair>
+<pair id="548" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9161617008083827" task="IE">
+<t>Web Portal publishes death of Dog Whisperer</t>
+<h>Cesar Milln, the Dog Whisperer, has died</h>
+</pair>
+<pair id="549" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8338981570562516" task="IE">
+<t>The famous Dog whisperer Cesar Millan died of a heart attack this morning.</t>
+<h>Cesar Milln, the Dog Whisperer, has died</h>
+</pair>
+<pair id="568" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8020275839027335" task="IE">
+<t>Unlucky in love man chops off own penis</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="569" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7711693856087491" task="IE">
+<t>Unlucky in love man CHOPS OFF own penis because he was fed up with not having a girlfriend</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="570" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8780845977701546" task="IE">
+<t>Yang Hu, worker in Zhejiang, cuts off own penis over desperation of finding love</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="680" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9557490431429408" task="IE">
+<t>Man With Ebola-Like Symptoms Claims Contact With Patient Zero in Texas</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="681" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.945166882565893" task="IE">
+<t>Update: Frisco paramedics transporting patient believed to be exhibiting Ebola-like symptoms</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="682" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9326431100982638" task="IE">
+<t>Texas deputy showing Ebola symptoms was sent into patient zero's apartment WITHOUT protection but started growing concerned when his squad car and his uniform were quarantined</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="683" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9217136452567118" task="IE">
+<t>Ebola Frisco 2014: Patient Shows Virus Symptoms After Apparent Thomas Eric Duncan Contact</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="684" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9459042928262273" task="IE">
+<t>Frisco: Sick patient claims to have had contact with Ebola victim</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="695" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7091548855984061" task="IE">
+<t>Texas Town Quarantined After Family Of Five Test Positive For The Ebola Virus</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="696" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9418538078819061" task="IE">
+<t>UPDATE: Internet report of Ebola outbreak in Purdon not true</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="697" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.719359178259212" task="IE">
+<t>Report of quarantined Texas town NOT real shared on a fake news website</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="698" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9458514337229029" task="IE">
+<t>Officials: Report That Area Town Is Under Ebola Quarantine Is False</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="699" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8980201441433877" task="IE">
+<t>Texas, Hold Em</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="700" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6679488489333797" task="IE">
+<t>Purdon Ebola Hoax: Texas Town Quarantined After Family Of Five Test Positive For The Ebola Virus Report Totally Fake</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="898" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8251592397054875" task="IE">
+<t>No, that high school kid did not make 72 million trading stocks</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="899" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9458599012588578" task="IE">
+<t>Teen Made 72 Million Trading Stocks, Confirms Teen Dominance Worldwide</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="900" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8768343869855825" task="IE">
+<t>High school student scores 72M playing the stock market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="901" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9657520217623744" task="IE">
+<t>EXCLUSIVE: New York Mag's Boy Genius Investor Made It All Up</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="902" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9458599012588578" task="IE">
+<t>High School Student Rumored to Have Made 72 Million Trading Stocks</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="903" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9017899922384576" task="IE">
+<t>The Story Of The High School Trader Who Made 72 Million Is A Rumor Spun Out Of Control</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="904" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9461418208527947" task="IE">
+<t>Whiz kid stock picker: I did not actually make 72M trading</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="905" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9094921232186851" task="IE">
+<t>New York schoolboy made 72million trading stocks on his lunch breaks - and now takes his friends out to dine on 400 caviar, drives a BMW and has definitely made his immigrant parents proud</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="906" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9421294005933273" task="IE">
+<t>NYC High School Student Nicknamed Teen Wolf Made 72 Million On Stock Market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="907" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9451864650078542" task="IE">
+<t>Did This Kid Really Make 72 Million During Lunch?</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="908" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9208895461119107" task="IE">
+<t>Teen Makes 72 Million on the Stock Market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="909" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9381795333079249" task="IE">
+<t>Mohammed Islam Denies Making 72 Million From Stock Market Trading</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="910" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9140298641903758" task="IE">
+<t>Meet the 17-Year-Old Rumored to Have Made 72 Million During His High-School Lunch Breaks Updated</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="1193" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9610563896582555" task="IE">
+<t>IS Militants Kill 300 Iraqi Soldiers with Chlorine Gas</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1194" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.914026945855589" task="IE">
+<t>ISIS chlorine attack on security forces confirmed Iraq officials</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1195" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9072335571573624" task="IE">
+<t>Islamic State accused of using chlorine gas on Iraqi soldiers</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1196" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9299781040571655" task="IE">
+<t>ISIS KILLS 300 IRAQI SOLDIERS WITH CHLORINE GAS: SHIA MP</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1197" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9476148923085789" task="IE">
+<t>Islamic State uses chlorine gas against Iraqi forces</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1198" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9374548518201123" task="IE">
+<t>Iraq: US to Probe ISIS Chlorine Attack on Iraqi Security Personnel</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1199" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8480345348822168" task="IE">
+<t>URGENT: ISIS kills 300 Iraqi soldiers by chlorine gas attack in Saqlawiyah</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1200" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9303429571363795" task="IE">
+<t>Another ISIS Massacre: ISIS Kills 300 Iraqi Soldiers With Chlorine Gas</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1201" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9673763217672923" task="IE">
+<t>Nujaifi Condemns Daash crime in Saqlawiyah and Alsiger areas of Anbar.</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1202" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9032010064784455" task="IE">
+<t>BREAKING: ISIS USES CHEMICAL WEAPONS Murders 300 Iraqi Soldiers in Chlorine Gas Attack</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1203" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9714302472530897" task="IE">
+<t>Islamic State militants allegedly used chlorine gas against Iraqi security forces</t>
+<h>ISIS used chlorine gas in an attack near Fallujah</h>
+</pair>
+<pair id="1314" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6111606764274097" task="IE">
+<t>Israel opens dams, floods Gaza</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1315" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5942812669142126" task="IE">
+<t>Palestine accuses Israel of opening dams, flooding Gaza, forcing evacuations</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1316" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9700075384826142" task="IE">
+<t>The Flood Libel Propagandists of 2015</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1317" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6384589368536614" task="IE">
+<t>Hundreds of Palestinians flee floods in Gaza as Israel opens dams</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1318" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5488313148049293" task="IE">
+<t>Israel denies causing Gaza floods by opening dams</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1319" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7689521016150879" task="IE">
+<t>Hundreds of Palestinians flee as Israel opens dams into Gaza Valley</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1376" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9029397151023831" task="IE">
+<t>Kim Jong-un Had Surgery on Fractured Ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1377" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8142547913454545" task="IE">
+<t>Cheese blamed for North Korean leader Kim Jong-un's broken ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1378" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.936531022605356" task="IE">
+<t>Kim Had Ankle Surgery: Source</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1379" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8609816280419407" task="IE">
+<t>Kim Jong-un Broke Both Ankles and Is Hospitalized, Report Claims</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1380" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7177201846103577" task="IE">
+<t>Kim Jong-un is so fat from eating cheese that he has broken his ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1381" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8311596749027719" task="IE">
+<t>North Korean leader Kim Jong-un's mystery illness actually two broken ankles, newspaper says</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1382" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9358216331358782" task="IE">
+<t>Cheese addiction breaks Kim Jong-un's ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1383" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7699235711446153" task="IE">
+<t>South Korea: Kim Jong Un had ankle surgery to remove cyst</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1384" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8899146135213543" task="IE">
+<t>Kim Jong-Un in hospital with two fractured ankles after ballooning to around 20 stone and going on numerous meet the people walkabout PR stunts</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1385" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8510377985056068" task="IE">
+<t>Report claims Kim Jong-un underwent surgery to repair fractured ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1386" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9008615625189466" task="IE">
+<t>Kim Jong-un: North Korean leader recovering from ankle surgery</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1387" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6670222906477914" task="IE">
+<t>North Korea dictator Kim Jong-un undergoes surgery after breaking both ankles on military tour</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1388" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6248825529023626" task="IE">
+<t>Kim Jong Un hospitalized with two broken ankles, reportedly from wearing heels and being overweight</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1389" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9053314452067378" task="IE">
+<t>North Korean leader Kim Jong-un not missing, just having ankle surgery</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1390" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7381352032350846" task="IE">
+<t>Kim Jong-un so fat he has fractured his ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1391" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8688563540152756" task="IE">
+<t>Kim Jong-un So Fat He Injured His Ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1392" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9366063011636896" task="IE">
+<t>Four theories on what may be ailing Kim Jong-un</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1393" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6717607685154939" task="IE">
+<t>Kim Jong-un: obese leader fractured both ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1394" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7699235711446153" task="IE">
+<t>North Korean leader Kim Jong Un had ankle surgery, report says</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1425" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6759127636521564" task="IE">
+<t>Jose Canseco Accidentally Shoots Self in the Hand at Vegas Home</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1426" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6082187310235802" task="IE">
+<t>ReportJose Canseco accidentally shot at his home tonight</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1427" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6895374524079142" task="IE">
+<t>Jose Canseco shoots self in hand</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1428" entailment="Entailment" benchmark="UNKNOWN" confidence="0.9429698741049516" task="IE">
+<t>Jose Canseco accidentally shot</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1429" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7003142215153969" task="IE">
+<t>Jose Canseco Accidentally Shot Himself in the Hand UPDATE - Shot Off Middle Finger</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1430" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5172929946205821" task="IE">
+<t>Baseball star Jose Canseco hurt in accidental shooting</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1431" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6759127636521564" task="IE">
+<t>Former Baseball Star Jose Canseco Accidentally Shot Himself In The Hand</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1432" entailment="Entailment" benchmark="UNKNOWN" confidence="0.9429698741049516" task="IE">
+<t>Jose Canseco accidentally shot</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1433" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6196784973693922" task="IE">
+<t>Jose Canseco injured in accidental shooting, per reports</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1444" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9579210772411101" task="IE">
+<t>Fowler Falls For Fake Website, Makes Crazy Claims About Tennis Star</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1445" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5297263370644114" task="IE">
+<t>Kei Nishikori Highest-Paid Tennis player in the World</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1446" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.714984803295792" task="IE">
+<t>Satire Website Fools ESPN, Kei Nishikori is not highest paid tennis star</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1465" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9324811926394871" task="IE">
+<t>Kim Jong-Un Has Difficulty Walking And Needs About 100 Days To Recuperate</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1466" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9299280753968348" task="IE">
+<t>Has Kim's SISTER taken over North Korea? Dictator fails to show for key Communist event but does send a nice flower basket instead</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1467" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8787705257344968" task="IE">
+<t>North Korea Leader Kim Jong Un Is Still In Charge: Source</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1468" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8778444109810515" task="IE">
+<t>North Korea leader Kim is still in charge, has injured leg: source</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1469" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8793071878053621" task="IE">
+<t>N. Korea's Kim has leg injury but in control</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1514" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.884346142368513" task="IE">
+<t>BlackBerry shares up after unconfirmed report on possible Lenovo bid</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1515" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9149232388937067" task="IE">
+<t>BlackBerry BBRY Could Receive An Offer By Cash-Rich Lenovo As Early As This Week: Report</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1516" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9012936868385962" task="IE">
+<t>EXCLUSIVE: Lenovo Could Make An Offer For BlackBerry As Early As This Week</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1517" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9004793870073675" task="IE">
+<t>Lenovo resumes efforts to acquire struggling phone maker BlackBerry</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1518" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8819974932447251" task="IE">
+<t>Lenovo Could Make A Bid For BlackBerry Rumor</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1519" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5882851892456228" task="IE">
+<t>Lenovo tipped to make a bid for BlackBerry this week</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1520" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9466505360423781" task="IE">
+<t>Lenovo might be eyeing up BlackBerry... again</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1521" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.862953729579529" task="IE">
+<t>Lenovo Still Wants to Buy BlackBerry and Will Try Again, Source Suggests</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1522" entailment="Entailment" benchmark="UNKNOWN" confidence="0.504725443422295" task="IE">
+<t>Lenovo ready to bid for Blackberry - report</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1523" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9273528348106331" task="IE">
+<t>Lenovo Looking To Buy BlackBerry Ltd REPORT</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1529" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7854805537533547" task="IE">
+<t>LG will be sole supplier of Apple Watch display</t>
+<h>LG will be the sole supplier of OLED displays for the Apple Watch</h>
+</pair>
+<pair id="1530" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.552233452670609" task="IE">
+<t>LG to make millions of flexible Plastic OLED displays for the Apple Watch</t>
+<h>LG will be the sole supplier of OLED displays for the Apple Watch</h>
+</pair>
+<pair id="1647" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9124971325800197" task="IE">
+<t>Bodies found in Mexico town where students vanished</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1648" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8851535683337404" task="IE">
+<t>Newly Discovered Mass Grave Linked to Missing Mexican Students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1649" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9748085722139485" task="IE">
+<t>Missing Mexican students not found in mass grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1650" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9029439298276762" task="IE">
+<t>Are missing students in mass graves found near Iguala, Mexico?</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1651" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7910469008745074" task="IE">
+<t>Police find mass graves with at least 15 bodies near Mexico town where 43 students disappeared after police clash</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1652" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8026620935402127" task="IE">
+<t>Mexico hit by student massacre: At least 17 anti-corruption protesters rounded up, murdered and dumped in a mass grave - and another 26 are missing</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1653" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8722254511665957" task="IE">
+<t>Mexico prosecutor: Students not in 1st mass graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1654" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8171628268341965" task="IE">
+<t>Mexico finds 4 more graves at site of suspected student massacre</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1655" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.784722781627134" task="IE">
+<t>Missing Mexico students not among 28 bodies found in mass grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1656" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.70271179588432" task="IE">
+<t>Mexico Says Missing Students Not Found In First Mass Graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1657" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8623231400635695" task="IE">
+<t>6 hidden mass graves may hold missing Mexican students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1658" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8981780021178721" task="IE">
+<t>Mexican cartel leader kills self bodies in grave not missing students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1659" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9304735940918581" task="IE">
+<t>Mexico Student Massacre Update: More Graves Discovered At Murder Site</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1660" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8532414676373191" task="IE">
+<t>Mexico Says Students Not Among Dead in Mass Grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1661" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7469535419438913" task="IE">
+<t>Bodies In Mexico Mass Grave Apparently Not Those Of Missing Students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1662" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.768231387271188" task="IE">
+<t>Mass Graves Found In Mexico, Near Place Where 43 Students Went Missing</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1663" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8479257100013722" task="IE">
+<t>Mexico police find mass grave near site 43 students vanished</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1664" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8458726630747991" task="IE">
+<t>A Mass Grave Points to a Student Massacre in Mexico</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1665" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8776334504343052" task="IE">
+<t>Mexican investigators fear mass grave might hold 43 missing students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1666" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9340289183256245" task="IE">
+<t>Mexican students not among bodies found in mass graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1667" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7825359040782729" task="IE">
+<t>Mass grave found after 40 students disappear in Mexican protest</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1749" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7786655641328952" task="IE">
+<t>Hermaphroditic cat awaits a gender reassignment surgery to become a boy</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1750" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7406885217814241" task="IE">
+<t>Hermaphrodite cat named Mittens to get gender reassignment</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1751" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8689026460216519" task="IE">
+<t>Hermaphroditic cat to undergo gender reassignment surgery</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1752" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8517447398720589" task="IE">
+<t>Hermaphroditic cat to get gender assignment surgery</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1753" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9366138556168975" task="IE">
+<t>Hermaphroditic Cat Is Getting Gender Assignment Surgery</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1754" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5594290663879254" task="IE">
+<t>Canadian cat Mittens to undergo gender reassignment surgery after it is revealed to be a hermaphrodite</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1755" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5147470688079887" task="IE">
+<t>Gender assignment surgery to be given to hermaphrodite cat</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1756" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9709856094850209" task="IE">
+<t>Mittens The Intersex Cat To Get Gender Assignment</t>
+<h>A hermaphrodite cat in Newfoundland is getting gender assignment surgery</h>
+</pair>
+<pair id="1757" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7981143189827451" task="IE">
+<t>Did Mitt Romney Call Michelle Obama First Woman'?</t>
+<h>Mitt Romney said Michelle Obama should be called the First Woman, not the First Lady</h>
+</pair>
+<pair id="1758" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9853051779910017" task="IE">
+<t>Michelle Obama: The First Woman?</t>
+<h>Mitt Romney said Michelle Obama should be called the First Woman, not the First Lady</h>
+</pair>
+<pair id="1929" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8813731358729037" task="IE">
+<t>Man's Girlfriend Pours Acid On His Penis After He Covertly Recorded Their Sex Session</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1930" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5533845822143926" task="IE">
+<t>Girl poured acid on boyfriend's penis after he released sex tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1931" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5458761272046666" task="IE">
+<t>17-yr-old girl pours acid on boyfriend's penis after he leaked their sex tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1932" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9324198512904083" task="IE">
+<t>Woman Reportedly Pours Acid on Boyfriend's Penis After Finding His Sex Tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1933" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.945695320310939" task="IE">
+<t>Man's Penis Destroyed By Battery Acid Over Viral Sex Video In South Africa</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1934" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7356084627063737" task="IE">
+<t>Girl destroys boyfriends penis in acid attack after video of them having sex goes viral</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1935" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9565048450459842" task="IE">
+<t>I never intended to kill his penis I was just angry: Mpumalanga acid attack girl</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="2202" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8306810808618901" task="IE">
+<t>Soldier shot at War Memorial multiple shots fired in Parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2203" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5789241558809443" task="IE">
+<t>BREAKING: Soldier shot at War Memorial in Ottawa</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2204" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8464997560174862" task="IE">
+<t>There has been a shooting at the War Memorial on Parliament Hill. Unconfirmed reports say a soldier was shot.</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2205" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5872259843406593" task="IE">
+<t>Breaking: Soldier shot at National War Memorial in Ottawa</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2206" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.566072194290882" task="IE">
+<t>Soldier shot in Ottawa at War Memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2207" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9456743346498173" task="IE">
+<t>Gunman shot dead after killing soldier near Canadian parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2208" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8732332324896597" task="IE">
+<t>Multiple Shootings Near Canadian Parliament In Ottawa, Soldier Killed</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2209" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6229377972516207" task="IE">
+<t>Ottawa Shooting: Soldier Shot at Canada's National War Memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2210" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9718650140630283" task="IE">
+<t>Soldier shot at war memorial in Canada</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2211" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.894159186382696" task="IE">
+<t>A soldier has been shot dead at Canada's war memorial just steps away from the nation's parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2212" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8878412540306349" task="IE">
+<t>Soldier Killed, Suspect Dead In Shooting Near Canadian Parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2213" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7970142641632344" task="IE">
+<t>Gunman, a recent convert to Islam, dead after Canadian soldier Nathan Cirillo killed at Ottawa war memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2214" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9628702279944893" task="IE">
+<t>Soldier shot near Canadian parliament building</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2215" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9122607755395562" task="IE">
+<t>Attack on Ottawa: Dead soldier and gunman identified</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2391" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.910491993029167" task="IE">
+<t>Killing in the name of Kim Jong-un launches attack on others named Kim Jong-un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2392" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6961171119137133" task="IE">
+<t>North Korea reportedly bans anyone sharing Kim Jong Un's name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2393" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8366888501123434" task="IE">
+<t>No One In North Korea Is Allowed To Share Kim Jong Un's Name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2394" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8736000460232295" task="IE">
+<t>Kim Jong-Un bans the name Kim Jong-un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2395" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8085354084548172" task="IE">
+<t>Reports say North Korea's Kim insists on being the only Jong Un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2396" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7796310211034385" task="IE">
+<t>North Korea directive reveals apparent ban on sharing Kim Jong-un's name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2397" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9336247144260353" task="IE">
+<t>North Korea ordered citizens named Kim Jong Un to change their names, says new report</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2524" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8430044186037315" task="IE">
+<t>Apple Watch predicted to take 55 of the 2015 global smartwatch market with 15.4M units shipped</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+<pair id="2525" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7305208060927764" task="IE">
+<t>Apple Watch Smartwatch to Ship 15 Million Units Worldwide in 2015</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+<pair id="2526" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.973842986239062" task="IE">
+<t>Apple Watch to sell 15M units in 2015 and ignite global smartwatch market</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+<pair id="2563" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9376636156424797" task="IE">
+<t>Woman Dumped by Boyfriend Spends Entire Week Mourning at KFC</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2564" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8000394581450296" task="IE">
+<t>Jilted lover spends a week in KFC to try and get over her ex</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2565" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7758973452679679" task="IE">
+<t>Heartbroken girl spends week in KFC after getting dumped</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2566" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9102123064322905" task="IE">
+<t>Woman Spends Entire Week In KFC After Getting Dumped By Her Boyfriend</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2567" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8271617253829271" task="IE">
+<t>Comfort eating? Chinese woman, 26, spends an entire WEEK in KFC after being dumped by boyfriend</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2568" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6696900424427613" task="IE">
+<t>Dumped woman spends a week in KFC to get over ex</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2569" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8326550825363807" task="IE">
+<t>Woman Stays In KFC For A Week To Get Over Her Break-Up</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2570" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.720768629603942" task="IE">
+<t>Woman spends a week in KFC to get over her break up</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+</entailment-corpus>

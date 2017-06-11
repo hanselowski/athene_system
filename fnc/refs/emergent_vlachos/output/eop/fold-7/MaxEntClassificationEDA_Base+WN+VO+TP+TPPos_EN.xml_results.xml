@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="39" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.923673632524029" task="IE">
+<t>Isis leader injured in airstrike during meeting in Iraq</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="40" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9530872169936387" task="IE">
+<t>ISIS Leader Injured in Air Strike, Iraqi Officials Say</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="41" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7965118906867367" task="IE">
+<t>ISIS LEADER ABU BAKR AL-BAGHDADI INJURED IN U.S. AIR STRIKES, IRAQI OFFICIALS CLAIM</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="42" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.753484394287426" task="IE">
+<t>Condition of Abu Bakr al-Baghdadi, Islamic State leader, in doubt after airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="43" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6605544312192687" task="IE">
+<t>ISIS leader Abu Bakr al-Baghdadi wounded in airstrike, Iraq officials say</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="44" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6811715766379162" task="IE">
+<t>ISIS Leader Abu Bakr al-Baghdadi Wounded in Airstrikes His Aide Killed</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="45" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8226493987248841" task="IE">
+<t>U.S. airstrikes hit ISIS leader: Terror group chief critically wounded in Iraq after coalition forces bomb jihadi leaders</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="46" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8966034672395974" task="IE">
+<t>ISIS terror chief believed dead: Iraqi military confirm warlord WAS injured in US-led airstrike as speculation grows feared jihadist perished in attack</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="47" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7517674827797447" task="IE">
+<t>Isis Admits Leader Abu Bakr al-Baghdadi Injured in US Air Strike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="48" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8362453278348171" task="IE">
+<t>Abu Bakr al-Baghdadi's fate still unknown after US air strike on Isis as Iraqi forces enter Baiji</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="49" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7632456916786772" task="IE">
+<t>Isis air strikes: Abu Bakr al-Baghdadi critically wounded in air strikes near Mosul</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="50" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6209632144601348" task="IE">
+<t>Fate of IS leader Abu Bakr al-Baghdadi unknown after airstrikes target him</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="51" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5417740801892266" task="IE">
+<t>Islamic State leader Abu Bakr al-Baghdadi wounded in airstrike: claims</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="52" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9253712663447385" task="IE">
+<t>Fate of Isis leader remains unclear after US airstrike in Iraq</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="53" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7078804662004781" task="IE">
+<t>Islamic State leader Abu Bakr al-Baghdadi: Wounded, dead or missed entirely by U.S. airstrikes?</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was wounded in U.S. Airstrike</h>
+</pair>
+<pair id="84" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8835444091955997" task="IE">
+<t>Egypt's President denies offering land to Palestinians</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="85" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9140533350400245" task="IE">
+<t>El-Sisi denies claims he will give Sinai land to Palestinians</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="86" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8831768831279811" task="IE">
+<t>The Greater Gaza Plan: Is Israel trying to force Palestinians into Sinai?</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="87" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9265639520888249" task="IE">
+<t>Israeli Sisi offered Abbas a Palestinian state in Sinai</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="88" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9292821542390526" task="IE">
+<t>Israeli right welcomes Sisi's offer to a Palestinian State in Sinai</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="89" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9357519289851487" task="IE">
+<t>Egypt Offers Abbas Land in Sinai for Future Palestinian State Read</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="90" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9350182418462986" task="IE">
+<t>Sisi denies claims over providing Palestinians with Sinai lands</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="91" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9405844724784199" task="IE">
+<t>Egypt's Sisi Offered Abbas Creation of Palestinian State in Sinai Peninsula</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="92" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8107683705405268" task="IE">
+<t>Al-Sisi proposes: Extend Gaza Strip into Sinai and establish Palestinian state there</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="93" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.915469052386185" task="IE">
+<t>Rumors Swirling About Israel's Shocking Sinai Endgame Plan for Palestinians in Gaza</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="94" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9262921712596742" task="IE">
+<t>Egypt, PA deny report that Sisi offered Abbas land in Sinai for Palestinian state</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="95" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9272070044329296" task="IE">
+<t>Israeli politicians praise Sisi plan to give Palestinians land for a state in Sinai</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="96" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8606565150480029" task="IE">
+<t>Egyptian President Makes Surprising Suggestion to Move the Location of a Future Palestinian State</t>
+<h>Egyptian President al-Sisi proposed expanding the Gaza Strip through Sinai land</h>
+</pair>
+<pair id="173" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8384732629950759" task="IE">
+<t>Samsung reportedly missing out on huge 50 million Apple Watch display deal</t>
+<h>Apple will sell 50 million Apple Watches in 2015</h>
+</pair>
+<pair id="174" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8925555178443249" task="IE">
+<t>Apple hopes to sell over 50 million watches in 2015</t>
+<h>Apple will sell 50 million Apple Watches in 2015</h>
+</pair>
+<pair id="180" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.510727806899598" task="IE">
+<t>Apple reportedly not happy with one day Watch battery life, expects improvements by 2015 launch</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="181" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9239321201927669" task="IE">
+<t>Apple Watch users will need to recharge nightly, company still working to improve uptime before launch</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="182" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9097985699541616" task="IE">
+<t>it is confirmed: you will have to recharge your Apple Watch every night</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="183" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8435299159447807" task="IE">
+<t>Apple Watch Will Need Charging Every Day</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="184" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9130247034661245" task="IE">
+<t>CodeRed: Apple Watch Battery Life Charge Nightly</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="185" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9192436658328078" task="IE">
+<t>Apple is not Happy With The Battery Life Of Its New Smartwatch</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="186" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9063987308236415" task="IE">
+<t>Apple Watch battery will require nightly charging</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="187" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8981195702072907" task="IE">
+<t>Apple Watch Battery Life Currently About a Day, but May Improve for 2015 Launch</t>
+<h>Apple Watch battery does not last more than one day</h>
+</pair>
+<pair id="341" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9549868208583949" task="IE">
+<t>Evil Aunt Hacks Off Toddlers Penis</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="342" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9264113699764657" task="IE">
+<t>AUNT CUTS OFF 3-YEAR-OLD'S PENIS BECAUSE HE WALKED IN WHILE SHE WAS ON THE TOILET</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="343" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.553321052069546" task="IE">
+<t>Cruel aunt cuts off three-year-old nephew's penis after he walks in on her using the loo</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="344" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9549868208583949" task="IE">
+<t>Evil Aunt Hacks Off Toddlers Penis</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="345" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6748643844953929" task="IE">
+<t>Cruel aunt cuts her three-year-old nephew's penis off because he burst in on her on the loo and asked to use her phone</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="346" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5266480440664069" task="IE">
+<t>Disturbed aunt cuts off nephew's penis after he burst's in on her on the toilet.</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="347" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9596727030070866" task="IE">
+<t>China Penis Amputation: Cruel Aunt Viciously Mutilates Toddler's Genitals as Punishment</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="348" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9134626866793133" task="IE">
+<t>Angry Aunt Who Sliced Off Three-Year-Old Nephew's Penis Facing Five Years In Jail</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="349" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5266480440664069" task="IE">
+<t>Disturbed aunt cuts off nephew's penis after he burst's in on her on the toilet.</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="350" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9281850126911815" task="IE">
+<t>Woman Faces Jail Time After Slicing Off 3-Year-Old Nephew's Penis</t>
+<h>A young boy's aunt chopped off his penis after he interrupted her in the bathroom</h>
+</pair>
+<pair id="597" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.875227888052741" task="IE">
+<t>Comcast got me fired after billing dispute, says California man</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="598" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9182442647544394" task="IE">
+<t>Unhappy Customer: Comcast Told My Employer About Complaint, Got Me Fired</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="599" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.946053156341853" task="IE">
+<t>Accountant Says Comcast Got Him Fired for Contesting Bogus Charges</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="600" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8754366732704868" task="IE">
+<t>The Man Who Says Comcast Got Him Fired Has Filed a Lawsuit</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="601" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9626935950277682" task="IE">
+<t>Customer: I was fired for Comcast complaint</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="602" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8740889025803822" task="IE">
+<t>Accountant Claims Comcast Got Him Fired From His Job for Reporting a Customer Service Issue</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="603" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6288689157550177" task="IE">
+<t>A Man Says Comcast Called His Boss And Got Him Fired After He Complained About Its Service</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="604" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6814423106030683" task="IE">
+<t>Comcast Got Me Fired A Man Says After He Complained About The Cable Company's Service, They Called His Boss</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="605" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9340067787773852" task="IE">
+<t>Comcast Turns Complaints Back On Customer, Gets His Employer To Fire Him</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="606" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9362000853593293" task="IE">
+<t>Comcast gets customer fired for complaining about poor service</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="607" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.91146898138953" task="IE">
+<t>Claim: Comcast Got Complaining Customer Fired From His Job</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="608" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8361089023130399" task="IE">
+<t>Did Comcast Get a Man Fired From His Job for Complaining About Its Service?</t>
+<h>Comcast got a man fired from his job after he complained about the company's service</h>
+</pair>
+<pair id="714" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8535654152718648" task="IE">
+<t>Evander Kane On Way Out From Source, Price Is Very High Who Is In?</t>
+<h>Evander Kane could be traded by the Jets</h>
+</pair>
+<pair id="715" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9524638087911975" task="IE">
+<t>KANE'S FUTURE IN WINNIPEG IN DOUBT?</t>
+<h>Evander Kane could be traded by the Jets</h>
+</pair>
+<pair id="718" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8964285057902299" task="IE">
+<t>Feminist Aborts Baby For Being A Boy, Shocked People do not Approve</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="719" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8785512097073782" task="IE">
+<t>I aborted my baby because it was a boy</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="720" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8927343410832841" task="IE">
+<t>Feminist says she aborted baby because it was a boy</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="721" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8369279061090099" task="IE">
+<t>Feminist Lana Aborts Baby Because it is A Boy And Is Surprised By Backlash</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="722" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9645898853147639" task="IE">
+<t>Therefore, the feminist blogger who aborted a boy probably fake</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="723" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7576966510456611" task="IE">
+<t>I aborted my baby because it was a boy: Outrage after feminist blogger claims gender prompted termination</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="724" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7670089080655916" task="IE">
+<t>Has a woman aborted her baby because it is a boy?</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="783" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9162080737683667" task="IE">
+<t>The FoxNewsPress Account Tweeting Lawsuit Threats Is a Fake</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="784" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5785798902696762" task="IE">
+<t>No - a Fox News Twitter account is not responding to tweets on the FoxNewsFacts hashtag</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="785" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.72266645406788" task="IE">
+<t>Fake Fox News Twitter account emerges after FoxNewsFacts goes viral</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="786" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8730238019211605" task="IE">
+<t>Police identify shooter in Florida State tragedy</t>
+<h>The Floria State University shooter is named Myron May</h>
+</pair>
+<pair id="787" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8383912345768252" task="IE">
+<t>AP Police say gunman in FSU library shooting, Myron May, was alumnus</t>
+<h>The Floria State University shooter is named Myron May</h>
+</pair>
+<pair id="849" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9464480567003356" task="IE">
+<t>Google seals massive Sunnyvale, Redwood City deals</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="850" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8152760051386477" task="IE">
+<t>Google to buy big chunk of Pacific Shores, iconic Redwood City office park</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="851" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9185179193502477" task="IE">
+<t>Google Said to Buy Redwood City Offices for 585 Million</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="852" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9185179193502477" task="IE">
+<t>Google Said to Buy Redwood City Offices for 585 Million</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="853" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9510888121892492" task="IE">
+<t>Google Grows With 1.6 Billion in California Office Deals</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="854" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9455001432830666" task="IE">
+<t>Google said to buy six silicon valley buildings for 585 million</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="855" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9131090952521407" task="IE">
+<t>Google to Buy Redwood City Offices for 585M</t>
+<h>Google will purchase roughly half of Pacific Shores office park</h>
+</pair>
+<pair id="862" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9599031959859399" task="IE">
+<t>Student accidentally sets college on fire during fireworks proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="863" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6429147070699789" task="IE">
+<t>The Unluckiest Man In The World Set His College On Fire With A Fireworks Marriage Proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="864" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9688341286519997" task="IE">
+<t>Hopeless romantic BURNS DOWN college sports hall after fireworks proposal stunt fails</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="865" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9646184739725019" task="IE">
+<t>Blundering boyfriend burns down college after trying to impress his girlfriend with elaborate marriage proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="964" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7142090293177328" task="IE">
+<t>Hugh Hefner Dead? Fans Panic That Playboy Founder Is Gone</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="965" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6083808922124895" task="IE">
+<t>BREAKING: Playboy Tycoon Hugh Hefner Passes Away at Age of 88</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="966" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8155900543826349" task="IE">
+<t>Hugh Hefner Dead Rumors Not True</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="967" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7634419993213836" task="IE">
+<t>Rumours of my death are greatly exaggerated: Relax ladies, Hugh Hefner is alive and kicking</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="968" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.8193643474301018" task="IE">
+<t>Hugh Hefner dead: Playboy founder makes it to film night despite mortality rumours</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="969" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8317783801662698" task="IE">
+<t>Hugh Hefner Found Dead But Still Makes It To Family Movie Night</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="991" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9490872048848753" task="IE">
+<t>Would-be rapist has penis severed by angry mob</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="992" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9202014097720203" task="IE">
+<t>Lynch mob use butcher's meat cleaver to castrate rapist they caught attacking teenage girl in alleyway in Indian city</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="993" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8669614786268038" task="IE">
+<t>Man has his PENIS cut off by angry mob after attempted rape of teenager</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="994" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8433790210033131" task="IE">
+<t>Angry mob chops off man's genitals with butcher's knife for alleged rape attempt</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="995" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9096044576407071" task="IE">
+<t>Sex attacker has penis cut off with a cleaver in India</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="996" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9638352536985991" task="IE">
+<t>Indian Rapist Castrated By Angry Mob Who Hack Off Gentials With Meat Cleaver GRAPHIC PICTURES</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="997" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9216983997499479" task="IE">
+<t>Rajasthan: Man Tries to Rape Teenager, Angry Mob Chops His Penis Off</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="998" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9603068599131845" task="IE">
+<t>India Rape Crisis Sees Mob Castrate Alleged Sex Attacker in Shocking Scenes</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="999" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7187162276940174" task="IE">
+<t>Lynch mob chop man's penis off after catching him allegedly trying to rape teenager</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1000" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9638352536985991" task="IE">
+<t>Lynch Mob Castrates Alleged Rapist In Rajasthan</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1001" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8774946847892772" task="IE">
+<t>SHOCKING: Indian Man's Penis Cut-off After He Was Caught Attempting Rape Photos</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1002" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.906708339761887" task="IE">
+<t>Angry mob hacks off alleged rapist's genitals with meat cleaver after dragging him into butchers</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1003" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8768612920614282" task="IE">
+<t>Rajasthan: Angry mob teaches rapist a lesson chops penis off</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1004" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9447331414533189" task="IE">
+<t>Vigilantes cut off alleged rapist's penis</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1005" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9297681454667678" task="IE">
+<t>Angry mob cut off rapist's penis with meat cleaver VIEWER DISCRETION</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1089" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9304982246519643" task="IE">
+<t>IS Beheads Its Own Fighters in Accordance With Their Interpretation of Sharia Law</t>
+<h>ISIS executed two of its own fighters in Al-Bukamal</h>
+</pair>
+<pair id="1090" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9641277961590329" task="IE">
+<t>Islamic State executed two of its militants in the city of al- Bokamal.</t>
+<h>ISIS executed two of its own fighters in Al-Bukamal</h>
+</pair>
+<pair id="1091" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9215119140611696" task="IE">
+<t>ISIS Executes Own Fighters for Spying, Embezzlement</t>
+<h>ISIS executed two of its own fighters in Al-Bukamal</h>
+</pair>
+<pair id="1092" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9227516653332529" task="IE">
+<t>Isis behead their own fighters for spying and embezzlement in Syria</t>
+<h>ISIS executed two of its own fighters in Al-Bukamal</h>
+</pair>
+<pair id="1310" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9588049699435158" task="IE">
+<t>Daash Syria Announces Egyptian escape b Zakat funds Google Translate</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1311" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9463642918533858" task="IE">
+<t>An Egyptian ISIS treasurer stole 1 million and fled to Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1312" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6688294253925133" task="IE">
+<t>Isis Egyptian treasurer steals Zakat funds and flees to Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1313" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9065633289847472" task="IE">
+<t>ISIS Treasurer Reportedly Steals 1M From Group, Flees To Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1395" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.764682346853032" task="IE">
+<t>Kim Jong-Un may be dying because he is addicted to Swiss Cheese</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1396" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9259280428168302" task="IE">
+<t>Cheese blamed for North Korean leader Kim Jong-un's broken ankles</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1397" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9156628929177593" task="IE">
+<t>Cheese addiction breaks Kim Jong-un's ankles</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1398" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7902383264747327" task="IE">
+<t>Is Kim Jong ill? North Korean dictator in poor health as his weight has ballooned thanks to an obsession with cheese</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1399" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8509504963068549" task="IE">
+<t>Kim Jong IS Un-well and it could be GOUT North Korea confirms its young dictator is suffering discomfort after addiction to Swiss cheese revealed</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1400" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9013811535374688" task="IE">
+<t>Fat dictator Kim Jong-un dying from cheese addiction</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1401" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9290219408017563" task="IE">
+<t>Missing Kim Jong-un suffering with condition after CHEESE binge</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1402" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9027462055318007" task="IE">
+<t>Switzerland's Assassination, Kim Jong Un Might Die From Cheese Overdose</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1403" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9013811535374688" task="IE">
+<t>Kim Jong-un's discomfort down to cheese addiction</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1404" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8315501702311804" task="IE">
+<t>Kim Jong-un loves CHEESE so much he is ballooned in size and walks with limp</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1405" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.598272016430131" task="IE">
+<t>North Korean dictator Kim Jong-un may be seriously ill from eating too much Emmental cheese: report</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1497" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5062622512166586" task="IE">
+<t>Robert Plant ripped up 800M Led Zeppelin reunion contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1498" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6460628036052425" task="IE">
+<t>Robert Plant Literally Ripped Up An 800 Million Contract To Reunite Led Zeppelin</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1499" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5963377060133523" task="IE">
+<t>Robert Plant Reportedly Tears Up 800 Million Led Zeppelin Reunion Contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1500" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8099943884125536" task="IE">
+<t>Rumor Robert Plant Ripped Up 800 Million Contract To Reunite Led Zeppelin Called Rubbish</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1501" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7153991358622666" task="IE">
+<t>Led Zeppelin Reunion: Robert Plant Rips Up 300 Million Contract, Refuses To Rejoin Legendary Band</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1502" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6740666746061875" task="IE">
+<t>Led Zeppelin's Robert Plant ripped up a 924 million reunion contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1503" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7904481182310099" task="IE">
+<t>it is rubbish that Robert Plant turned down 500m Led Zeppelin reformation offer, says publicist</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1504" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7781805928884643" task="IE">
+<t>No, Robert Plant did not Rip Up an 800 Million Contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1524" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8694076485078667" task="IE">
+<t>Rumor: Apple Watch Screens To Be Supplied By LG Display And Samsung Display</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1525" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9232367377821005" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: Report</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1526" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9161913900473494" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: South Korea paper</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1527" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8821399365562401" task="IE">
+<t>Samsung Rumoured to be Supplying the Screens for Apple Watch... Mk II</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1528" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9161913900473494" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: South Korea paper</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1675" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9097755847052862" task="IE">
+<t>You can still order a McPizza at these two McDonald's locations</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1676" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9095769976964228" task="IE">
+<t>No, McPizza is not available in two US McDonald's Google Translate</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1677" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8067755350542763" task="IE">
+<t>Attention children of the 90s: you can still get McDonald's pizza</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1678" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9097755847052862" task="IE">
+<t>You can still order a McPizza at these two McDonald's locations</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1679" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8341188371531517" task="IE">
+<t>Here Are the 2 Places Left Where You Can Find That Taste of the 90s, McDonald's Pizza</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1680" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7395154344335346" task="IE">
+<t>There Are Still Two McDonald's That Serve McPizza From the 90s</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1681" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9617013865966841" task="IE">
+<t>DISCONTINUED 90S MCPIZZA STILL EXISTS AT THESE MCDONALD'S LOCATIONS</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1968" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8842271678786346" task="IE">
+<t>No, a mechanical polar bear is not about to be given an Asbo</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1969" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7913710517926957" task="IE">
+<t>Mechanical polar bear threatened with ASBO for singing Christmas songs</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1970" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9776925150785324" task="IE">
+<t>Unbearable Carolling toy in Shefford gagged by council</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1971" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.953482524616217" task="IE">
+<t>Singing polar bear facing ASBO after noise complaint</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="2340" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9526785460602035" task="IE">
+<t>Lady on FB: I am 41, Intersex, and Fucked Michael Phelps on First Date</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2341" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7176070869004003" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend, 41, reveals she was born a male as she describes her amazing intimacy with Olympic swimmer</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2342" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7530458375064158" task="IE">
+<t>Taylor Lianne Chandler: Everything you need to know about Michael Phelps intersex girlfriend</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2343" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7432662957769052" task="IE">
+<t>Taylor Lianne Chandler: Michael Phelps Cougar Girlfriend Revealed?</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2344" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9202396965398256" task="IE">
+<t>Michael Phelps alleged girlfriend says she was born intersex</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2556" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.7429919693794989" task="IE">
+<t>Willie Nelson dead 2015 : Guitarist killed by internet death hoax</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2557" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7365566603834338" task="IE">
+<t>Country Music Legend Willie Nelson Dies at Age 81</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2558" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.705917338475377" task="IE">
+<t>Willie Nelson Dead? Internet Freaks Out As Another Celebrity Death Hoax Makes The Rounds</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2559" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7196561274609267" task="IE">
+<t>Willie Nelson Dead? Viral Hoax Fools Internet</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2560" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9053140208260662" task="IE">
+<t>Elderly Woman Arrested for Kidnapping Neighbor's Cats Making Fur Coats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+<pair id="2561" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9053140208260662" task="IE">
+<t>Elderly Woman Arrested for Kidnapping Neighbor's Cats Making Fur Coats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+<pair id="2562" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9449412296543737" task="IE">
+<t>Little old lady Arrested for Making Fur Coats with Neighbor's Cats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+</entailment-corpus>

@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="54" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49545243614034334" task="IE">
+<t>Libya: Missing Libya Planes Spark Security Concerns</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="55" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.44261003060604664" task="IE">
+<t>Missing Libyan aircraft spark fears of 911-style attack in North Africa</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="56" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4966025985899618" task="IE">
+<t>Missing Libyan Jetliners Raise Fears of Suicide Airliner Attacks on 911</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="57" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.51190203102649" task="IE">
+<t>WFB's Bill Gertz: Obama Administration Trying to Play Down Missing Libyan Airliners</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="58" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.44758093869658727" task="IE">
+<t>11 aircraft are missing from terrorist-held Tripoli airport ahead of 911 anniversary</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="59" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47817833391886877" task="IE">
+<t>JETLINERS STOLEN FROM LIBYA COULD BE USED TO ATTACK U.S. ON 911</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="60" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.510825225874929" task="IE">
+<t>Pictured: Libyan Islamist rebels pose with planes seized from Tripoli airport as U.S. officials warn they could be used to carry out terrorist attack on 911 anniversary</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="61" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4966025985899618" task="IE">
+<t>Missing Libyan jetliners raise fears of suicide airliner attacks on 911</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="62" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4328434223673776" task="IE">
+<t>Islamist Militants Steal 11 Commercial Planes In Libya, Sparking Terror Attack Fears</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="63" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4678495739739684" task="IE">
+<t>11 Tripoli Planes Still Missing, Sparks 911 Concerns</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="64" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.45966759257657697" task="IE">
+<t>Missing jetliners raise fear of new 911-style attacks after Libyan airport falls to Islamic militants</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="65" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49286648693386986" task="IE">
+<t>Jihadists Steal Commercial Jets, Raise 911 Fears</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="66" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49557618610486304" task="IE">
+<t>Missing Planes</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="67" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49557618610486304" task="IE">
+<t>Terrorism fears rise amid reports of stolen jetliners</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="68" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4582974416773748" task="IE">
+<t>Nearly a Dozen Commercial Airliners Missing Ahead of 911 Anniversary After Islamists Overrun Libyan Airport</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="69" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.43006227400086594" task="IE">
+<t>What Glenn Beck Fears May Be Done With the 11 Missing Jets</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="70" entailment="Entailment" benchmark="UNKNOWN" confidence="0.45094355454439566" task="IE">
+<t>Reports of missing Libyan planes raise 911 terror fears</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="71" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.504991671891473" task="IE">
+<t>Missing Libyan jetliners raise fears of terror attacks on 911</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="72" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5517068871440821" task="IE">
+<t>11 jetliners missing after Islamist takeover of airport</t>
+<h>11 commercial aircraft went missing from the Tripoli airport</h>
+</pair>
+<pair id="111" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6292958680064464" task="IE">
+<t>Obama Orders Fed To Adopt Euro Currency</t>
+<h>President Obama ordered the Federal Reserve to adopt the Euro</h>
+</pair>
+<pair id="131" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5296160162834748" task="IE">
+<t>do not cancel your ski plans, Apple's not having an event in Feb.</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="132" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4775766187014364" task="IE">
+<t>Rumor: Apple to hold event this month to unveil Retina MacBook Air finalize Apple Watch specs</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="133" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49713214112634274" task="IE">
+<t>Apple's next big event reportedly set for late February</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="134" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5568918754857797" task="IE">
+<t>Apple could make a Special Event in late February Update</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="135" entailment="Unknown" benchmark="UNKNOWN" confidence="0.40409342151539657" task="IE">
+<t>Apple Media Event Rumored for Late February, Apple Watch and 12 MacBook Air Likely Topics Updated</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="136" entailment="Unknown" benchmark="UNKNOWN" confidence="0.42597232960703874" task="IE">
+<t>Apple May Or May Not Hold An Event On The 24th Of February Rumor</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="138" entailment="Entailment" benchmark="UNKNOWN" confidence="0.46970217111887974" task="IE">
+<t>Apple might finally unveil the Retina MacBook Air of your dreams next week</t>
+<h>Apple will announce a 12-inch MacBook Air Retina at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="139" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47713359496202806" task="IE">
+<t>EXCLUSIVE: Apple To Unveil The Long-Awaited Retina MacBook Air At Its Spring Forward Event</t>
+<h>Apple will announce a 12-inch MacBook Air Retina at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="140" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5502850616098794" task="IE">
+<t>Apple could surprise us with 12-inch MacBook Air next week</t>
+<h>Apple will announce a 12-inch MacBook Air Retina at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="141" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4409768537374716" task="IE">
+<t>Rumor Suggests 12-Inch Retina MacBook Air Could Launch During March 9 Apple Watch Event</t>
+<h>Apple will announce a 12-inch MacBook Air Retina at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="175" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5207988185112787" task="IE">
+<t>Apple Watch: Release well initially only in Apple Stores</t>
+<h>Apple Watch will only be sold in Apple Stores at launch</h>
+</pair>
+<pair id="176" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.46600413308137184" task="IE">
+<t>If you want an Apple Watch, you will probably be trekking to an Apple Store</t>
+<h>Apple Watch will only be sold in Apple Stores at launch</h>
+</pair>
+<pair id="195" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.4837182913117665" task="IE">
+<t>Apple Watch has a Lightning port for development, but will not when it ships</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="196" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5074229006317499" task="IE">
+<t>Apple Watch reportedly features unannounced diagnostics port under strap connector</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="197" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.43312180395932437" task="IE">
+<t>Hidden Diagnostic Port on Apple Watch Could Allow for Smart Band Accessories Updated</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="198" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5115249153436368" task="IE">
+<t>Apple Watch Digital Crown -- Could It Color Adjusted?</t>
+<h>The Digital Crown on the Apple Watch will come in different colors.</h>
+</pair>
+<pair id="234" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.45541301742030366" task="IE">
+<t>Tim Cook says Apple Watch will be available outside U.S. in April</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="235" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5849685855997925" task="IE">
+<t>Apple Watch will not be a U.S.-only launch</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="236" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4705075075437528" task="IE">
+<t>The Apple Watch will launch outside the US in April too</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="237" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4565638649632964" task="IE">
+<t>The Apple Watch will be available outside the US when it launches next month</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="238" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4589703898574405" task="IE">
+<t>Tim Cook teases Apple Watch launch apps, and its debut in Germany</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="239" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49554407057407834" task="IE">
+<t>Apple Watch may be available outside US shortly after launch</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="301" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5740282086278621" task="IE">
+<t>You may be able to make appointments at the Apple Store to try on the Apple Watch when it launches</t>
+<h>Apple will take appointments at Apple Stores to try on the Apple Watch</h>
+</pair>
+<pair id="302" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6061672610556705" task="IE">
+<t>Apple to Take Reservations for Trying On Apple Watch, Considered Platinum Model</t>
+<h>Apple will take appointments at Apple Stores to try on the Apple Watch</h>
+</pair>
+<pair id="305" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.530286065177417" task="IE">
+<t>Sorry, Argentina's President did not Actually Adopt a Jewish Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="306" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.465054063841547" task="IE">
+<t>Werewolf Legend Leads To Jewish Godson's Adoption by Argentina President</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="307" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8293028388895984" task="IE">
+<t>President of Argentina Adopts Boy to Stop Him from Becoming a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="308" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.716211194227852" task="IE">
+<t>President of Argentina adopts godson to stop him from turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="309" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.533368949749246" task="IE">
+<t>Argentina's President Just Adopted a Son So He will not Turn into a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="310" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5598903115265169" task="IE">
+<t>Did Argentina's President Adopt A Jewish Baby To Stop It From Becoming A Werewolf??</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="311" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5142013714996239" task="IE">
+<t>People Actually Believed Argentina's President Adopted A Jewish Boy To Stop His Change Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="312" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5197387044851834" task="IE">
+<t>there is A Weird Story Going Around About How Argentina's President Just Saved A Jewish Man From Becoming A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="313" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5854865815470076" task="IE">
+<t>Argentina's President Adopted A Jewish Godson To Stop Him From Turning Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="314" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6997489469689709" task="IE">
+<t>The story of the Argentinean president, werewolves and seventh sons</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="315" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7206322441773747" task="IE">
+<t>Werewolf legend leads Argentine president to adopt</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="316" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4868176123402717" task="IE">
+<t>Argentina's President Adopts Young Boy so He will not Turn Into Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="317" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5082646478948135" task="IE">
+<t>Argentina president adopts Jewish godson for first time in country's history</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="318" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4840007827665914" task="IE">
+<t>Argentina President, Christina Kirchner, Has Bizarre Werewolf Mishap</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="319" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4917854994860384" task="IE">
+<t>Argentina's President Cristina Kirchner Adopts Jewish Godson To Prevent Him Turning Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="320" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7106421908481184" task="IE">
+<t>President of Argentina adopts Jewish boy to stop him turning into werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="321" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6807605020505544" task="IE">
+<t>President of Argentina adopts Jewish godson to stop him turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="322" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5970062906452691" task="IE">
+<t>Argentina's president adopts Jewish godson to counteract werewolf legend</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="323" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4727868119001528" task="IE">
+<t>Argentina's President did not Adopt A Jewish Child To Avoid Becoming A Werewolf So What Did She Do?</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="324" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5369588481072652" task="IE">
+<t>Argentina's President Adopts Boy to End Werewolf Curse</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="325" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5096421329150714" task="IE">
+<t>Argentine President Takes On Godson But Not To Keep Werewolf At Bay</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="326" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5934566257801611" task="IE">
+<t>Argentina president adopts young Jewish boy as godson to prevent him from turning into werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="327" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5847123212722514" task="IE">
+<t>Argentina's President Adopts Jewish Boy to Keep Him from Turning into a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="328" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5040047000845478" task="IE">
+<t>Seventh Sons Will Turn into Werewolves</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="329" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6781398779403467" task="IE">
+<t>Argentina's president adopts godson to prevent him becoming a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="330" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5215591257332299" task="IE">
+<t>No, Argentina's president did not adopt a Jewish child to stop him turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="331" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5529231319498836" task="IE">
+<t>Argentinian President Cristina Kirchner adopts Jewish boy to protect him from werewolf stigma</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="332" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5462303504990027" task="IE">
+<t>Adopting Potential Werewolves Is Routine Business for Argentine Presidents</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="333" entailment="Entailment" benchmark="UNKNOWN" confidence="0.511999005792074" task="IE">
+<t>Did Argentina's president adopt a Jewish boy to save him from life as a werewolf'?</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="351" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5714592332841401" task="IE">
+<t>Ski Resort Opens With Snow Stored From Last Season</t>
+<h>Low snowfall led an Austrian ski resort to use snow gathered the previous season</h>
+</pair>
+<pair id="374" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.45978140414046265" task="IE">
+<t>No, that broken pencil illustration is not by Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="375" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.38988487645645264" task="IE">
+<t>Lucille Clerc's powerful message of perseverance goes viral after a fake Banksy account reposts it</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="376" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.40599748759648385" task="IE">
+<t>The Image That Everyone Is Sharing By Banksy is not By Banksy But it is Awesome</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="377" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5145003770923422" task="IE">
+<t>No, Banksy did not Create That Charlie Hebdo Tribute Cartoon, But That does not Mean You cannot Appreciate It</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="378" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.47108431633038095" task="IE">
+<t>This Powerful Cartoon About The Charlie Hebdo Attack Is Not By Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="379" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4301012261046163" task="IE">
+<t>Did Banksy Post This Poignant Tribute To Paris Shooting Victims? Probably Not</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="380" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.47572085623804844" task="IE">
+<t>Banksy's illustrated response to the Charlie Hebdo attack is not by Banksy. But it is striking</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="381" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.8727721695591909" task="IE">
+<t>A Bogus Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="382" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4124037179506444" task="IE">
+<t>Banksy Instagram tribute to Charlie Hebdo victims not posted by artist</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="437" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5626392354570656" task="IE">
+<t>Boston.com retracts claim about racist email from professor</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he had argued with over food pricing</h>
+</pair>
+<pair id="438" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4802598536467419" task="IE">
+<t>Update: Did Boston.com Make Up This Story About The Web Sheriff Ben Edelman Sending Racist Emails?</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he had argued with over food pricing</h>
+</pair>
+<pair id="439" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5766740646972555" task="IE">
+<t>Boston.com pulls story accusing prof of sending racist emails</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he had argued with over food pricing</h>
+</pair>
+<pair id="483" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.48306235097374556" task="IE">
+<t>Vladimir Putin gives speech on dangers of military aggression</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="484" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6383065465464715" task="IE">
+<t>No, a bird did not poop on Vladimir Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="485" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49789368450959715" task="IE">
+<t>WATCH: Bird Launches Airstrike on Putin's Shoulder UPDATED</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="486" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.49313431083264375" task="IE">
+<t>A Bunch Of Folks Are Passing Around This Hoax Video Of A Bird Pooping On Vladimir Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="487" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.4422253441946624" task="IE">
+<t>No, Vladimir Putin did not get pooped on by a bird during a First World War speech</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="488" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.49358736812181847" task="IE">
+<t>Vladimir Putin Bird Poop Video is Fake</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="489" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5306689316975998" task="IE">
+<t>If Only A Bird Really Did Poop on Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="490" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.45024606465198824" task="IE">
+<t>The video of a bird pooping on Vladimir Putin is a hoax</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="491" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4650266764214056" task="IE">
+<t>News sites fall for Putin bird-dropping video</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="637" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5606211398078268" task="IE">
+<t>ISIS supporters mourn death of youngest fighter</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="638" entailment="Entailment" benchmark="UNKNOWN" confidence="0.48501820082658603" task="IE">
+<t>The cub of Baghdadi: ISIS reports its youngest jihadist got martyred in battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="639" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47445312500391834" task="IE">
+<t>The cub of Baghdadi: Has this boy become the youngest victim of Isis's use of child soldiers?</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="640" entailment="Entailment" benchmark="UNKNOWN" confidence="0.568818473928313" task="IE">
+<t>ISIS Releases YouTube Video Showing 10-Year-Old Martyr Allegedly Killed in Battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="641" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4894418203185851" task="IE">
+<t>Our youngest martyr: ISIS boasts a jihadi fighter aged just TEN was killed as he went into battle with his father in Syria</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="642" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4670159297750386" task="IE">
+<t>The cub of Baghdadi: Has this boy become the youngest victim yet of Isis's use of child soldiers?</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="643" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6156268811938401" task="IE">
+<t>Islamic State reports youngest jihadist martyred in battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="644" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5091726655151452" task="IE">
+<t>ISIS pays tribute to its Cub of Baghdadi child soldier</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="662" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.739735099896601" task="IE">
+<t>REVEALED: Woman Behind 5 Million Per Year Youtube Channel Is a Former Porn Star</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="663" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.43650283412105606" task="IE">
+<t>Mystery woman behind the richest hands on the internet revealed: Former pornstar makes 5m a year unwrapping Disney toys on YouTube</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="664" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5112199574016809" task="IE">
+<t>Former Porn Star Behind YouTube Sensation DC Toy Collector, Makes 5 Million Per Year Unboxing Disney Toys</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="676" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4949819963942414" task="IE">
+<t>eBay developing Apple Watch software with ties to iOS app</t>
+<h>eBay will make an Apple Watch app</h>
+</pair>
+<pair id="677" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5529235933843167" task="IE">
+<t>EBay appears to be planning an Apple Watch app</t>
+<h>eBay will make an Apple Watch app</h>
+</pair>
+<pair id="678" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.591688827610158" task="IE">
+<t>eBay is planning an Apple Watch app</t>
+<h>eBay will make an Apple Watch app</h>
+</pair>
+<pair id="679" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.48945654465177485" task="IE">
+<t>eBay working on bidding app for Apple Watch</t>
+<h>eBay will make an Apple Watch app</h>
+</pair>
+<pair id="685" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.43342461888715406" task="IE">
+<t>Research Medical Center denies reports that a patient has Ebola</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="686" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6884618091584269" task="IE">
+<t>Ebola Scare in Kansas City</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="687" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4375560947499147" task="IE">
+<t>Hospital Officials: Kansas City Patient Not Being Treated For Ebola</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="688" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.522334023091804" task="IE">
+<t>Despite no Ebola case in Kansas City, the rumor goes viral</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="689" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.49001848369740403" task="IE">
+<t>Hospital: Man not being treated for Ebola in Kansas City</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="690" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.446653131368248" task="IE">
+<t>KC hospital: Patient does not have symptom profile of Ebola</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="691" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.42459715062479103" task="IE">
+<t>Sick Kansas City man said not to have Ebola, U.S. plans new steps to fight virus</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="692" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.49001848369740403" task="IE">
+<t>Hospital: Man not being treated for Ebola in Kansas City</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="693" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5469083422958183" task="IE">
+<t>Nigerian Woman Quarantined in KC with Ebola-Like Symptoms Video</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="694" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4524790496170009" task="IE">
+<t>KC Man Does Not Have Ebola</t>
+<h>There is a case of Ebola in Kansas City</h>
+</pair>
+<pair id="716" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6519549072161782" task="IE">
+<t>Doubts raised over authenticity of Charlie Hebdo footage.</t>
+<h>The BBC carried a report that questions the official version of the Charlie Hebdo murders</h>
+</pair>
+<pair id="717" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5244576495039845" task="IE">
+<t>Fake BBC News website set up to carry Charlie Hebdo attack conspiracy theories</t>
+<h>The BBC carried a report that questions the official version of the Charlie Hebdo murders</h>
+</pair>
+<pair id="772" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6176649365759654" task="IE">
+<t>Rob O'Neill may have killed bin Laden, but did not take out gangster intruders</t>
+<h>Robert O'Neill, the former SEAL who claims to have shot Bin Laden, was attacked in his home by members of a street gang</h>
+</pair>
+<pair id="773" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5445356518758256" task="IE">
+<t>Bin Laden Shooter Rob O'Neill Mistakenly Attacked By Street Thugs Seeking To Collect Debt From Neighbor</t>
+<h>Robert O'Neill, the former SEAL who claims to have shot Bin Laden, was attacked in his home by members of a street gang</h>
+</pair>
+<pair id="788" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5906112218566614" task="IE">
+<t>Saudi Arabia's national airline planning to introduce gender segregation on flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="789" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.4188758297685412" task="IE">
+<t>Saudi airline rep denies plan to separate men and women on flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="790" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4583142628357893" task="IE">
+<t>Saudi Arabia May Be Taking Misogyny to the Skies</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="791" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5073012504483391" task="IE">
+<t>Saudi Airline Considering Separating Passengers By Gender</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="792" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6031566374533929" task="IE">
+<t>Saudi national airline may introduce gender segregation on its flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="793" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6034370100452648" task="IE">
+<t>No gender segregation on Saudia</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="794" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.44829611765137095" task="IE">
+<t>Saudi Arabia's national airline to introduce gender segregation after a string of complaints from male passengers</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="795" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5630918225390659" task="IE">
+<t>Saudi Airlines to ban gender-mixing seating</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="796" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5376431444352356" task="IE">
+<t>Saudi airline, Saudia, to ban gender-mixing</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="797" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47162182792158414" task="IE">
+<t>Saudi Arabia airline segregation: Saudi airlines to assign seats based on gender</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="798" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4448396119838281" task="IE">
+<t>Saudi Arabia's national airline plans to keep men and women apart</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="799" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5970074881562996" task="IE">
+<t>Saudi Arabia set to introduce gender segregation on national airline flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="800" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4239906939508123" task="IE">
+<t>Saudi Arabia Airline Segregation: New Islamic Law Takes Flight On Airliner, Seating By Gender Coming Soon</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="801" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4433390192698408" task="IE">
+<t>Saudi Airlines Sexist: Airline Intends To Enforce Rules To Separate Male And Female Passengers</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="802" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4552839716571576" task="IE">
+<t>Saudi Arabian airline to separate genders after men complain about blokes sitting next to their wives</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="803" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5864834800007787" task="IE">
+<t>Saudi Airlines to Separate Men and Women on Flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="804" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.49015548593771247" task="IE">
+<t>Saudi Arabian Airline Rep Denies Plan to Separate Men and Women on Flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="805" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.597494332117658" task="IE">
+<t>Saudi Airlines to segregate sexes</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="806" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5682646384844545" task="IE">
+<t>US Ally Saudi Arabia Starts Gender Segregation On National Airline</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="807" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.47146533623371084" task="IE">
+<t>YPG Confirms: Gill Rosenberg Not Captured in Kobani</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="808" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5033001593829319" task="IE">
+<t>Canadian-Israeli Woman Says She has not Been Captured By ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="809" entailment="Unknown" benchmark="UNKNOWN" confidence="0.47018085186267033" task="IE">
+<t>Gill Rosenberg, Canadian citizen, reportedly captured by ISIS in Syria</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="810" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.460869000163885" task="IE">
+<t>Canadian woman captured by ISIS in Syria says she is actually fine and still fighting the jihadists, despite kidnap reports</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="811" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4058043996417255" task="IE">
+<t>Israeli Canadian fighting ISIS posts on Facebook: I am safe and secure</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="812" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6859479443712033" task="IE">
+<t>Unconfirmed reports claim Canadian-Israeli Gill Rosenberg captured by ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="813" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4603796571152874" task="IE">
+<t>Canadian-Israeli Woman May Have Been Captured In Syria: Reports</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="814" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.42551605379443275" task="IE">
+<t>Gill Rosenberg, Canadian-Israeli Woman Feared Kidnapped By ISIS, Says She is Safe</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="815" entailment="Unknown" benchmark="UNKNOWN" confidence="0.43390353344466376" task="IE">
+<t>ISIS Claims It Kidnapped Gill Rosenberg, The First Western Woman To Fall Into The Group's Hands</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="816" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.48772406854036054" task="IE">
+<t>Israeli-Canadian Woman Captured By ISIS Says She Is Safe And Secure</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="817" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4371197603915128" task="IE">
+<t>No hard evidence of Isis claims it kidnapped Canadian-Israeli woman Gill Rosenberg</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="818" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4809633162596167" task="IE">
+<t>Kurds Deny Gill Rosenberg was in Kobane</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="819" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4420254976694553" task="IE">
+<t>Gill Rosenberg, former IDF soldier, possibly captured by ISIS while fighting with Kurds</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="820" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4492844754752577" task="IE">
+<t>ISIS kidnaps Canadian-Israeli, former IDF soldier who went to fight with the Kurds</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="821" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.47146533623371084" task="IE">
+<t>YPG Confirms: Gill Rosenberg Not Captured in Kobani</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="822" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.46178616833193914" task="IE">
+<t>BREAKING Gill Rosenberg former IDF soldier was captured by ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="823" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4663718818245564" task="IE">
+<t>Canadian-Israeli woman reportedly kidnapped by ISIS: Jerusalem Post</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="824" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4451182226507024" task="IE">
+<t>Ottawa investigating reports that IS has captured a Canadian-Israeli woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="825" entailment="Entailment" benchmark="UNKNOWN" confidence="0.46003476979976593" task="IE">
+<t>Ottawa investigates reports that Isis has captured Canadian-Israeli woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="826" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4676824275180626" task="IE">
+<t>Female Israeli fighter said abducted by Islamic State Read more: Female Israeli fighter said abducted by Islamic State</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="827" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49433666505700374" task="IE">
+<t>Conflicting reports on alleged IS capture of Canadian woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="828" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4963024942590984" task="IE">
+<t>Israeli-Canadian woman fighting Islamic State has been kidnapped by terror group</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="845" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5137018164823026" task="IE">
+<t>The Gold Apple Watch Could Cost As Much As 1,200</t>
+<h>The gold Apple Watch Edition will cost 1,200</h>
+</pair>
+<pair id="846" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5550570286737408" task="IE">
+<t>Apple Watch Gold Edition rumored to be priced at 1200: Will you buy?</t>
+<h>The gold Apple Watch Edition will cost 1,200</h>
+</pair>
+<pair id="847" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49325002871283" task="IE">
+<t>Gold Apple Watch Edition Could Cost As Much As 1,200</t>
+<h>The gold Apple Watch Edition will cost 1,200</h>
+</pair>
+<pair id="858" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6773836788907264" task="IE">
+<t>Could Gold Apple Watch cost 5,000?</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="859" entailment="Entailment" benchmark="UNKNOWN" confidence="0.44758093869658727" task="IE">
+<t>The gold Apple Watch Edition could set you back a whopping 4,999</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="860" entailment="Unknown" benchmark="UNKNOWN" confidence="0.43847934389565935" task="IE">
+<t>Apple Watch Gold Edition may cost as much as 5,000</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="861" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5055287213637433" task="IE">
+<t>Analyst: Apple Watch Edition Could Cost 5,000</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="866" entailment="Entailment" benchmark="UNKNOWN" confidence="0.8614212929255067" task="IE">
+<t>Source: Hackers send new message to Sony</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="867" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.543115340128933" task="IE">
+<t>HACKERS TO SONY: If You Make Any More Trouble, we will Destroy You</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="868" entailment="Entailment" benchmark="UNKNOWN" confidence="0.48656674077980516" task="IE">
+<t>Hackers tell Sony wise to cancel film, do not make more trouble -CNN</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="869" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4943202153348588" task="IE">
+<t>Sony Hackers Email: Thanks For Running Scared, we will Stop Now</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="870" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5473128989734716" task="IE">
+<t>CNN Reports Hackers Sent Message to Sony: you have Done the Right Thing</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="871" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7669162829406544" task="IE">
+<t>Hackers: Sony Very Wise to Pull Film</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="872" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7547509686918075" task="IE">
+<t>Hands Up, do not Shoot in Hong Kong Protests?</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="873" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5301895943429639" task="IE">
+<t>Ferguson and Hong Kong Have One Important Thing in Common</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="874" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4523401083607926" task="IE">
+<t>what is Happening in Hong Kong? Stunning Images From the Occupy-Inspired, Ferguson-Tinged Protests</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="875" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47728230304603325" task="IE">
+<t>Hands up, do not shoot comes to Hong Kong's pro-democracy movement</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="876" entailment="Entailment" benchmark="UNKNOWN" confidence="0.45687580405571243" task="IE">
+<t>Is hands up in Hong Kong really the same as in Ferguson?</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="877" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.47041587083728215" task="IE">
+<t>Hong Kong riot cops forced to withdraw after democracy protesters copy do not shoot gesture used by US demonstrators after a police officer shot an unarmed black teenager</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="878" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5624423628142986" task="IE">
+<t>Hong Kong protesters mimic Ferguson's hands up, do not shoot</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="879" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4450672694199764" task="IE">
+<t>When We Felt Threatened, We Opened Umbrellas and Raised Our Hands</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="880" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5687650911277072" task="IE">
+<t>Rumor Check: Are Hong Kong Protesters Really Using the Hands Up, do not Shoot Gesture in Solidarity With Ferguson?</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="881" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49489709793565406" task="IE">
+<t>Hong Kong's protesters are using the hands up, do not shoot gesture from Ferguson</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="882" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49059381082975545" task="IE">
+<t>Hong Kong protesters go Ferguson style: Hands up, do not shoot</t>
+<h>Protestors in Hong Kong adopted Hands up, do not shoot from Ferguson</h>
+</pair>
+<pair id="972" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47862530243124946" task="IE">
+<t>Apple Watch to Be Shower-Proof, Have 100,000 Apps at Launch: Reports</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="973" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6386552962031887" task="IE">
+<t>Wildest Apple Watch rumor yet: 100,000 apps at launch</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="974" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5058274815980143" task="IE">
+<t>And finally: Apple Watch to launch 9 March with 100,000 apps</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="982" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49720514110683817" task="IE">
+<t>IBM Corp expected to cut more than 110,000 jobs in massive overhaul, report says</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="983" entailment="Entailment" benchmark="UNKNOWN" confidence="0.44565293816561774" task="IE">
+<t>IBM job cuts? D.R. Horton soars on beat ATT expands in Mexico</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="984" entailment="Entailment" benchmark="UNKNOWN" confidence="0.45094355454439566" task="IE">
+<t>IBM to sack 111,800 employees in record mass layoff</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="985" entailment="Entailment" benchmark="UNKNOWN" confidence="0.748043739849222" task="IE">
+<t>IBM To Cut More Than 110,000 Jobs, Report Says</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="986" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4701868200778139" task="IE">
+<t>IBM plans massive layoffs of up to 110,000 workers: report</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="987" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.43516134056074673" task="IE">
+<t>IBM to cut more than 111,000 jobs in largest corporate lay-off ever</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="988" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.43028512907200617" task="IE">
+<t>IBM is about to get hit with a massive reorg and layoffs</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="989" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6172474426186344" task="IE">
+<t>IBM denies plans to cut 26 of workforce</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="990" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6028641717848823" task="IE">
+<t>IBM denies layoff rumors</t>
+<h>IBM will cut more than 110,000 jobs this week</h>
+</pair>
+<pair id="1035" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5742051114254433" task="IE">
+<t>My iPhone 6 Plus is yanking out my hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1036" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.46373958518023084" task="IE">
+<t>Apple Users Add Hairgate to iPhone 6 Problems</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1037" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5534111989213697" task="IE">
+<t>The iPhone 6 Hairgate Is Not a Thing</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1038" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4686768914492515" task="IE">
+<t>From bendgate to hairgate: Now iPhone 6 users complain the device is ripping out their hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1039" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6006445868857815" task="IE">
+<t>Is the iPhone 6 Really Pulling Out Your Hair?</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1040" entailment="Entailment" benchmark="UNKNOWN" confidence="0.40921470063967863" task="IE">
+<t>HairGate: iPhone 6 Customers Are Complaining That The Phone Is Ripping Out Their Hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1041" entailment="Entailment" benchmark="UNKNOWN" confidence="0.40921470063967863" task="IE">
+<t>HairGate: iPhone 6 Customers Are Complaining That The Phone Is Ripping Out Their Hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1042" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4322506978888941" task="IE">
+<t>Hairgate: Reports of iPhone 6 pulling out hair, beards, likely exaggerated</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1043" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6131543805146631" task="IE">
+<t>IPhone 6 users are tearing their hair out</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1044" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5741703561061684" task="IE">
+<t>First bendgate... now it is HAIRGATE: Angry iPhone 6 owners claim design is causing chunks of their hair to be ripped out when they make a phone call</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1045" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4366846976231304" task="IE">
+<t>iPhone 6 hairgate: Users encounter latest Apple problem after bendgate</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1046" entailment="Entailment" benchmark="UNKNOWN" confidence="0.44117090742788667" task="IE">
+<t>Hairgate: iPhone hit by new social media storm</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1047" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4706079328220469" task="IE">
+<t>Hairgate trends on social media: iPhone 6 users complain of ripped out hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1048" entailment="Entailment" benchmark="UNKNOWN" confidence="0.48144414941955943" task="IE">
+<t>Hairgate: iPhone 6 users say device pulls out hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1049" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7892959561146534" task="IE">
+<t>Iraq shoots down 2 UK planes delivering weapons to ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1050" entailment="Entailment" benchmark="UNKNOWN" confidence="0.49858476819629965" task="IE">
+<t>Veterans Today reporting Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1051" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5052346743531229" task="IE">
+<t>Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1052" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49843610480011624" task="IE">
+<t>Iraqi Army Downs Two British Planes Carrying Weapons for ISIL Terrorists</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1053" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5741354952252089" task="IE">
+<t>IRAQ ACCUSES BRITAIN OF DELIVERING WEAPONS TO ISLAMIC STATE</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1054" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5052346743531229" task="IE">
+<t>Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1055" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5128229786582994" task="IE">
+<t>Iraqi Army Downs Two UK Planes Carrying Weapons for ISIS</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1204" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5149423690645264" task="IE">
+<t>Here's What We Know About ISIS's Alleged Organ Harvesting Operation</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1205" entailment="Unknown" benchmark="UNKNOWN" confidence="0.39458925555598323" task="IE">
+<t>ISIS organ harvesting must be probed by Security Council Iraqi envoy</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1206" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4638189891520329" task="IE">
+<t>Iraqi Official Accuses ISIS Of Harvesting Organs To Finance Operations</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1207" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5228636622052008" task="IE">
+<t>Islamic State reaps profits from organ trafficking</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1208" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5883908146141642" task="IE">
+<t>ISIS might be harvesting organs, Iraqi diplomat says</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1209" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.6079441480604452" task="IE">
+<t>Blood money: How ISIS is selling human organs harvested from living hostages and its own dead soldiers to fund terror across the Middle East</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1210" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.46030521249695705" task="IE">
+<t>UN urged to investigate ISIS's bloody trade in human organs after Iraqi ambassador reveals doctors are being executed for not harvesting body parts</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1211" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4272349352700042" task="IE">
+<t>Islamic State is funding its terror operations by brutally harvesting organs, UN is warned</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1212" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5883908146141642" task="IE">
+<t>ISIS might be harvesting organs, Iraq tells UN</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1213" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4176440169338755" task="IE">
+<t>ISIS might be harvesting organs, Iraqi ambassador tells UN, amid reports of more hostages being burned alive</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1214" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4714623286647107" task="IE">
+<t>ISIS Might Be Harvesting Organs To Finance Operations, Iraqi Envoy Tells UN</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1215" entailment="Unknown" benchmark="UNKNOWN" confidence="0.46430743026317156" task="IE">
+<t>Iraq's ambassador urges UN to investigate claims Isis is harvesting organs: We have bodies - it is clear they are missing certain parts</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1216" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4766778941229109" task="IE">
+<t>ISIS Harvesting Victims Organs to Finance Terror</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1217" entailment="Entailment" benchmark="UNKNOWN" confidence="0.44727434101489705" task="IE">
+<t>United Nations asked to investigate claims of organ harvesting by ISIS</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1218" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4579563513767402" task="IE">
+<t>ISIS is suspected of selling human organs for money in Iraq</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1234" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4547932282462087" task="IE">
+<t>Video Appears to Show Beheading of Journalist James Foley, Who Went Missing in Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1235" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47422500766330344" task="IE">
+<t>Obama: US will not Stop Confronting Islamic state</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1236" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4690158075162844" task="IE">
+<t>ISIL kills man who appears to be US journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1237" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.6770013375446491" task="IE">
+<t>ISIS Beheads American Journalist James Foley in Video Message to U.S.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1238" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.712578068037619" task="IE">
+<t>ISIS Beheads Kidnapped Photojournalist James Wright Foley in Horrific Video Message to the U.S.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1239" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5055482803594263" task="IE">
+<t>Islamic Militants Post Video Claiming to Show Beheading of U.S. Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1240" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.40096083248398784" task="IE">
+<t>Video showing American journalist beheaded believed real, officials and family say</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1241" entailment="Unknown" benchmark="UNKNOWN" confidence="0.47165742637470076" task="IE">
+<t>ISIS Seemingly Beheaded American Journalist James Wright Foley Updated</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1242" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4109229473524173" task="IE">
+<t>Savages: Islamic State executes American journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1243" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.49417765611290865" task="IE">
+<t>Pure Evil: Islamic State Beheads American Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1244" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4165891862686847" task="IE">
+<t>Islamic State militants claim to behead missing American journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1245" entailment="Unknown" benchmark="UNKNOWN" confidence="0.500612560949479" task="IE">
+<t>Islamic State Militants Claim to Have Beheaded US Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1246" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5055482803594263" task="IE">
+<t>Video Shows Beheading of American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1247" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.6513779464675858" task="IE">
+<t>Islamic State, in video titled A Message to America, beheads American journalist James Wright Foley who was kidnapped in 2012</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1248" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4935094891873" task="IE">
+<t>BREAKING: Islamic State, in video, beheads American journalist James Wright Foley who was kidnapped in 2012 -BNONews</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1249" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5807822209000818" task="IE">
+<t>ISIS beheads photojournalist James Wright Foley in a massage to US to end its intervention in Iraq.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1250" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.46806063170533097" task="IE">
+<t>A message from Jim's mom, Diane Foley:</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1251" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5263376393721567" task="IE">
+<t>ISIS Beheading of U.S. Journalist James Foley Posted to YouTube</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1252" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.621662491416385" task="IE">
+<t>BREAKING: ISIS Beheads American Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1253" entailment="Unknown" benchmark="UNKNOWN" confidence="0.3922310649084451" task="IE">
+<t>Evil straight from the pits of hell: American journalist James Foley reportedly beheaded by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1254" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4930021355599181" task="IE">
+<t>ISLAMIC STATE BEHEADS MISSING AMERICAN JOURNALIST JAMES WRIGHT FOLEY</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1255" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4616368294014426" task="IE">
+<t>ISIS Appears To Behead American Photojournalist In YouTube Video</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1256" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.44361490811718324" task="IE">
+<t>James Foley remembered as brave and tireless journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1257" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.516210742560124" task="IE">
+<t>Spare the lives of the remaining hostages. Like Jim they are innocents: Brave mother of beheaded American journalist calls on ISIS to cease killing as she pays tribute to her extraordinary son</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1258" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.516210742560124" task="IE">
+<t>Spare the lives of the remaining hostages. Like Jim they are innocents: Brave mother of beheaded American journalist calls on ISIS to cease killing as she pays tribute to her extraordinary son</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1259" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.607228283998428" task="IE">
+<t>ISIS beheads American photo-journalist James Wright Foley, threatens more to come</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1260" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47422500766330344" task="IE">
+<t>PM vows to redouble efforts against Islamic extremism after barbaric IS murder</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1261" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6059615279871022" task="IE">
+<t>Isis claims to behead US journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1262" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5028414801593409" task="IE">
+<t>James Foley, Missing American Photojournalist, Beheaded By ISIS In Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1263" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5583213329847049" task="IE">
+<t>Obama Denounces James Foley's Execution: Today The Entire World Is Appalled</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1264" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47422500766330344" task="IE">
+<t>US officials: Video shows American's execution</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1265" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49453963385652444" task="IE">
+<t>Islamic State releases video apparently showing the beheading of missing US journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1266" entailment="Unknown" benchmark="UNKNOWN" confidence="0.6458259887503128" task="IE">
+<t>ISIS Reportedly Beheads U.S. Journalist James Wright Foley on Camera</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1267" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5812245856590451" task="IE">
+<t>James Wright Foley, Kidnapped Journalist, Apparently Executed by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1268" entailment="Unknown" benchmark="UNKNOWN" confidence="0.44381959224098594" task="IE">
+<t>James Foley beheaded: ISIS claims to have killed US journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1269" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5055482803594263" task="IE">
+<t>U.S. Authenticates Video Of Militants Beheading American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1270" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5364593060220709" task="IE">
+<t>ISIS militants behead abducted American journalist James Wright Foley in graphic video</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1271" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47422500766330344" task="IE">
+<t>Militant Group Says It Killed American Journalist in Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1272" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5055482803594263" task="IE">
+<t>Obama, Outraged Over Beheading, Vows to Stay on Course</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1273" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4798132632274495" task="IE">
+<t>Video shows ISIL beheading of photojournalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1274" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7476381691707057" task="IE">
+<t>Journalist James Wright Foley reportedly beheaded by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1275" entailment="Unknown" benchmark="UNKNOWN" confidence="0.48534344870896245" task="IE">
+<t>ISIS Reportedly Beheads American Photojournalist in IraqRunning ScaredVikings Star Adrian Peterson Reportedly Indicted for Child AbuseWhy the Military Treats Male Sexual Assault Victims So HorriblyWhy Google Bought a SpoonWe All Have Certain Words We Use Too Often. what is Yours?Meatless MondaysThe Beatles. Bob Dylan. Biggie Smalls.How to Fix Gerrymandering and Improve American Politics in One Fell SwoopThe Very Funny Comic Who Just Became SNL's Next Weekend Update Anchor</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1276" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5761442440335749" task="IE">
+<t>ISIS Beheads American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1277" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5337894420954289" task="IE">
+<t>James Foley: American Journalist James Wright Foley Beheaded in New ISIS Terrorist Video Breaking News</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1278" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49388296868604037" task="IE">
+<t>ISIL video claims beheading of kidnapped journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1279" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4632284756556013" task="IE">
+<t>Islamic State militants claim to have killed US journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1280" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4505789030085577" task="IE">
+<t>Obama: murder of James Foley shocks the conscience of the entire world</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1281" entailment="Entailment" benchmark="UNKNOWN" confidence="0.567027414605988" task="IE">
+<t>ISIL Claims to Behead an American Photojournalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1282" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5718376775889035" task="IE">
+<t>Islamic State claims it executed American photojournalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1283" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4625488997401454" task="IE">
+<t>Obama denounces killing of journalist James Foley and pledges justice</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1365" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7797807664984397" task="IE">
+<t>IS executioner Jihadi John injured in air strike: reports</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1366" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5290082700418016" task="IE">
+<t>JIHADI JOHN WHO BEHEADED JAMES FOLEY WOUNDED IN US AIRSTRIKE</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1367" entailment="Entailment" benchmark="UNKNOWN" confidence="0.45278025186356746" task="IE">
+<t>The ISIS Executioner Who Killed 4 Hostages May Have Been Wounded In Airstrikes</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1368" entailment="Unknown" benchmark="UNKNOWN" confidence="0.6463001620712459" task="IE">
+<t>EXCLUSIVE: Got him Jihadi John is wounded in US airstrike that killed 10 top ISIS commanders at secret bunker meeting in Iraq</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1369" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5233594396968644" task="IE">
+<t>ISIS executioner Jihadi John reported wounded in air strike UK investigating</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1370" entailment="Unknown" benchmark="UNKNOWN" confidence="0.49441157985933676" task="IE">
+<t>Jihadi John Injured? ISIS Executioner May Have Been Wounded In US Airstrike: Report</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1371" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4653730189893013" task="IE">
+<t>Isis: Masked Executioner Jihadi John Injured in US Led Airstrikes in Iraq</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1372" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5320613720967649" task="IE">
+<t>British terrorist Jihadi John injured in airstrike close to Syrian border</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1373" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4645972410743814" task="IE">
+<t>ISIS executioner Jihadi John allegedly wounded by U.S.-led air strike: report</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1374" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5163973616165974" task="IE">
+<t>UK looking into reports IS beheading suspect wounded</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1375" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6572343586200696" task="IE">
+<t>Jihadi John reportedly wounded in airstrike</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1441" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5805114652358667" task="IE">
+<t>KANYE WEST BARRED FROM ALL FUTURE AWARDS SHOWS</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1442" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5770565203919581" task="IE">
+<t>Kanye Banned</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1443" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5537231393792563" task="IE">
+<t>Have Kanye Kim Been Banned From Future Grammy Ceremonies?</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1447" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6409279166466482" task="IE">
+<t>MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1448" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5139677294628118" task="IE">
+<t>Michael Zehaf-Bibeau was shot nearly a dozen times before Kevin Vickers fatally wounded him</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1449" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6409279166466482" task="IE">
+<t>MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1450" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6672376060839588" task="IE">
+<t>Sergeant-at-Arms stopped shooter on Parliament Hill</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1451" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4479461978235994" task="IE">
+<t>Pictured: Heroic sergeant-at-arms, 58, walking through Parliament gun in hand just moments after he killed gunman Michael Zehaf-Bibeau</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1452" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.45183697121995026" task="IE">
+<t>Emotional sergeant-at-arms is greeted back to parliament with a rousing standing ovation a day after he heroically shot dead terrorist - the first time he used weapon in 30 year career</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1453" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5905505526857072" task="IE">
+<t>Parliament Hill shooting: Sergeant-At-Arms Kevin Vickers the family hero who took down Ottawa gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1454" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5080238691103969" task="IE">
+<t>Kevin Vickers Hailed As Hero For Reportedly Shooting Gunman Inside Parliament</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1455" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6072914058429253" task="IE">
+<t>Ottawa shooting: Sergeant-at-Arms Kevin Vickers hailed a hero for shooting rampaging gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1456" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6051946338271281" task="IE">
+<t>How Canadian Sergeant-at-Arms Kevin Vickers killed shooter in parliament</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1457" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6153724241868491" task="IE">
+<t>Kevin Vickers, Sergeant-At-Arms, Shoots a Shooting Suspect in Ottawa Called a Hero Pictures</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1458" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.47778016803578754" task="IE">
+<t>AWESOME Canadian Parliament's Sergeant-at-Arms Kevin Vickers Takes Out Gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1478" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5395798767982086" task="IE">
+<t>Korean Housewife's Hair Sucked Up into Robot Vacuum</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1479" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7843884930242019" task="IE">
+<t>Robot vacuum cleaner ate a woman's hair Google Translate</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1480" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7087845988025707" task="IE">
+<t>South Korean Woman's Hair Eaten By Robot Vacuum Cleaner</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1481" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5900367386651156" task="IE">
+<t>South Korean woman freed by firefighters after robot vacuum cleaner eats her hair as she sleeps</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1482" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6501084289158904" task="IE">
+<t>Robot vacuum cleaner attacks South Korea housewife's hair</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1483" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.537525432207343" task="IE">
+<t>South Korean woman's hair eaten by robot vacuum cleaner as she slept</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1484" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7269337259231582" task="IE">
+<t>Robot vacuum cleaner EATS WOMAN</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1485" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6902562970063353" task="IE">
+<t>Korean housewife attacked by robot vacuum cleaner</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1486" entailment="Entailment" benchmark="UNKNOWN" confidence="0.556186756414826" task="IE">
+<t>Female Kurdish poster girl fighter feared killed</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1487" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5255680587902845" task="IE">
+<t>Poster girl in fight against ISIS is beheaded by terror group</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1488" entailment="Entailment" benchmark="UNKNOWN" confidence="0.38739845532857475" task="IE">
+<t>ISIS CAPTURES, BEHEADS KURDISH FEMALE FIGHTER REHANA IN KOBANE</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1489" entailment="Unknown" benchmark="UNKNOWN" confidence="0.45996108322992346" task="IE">
+<t>ISIS Reportedly Beheaded The Poster Child For Kurdish Female Fighters</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1490" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.49122354572586147" task="IE">
+<t>Rehana, Poster Girl for Kurdish Peshmerga, Alive and Fighting Fiercely, After ISIS Claims of Beheading Her</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1491" entailment="Unknown" benchmark="UNKNOWN" confidence="0.6309140287231867" task="IE">
+<t>Poster girl for Kurdish freedom fighters in Kobane is captured and beheaded by ISIS killers who posted gruesome pictures online</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1492" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5152359093500224" task="IE">
+<t>Rehana is alive and well... ISIS fanatics have NOT beheaded her: Poster girl for Kurdish freedom fighters escaped Kobane hellhole, friends tell MailOnline</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1493" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.3937463120646715" task="IE">
+<t>Female Kurdish Fighter Rehana is Alive, Claim Supporters Post CNN Video as Proof</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1494" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.49262331802039455" task="IE">
+<t>URGENT: ISIS beheads Kurdish female fighter Rehana</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1495" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.575028303439109" task="IE">
+<t>Kurdish resistance denies ISIS claims that they have beheaded poster girl Rehana</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1496" entailment="Unknown" benchmark="UNKNOWN" confidence="0.4569431716296792" task="IE">
+<t>Claims famous Kurdish Peshmerga fighter Rehana may have been decapitated</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1537" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5172565573268065" task="IE">
+<t>Macaulay Culkin Dead? Fans Freak Out Over Death Rumors</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1538" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4198758453380527" task="IE">
+<t>Duped again: Macaulay Culkin is not dead</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1539" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.6253097974392876" task="IE">
+<t>Macaulay Culkin dead: Actor is victim of another death hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1540" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5211851357172388" task="IE">
+<t>Breaking News: Macaulay Culkin Found Dead at Age 34</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1541" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5172565573268065" task="IE">
+<t>Macaulay Culkin Dead? Another Death Hoax Circulates On Facebook</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1542" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5611086857644058" task="IE">
+<t>Macaulay Culkin has not Died Despite What Everyone Is Saying On Facebook</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1543" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.6289739428269907" task="IE">
+<t>Macaulay Culkin dead: The death hoax is once again on the child actor</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1544" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5270620568333874" task="IE">
+<t>Macaulay Culkin Dead: Actor Once Again Victim Of Death Hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1545" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5789939764036146" task="IE">
+<t>Macaulay Culkin NOT Dead: Facebook, Twitter Death Hoax Goes Viral</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1546" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5032755267388063" task="IE">
+<t>Macaulay Culkin Victim of Another Online Death Hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1547" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5354674086096629" task="IE">
+<t>Macaulay Culkin death hoax: Rumours about former child star confirmed as false</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1548" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5354674086096629" task="IE">
+<t>Macaulay Culkin Dead: Internet Death Hoax Claims Actor Found Dead In Apartment</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1549" entailment="Contradiction" benchmark="CONTRADICTION" confidence="0.8221828461408711" task="IE">
+<t>MACAULAY CULKIN IS THE LATEST VICTIM OF A CELEBRITY DEATH HOAX AND THESE 9 STARS KNOW EXACTLY HOW HE FEELS</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1550" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5397135281447734" task="IE">
+<t>Macaulay Culkin dead hoax: Fake death report spreads on social networks</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1551" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4552479514535066" task="IE">
+<t>Macaulay Culkin Dead?</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1552" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5860532663104536" task="IE">
+<t>Macaulay Culkin Dead? Hoax Goes Viral, Claims Actor Found Dead in Apartment</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1597" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.46871322667197035" task="IE">
+<t>Utah Man Hospitalized After Winning Eggnog Chugging Contest</t>
+<h>Man hospitalized after winning eggnog-chugging contest.</h>
+</pair>
+<pair id="1598" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49597013066117746" task="IE">
+<t>Chugging eggnog sends Utah man to hospital</t>
+<h>Man hospitalized after winning eggnog-chugging contest.</h>
+</pair>
+<pair id="1599" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4823843103881789" task="IE">
+<t>Chugging eggnog at office party lands man in hospital</t>
+<h>Man hospitalized after winning eggnog-chugging contest.</h>
+</pair>
+<pair id="1600" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5913653843857909" task="IE">
+<t>Utah man hospitalized after eggnog-chugging competition</t>
+<h>Man hospitalized after winning eggnog-chugging contest.</h>
+</pair>
+<pair id="1601" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5295431329519847" task="IE">
+<t>Eggnog-chugging contest leads to hospital stay</t>
+<h>Man hospitalized after winning eggnog-chugging contest.</h>
+</pair>
+<pair id="1602" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6732925470204121" task="IE">
+<t>Son pays off his parents mortgage in a heartwarming Christmas video</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1603" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5183607011206794" task="IE">
+<t>Heartwarming video shows son revealing he is paid off parents mortgage as a Christmas gift</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1604" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5403401478126926" task="IE">
+<t>This Is What It Looks Like When A Son Pays Off His Parents Mortgage As A Christmas Present</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1605" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6174339107885818" task="IE">
+<t>This Guy Paid Off His Parents Mortgage For Christmas</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1606" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.44670023737838527" task="IE">
+<t>Best Christmas present ever? Heartwarming moment app developer reveals to his parents he had paid off their mortgage</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1607" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6013485143467829" task="IE">
+<t>VIDEO: Son Stuns Parents By Paying Off Their Mortgage As Christmas Surprise</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1608" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6130120393032923" task="IE">
+<t>This Man Paid Off His Parents Mortgage for Christmas Video</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1609" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6331359936399099" task="IE">
+<t>Son Pays Off His Parents Mortgage for Christmas</t>
+<h>Video shows the moment when a man tells his parents that he paid of their mortgage</h>
+</pair>
+<pair id="1630" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.44084214174860575" task="IE">
+<t>Watch marine take sniper shot to the head and live</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1631" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4862486879580884" task="IE">
+<t>Video shows dramatic moment bullet strikes U.S. Marine's head and he survives thanks to kevlar helmet</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1632" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4501029679713681" task="IE">
+<t>Video: Marine survives Taliban sniper headshot thanks to helmet</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1633" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.42339292236754483" task="IE">
+<t>Incredible Video Shows A US Marine Surviving Being Shot In The Head By A Sniper In Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1634" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.48259955926720616" task="IE">
+<t>Moment U.S. Marine is saved by his Kevlar helmet as Taliban sniper bullet hits him in head</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1635" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5845645016895967" task="IE">
+<t>Watch: US marine survives Taliban sniper headshot in Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1636" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.40395859083153884" task="IE">
+<t>Video: Marine saved by helmet after Taliban sniper attack</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1637" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4659066712013587" task="IE">
+<t>Watch US Marine get shot in HEAD by Taliban sniper - and live to tell tale</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1638" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.48860027736076833" task="IE">
+<t>Watch: US Marine saved by helmet after being shot by Taliban sniper</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1639" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7245387703535725" task="IE">
+<t>US Marine survives headshot in Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1640" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5687976171881313" task="IE">
+<t>Marine Gets Shot in the Head, Walks Away</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1641" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5327287725691405" task="IE">
+<t>US Marine survives headshot from Taliban video</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1759" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.434720399201295" task="IE">
+<t>Chinese mistress is stripped naked and beaten senseless in backlash against booming country's concubine culture</t>
+<h>Mob Strips Adulterous Woman</h>
+</pair>
+<pair id="1760" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.44446737021779764" task="IE">
+<t>Shocking moment shows adulteress stripped naked and beaten in busy shopping centre</t>
+<h>Mob Strips Adulterous Woman</h>
+</pair>
+<pair id="1761" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6284730255852669" task="IE">
+<t>Shocking Chinese parents sell their son to fund for daughter's Cancer treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1762" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6686689688873407" task="IE">
+<t>Shocking Photos Mom Tries To Sell Son To Pay For Daughter's Cancer Treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1763" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7346649798980194" task="IE">
+<t>Mum Offers to Sell Twin Boy to Save Twin Girl</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1764" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5863956770821089" task="IE">
+<t>Chinese parents try to SELL their son to pay for medical treatment for his sick twin sister</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1765" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.48317852381293935" task="IE">
+<t>Mum faces real-life Sophie's Choice as she tries to sell her son to fund daughter's care</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1766" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.519904422165025" task="IE">
+<t>Shocking picture shows mother trying to sell her own son to pay for twin daughter's cancer treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1845" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5992524841336802" task="IE">
+<t>Story of gutsy bravehearts who fought off Boko Haram is a hoax</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="1846" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5545803420113704" task="IE">
+<t>Another Boko Haram Attack Repelled By Armed Women</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="1847" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6230773400208899" task="IE">
+<t>Story of gutsy bravehearts who repelled Boko Haram attack is a hoax</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="2019" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.49943730715409407" task="IE">
+<t>Raven-Symon Slams Rumors That Bill Cosby Molested Her</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2020" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4263950475312012" task="IE">
+<t>Another Victim? Raven-Symon Reveals What Really Happened On Cosby Show Set</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2021" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.4319925522380295" task="IE">
+<t>Allegation Bill Cosby sexually molested Raven Symone are just a hoax</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2022" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.44798868228149213" task="IE">
+<t>Raven-Symone Did NOT Accuse Bill Cosby Of Molestation Or Rape it is A HOAX</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2023" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5164182069262844" task="IE">
+<t>Raven Symone Files Molestation Charges Against Bill Cosby</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2024" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5703217969851186" task="IE">
+<t>The Cosby Show Star Raven Symone Joins Long List of Women Accusing Bill Cosby of Rape</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2025" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.46190340919169026" task="IE">
+<t>Raven-Symone blasts fake report alleging she was abused by Bill Cosby: Keep me out of this</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2026" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.42223532211632986" task="IE">
+<t>Raven-Symone Files Molestation Charges Against Bill Cosby Report is Totally Fake Media Fooled</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2027" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4486095656596975" task="IE">
+<t>Ex Co-Star Raven Symon Blasts Rape Rumor ... that is DISGUSTING</t>
+<h>Cosby Show actress Raven Symone accused Bill Cosby of rape</h>
+</pair>
+<pair id="2079" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.485392873170124" task="IE">
+<t>Fox Affiliate Falls for College Humor's Office Note War Prank</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2080" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5465452307442953" task="IE">
+<t>This Is The Most Passive-Aggressive Office Battle we have Ever Seen</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2081" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.44263454241114947" task="IE">
+<t>Dear Sandwich Thief: Man's hilarious response to passive-aggressive sign posted on his office's fridge door sparks incredible kitchen note war</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2082" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.46076156561893494" task="IE">
+<t>Office sandwich thief is caught after hilarious note war reaches fantastic finale</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2083" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4513310200135555" task="IE">
+<t>Lunch theft prompts ransom note from sandwich thief</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2084" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5655155063056259" task="IE">
+<t>Sandwich thief gets comeuppance in this awesome office note saga</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2085" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.495654568370914" task="IE">
+<t>Sushi lover's entire body left riddled with WORMS after eating contaminated sashimi</t>
+<h>A Chinese man ended up with a tapeworm after eating Sashimi</h>
+</pair>
+<pair id="2086" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6133313640674887" task="IE">
+<t>Saudi Arabia's Religious Police Outlaw Tempting Eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2087" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7883245167175141" task="IE">
+<t>Saudi Arabia outlaws tempting eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2088" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4849137531392722" task="IE">
+<t>Saudi women with attractive eyes may be forced to cover even them up, if resolution is passed</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2089" entailment="Entailment" benchmark="UNKNOWN" confidence="0.8366097060076425" task="IE">
+<t>Saudi Women May Have to Cover Up Sexy Eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2090" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5984726607720102" task="IE">
+<t>Tempting Eyes Ban: Saudi Women With Pretty Eyes Made To Cover Them Up</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2091" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.6054995520908283" task="IE">
+<t>No, Saudi Arabia has not banned the tempting eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2092" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4523267148807498" task="IE">
+<t>If They Are Beautiful, The Woman Will Be In Trouble: Saudi Arabia Religious Police Ban Tempting Eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2093" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7883245167175141" task="IE">
+<t>Saudi Arabia outlaws tempting eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2094" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6133313640674887" task="IE">
+<t>Saudi Arabia's Religious Police Outlaw Tempting Eyes</t>
+<h>Saudi Arabia has a new law that can force women to cover up their tempting eyes</h>
+</pair>
+<pair id="2216" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.40388082819450877" task="IE">
+<t>Kurt Sutter Announces Plans For Sons Of Anarchy Movie Starring Charlie Hunnam, Brad Pitt</t>
+<h>There will be a Sons of Anarchy film</h>
+</pair>
+<pair id="2217" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.483797189830855" task="IE">
+<t>Sons of Anarchy Movie Hoax: Kurt Sutter Announces Charlie Hunnam, Brad Pitt Film Article is Totally Fake</t>
+<h>There will be a Sons of Anarchy film</h>
+</pair>
+<pair id="2265" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49761473276821655" task="IE">
+<t>This Is a Truly Horrifying Story About a Spider</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2266" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.3975568233013094" task="IE">
+<t>No, A Spider Did Not Burrow Under A Man's Skin And Live There For Days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2267" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5497931845626415" task="IE">
+<t>Dylan Thomas Finds Tropical Spider Burrowed Under Skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2268" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4582862695401842" task="IE">
+<t>Tourist dubbed Spider Man after spider burrows under skin for days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2269" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.468833332062367" task="IE">
+<t>A Spider Lived Inside This Tourist's Body For 3 Days After Burrowing Into His Skin Through A Scar</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2270" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5859395755528037" task="IE">
+<t>Tourist wakes to find strange red trail on his stomach - and discovers a spider has burrowed through his appendix scar and crawled UNDER his skin while on holiday in Bali</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2271" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.5837924483027198" task="IE">
+<t>Web of confusion as scientists cast doubt on man's claims that a spider burrowed into his stomach through his SCAR</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2272" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5375376410602823" task="IE">
+<t>Spider Burrows Into Australian Man's Appendix Scar VIDEO</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2273" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49077016816807495" task="IE">
+<t>Spider burrowed through tourist's stomach and up into his chest</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2274" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.43342859859963345" task="IE">
+<t>Tropical spider burrowed under man's skin through appendix scar and lived there for THREE DAYS</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2275" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6747492780067005" task="IE">
+<t>Bali spider burrows under Aussie's chest</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2276" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5077888089886176" task="IE">
+<t>Man discovers spider living under his skin during Bali vacation</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2277" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.47206386511000886" task="IE">
+<t>Bunbury local discovered a spider had burrowed under his skin on Bali holiday</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2278" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4105855977846388" task="IE">
+<t>Expert casts doubt on Bunbury man Dylan Thomas's burrowing stomach-spider story</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2279" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.45643079643983864" task="IE">
+<t>No, a spider probably did not crawl through a man's body for several days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2280" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47422500766330344" task="IE">
+<t>Bali Awry</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2281" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.47422500766330344" task="IE">
+<t>Spiderman squished: Experts debunk claims</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2282" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6688824106052836" task="IE">
+<t>Tropical spider burrows under man's skin through scar</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2283" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.45385730678160036" task="IE">
+<t>Spider burrowed into appendix scar, crawled through WA man's body</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2284" entailment="Entailment" benchmark="UNKNOWN" confidence="0.44423112151352995" task="IE">
+<t>The Guy Who Said a Spider Burrowed Under His Skin? Experts Say</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2285" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.48111060208999806" task="IE">
+<t>Strange mark turns out to be tropical spider burrowing under vacationer's skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2286" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5377697307405994" task="IE">
+<t>Tropical spider burrowed under man's skin through scar - video report</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2287" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.488432145192169" task="IE">
+<t>Tropical spider burrows under man's skin, lives there for three days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2288" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6209288947044019" task="IE">
+<t>Tropical spider burrowed under Bali tourist's skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2289" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5065273423669356" task="IE">
+<t>Spiderman squished: Perth experts debunk spider burrowing claims</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2290" entailment="Entailment" benchmark="UNKNOWN" confidence="0.47808104213504815" task="IE">
+<t>Piper Jaffray pegs stainless steel Apple Watch price at 499, Edition at 4,999</t>
+<h>The stainless steel Apple Watch will be priced between 499 and 549 USD</h>
+</pair>
+<pair id="2291" entailment="Entailment" benchmark="UNKNOWN" confidence="0.45463264865478487" task="IE">
+<t>Gene Munster Predicts 499 Steel Apple Watch, 4,999 for 18k Gold Edition</t>
+<h>The stainless steel Apple Watch will be priced between 499 and 549 USD</h>
+</pair>
+<pair id="2294" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4425106257535485" task="IE">
+<t>Star Wars: The Force Awakens May Get An Early Release DateReport</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2295" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4916157719194205" task="IE">
+<t>J.J. Abrams Asks Disney To Move Up Star Wars: The Force Awakens Release Date</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2296" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4299678548817509" task="IE">
+<t>Non, le lancement du nouveau Star Wars ne sera pas devanc cet t</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2297" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7055931138123511" task="IE">
+<t>Star Wars VII for a New SUMMER Release Date?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2298" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4704132187191732" task="IE">
+<t>Has J.J. Abrams Asked for THE FORCE AWAKENS Release Date to be Moved Up?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2299" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4434602030726399" task="IE">
+<t>Star Wars VII News, Update: JJ Abrams Pushing for Summer Release?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2300" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5173817091608736" task="IE">
+<t>The Force Awakens Release Date: JJ Abrams Plan for an Early Release of Star Wars Movie?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2301" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4826282931624381" task="IE">
+<t>Star Wars: The Force Awakens to be released this summer?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2302" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5597047377642794" task="IE">
+<t>Star Wars 7: JJ Abrams want to move release to summer 2015</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2303" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5333537285882853" task="IE">
+<t>The Force Awakens News: Director J.J. Abrams Eyes Summer Release for Star Wars 7 Because of Too Many Spoilers</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2362" entailment="Unknown" benchmark="UNKNOWN" confidence="0.5678114540221987" task="IE">
+<t>Tesla will build its Gigafactory in Nevada, not Texas</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2363" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.42705491248565264" task="IE">
+<t>Tesla to Choose Nevada for Battery Factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2364" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4187469088435996" task="IE">
+<t>Tesla choosing Nevada for battery factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2365" entailment="Unknown" benchmark="UNKNOWN" confidence="0.40028731948735874" task="IE">
+<t>Tesla Said to Select Nevada for Its First Battery Site</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2366" entailment="Entailment" benchmark="UNKNOWN" confidence="0.3583749661765794" task="IE">
+<t>Tesla Chooses Nevada For Site Of Its Massive Battery Factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2367" entailment="Entailment" benchmark="UNKNOWN" confidence="0.40093000103511867" task="IE">
+<t>Tesla chooses Nevada for battery factory: Sources</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2368" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4101844564489557" task="IE">
+<t>Tesla Motors set to choose Nevada for its gigafactory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2369" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.3831888871628931" task="IE">
+<t>Gigafactory location: Tesla Motors confirms Nevada announcement Thursday</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2370" entailment="Entailment" benchmark="UNKNOWN" confidence="0.40093000103511867" task="IE">
+<t>Tesla chooses Nevada for new battery factory plant</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2371" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4151332167395834" task="IE">
+<t>Tesla settles on Nevada for gigafactory site -CNBC</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2372" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4632731731965974" task="IE">
+<t>Tesla picks Nevada for battery Gigafactory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2384" entailment="Entailment" benchmark="UNKNOWN" confidence="0.4569648975060061" task="IE">
+<t>Is There Really a Sharia Law Islamic Tribunal in Dallas, Texas?</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2385" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5466317504194944" task="IE">
+<t>Islamic tribunal confirmed in Texas</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2386" entailment="Unknown" benchmark="UNKNOWN" confidence="0.41810011665309654" task="IE">
+<t>Islamic Tribunal Using Sharia Law In Texas Has Been Confirmed Tribunal members say they will avoid Sharia's criminal law.</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2438" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4717293889482698" task="IE">
+<t>Tiger Woods PED, PGA Tour Suspension Allegations Retracted by Dan Olsen</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2439" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.594239111401313" task="IE">
+<t>PGA Tour Denies Claim That Tiger Woods Failed A Drug Test</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2440" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.4994362647726571" task="IE">
+<t>Tour, agent: Tiger Woods not banned</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2441" entailment="Entailment" benchmark="UNKNOWN" confidence="0.640992572533371" task="IE">
+<t>Tiger Woods serving secret PED suspension?</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2442" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5141174298910882" task="IE">
+<t>PGA Spokesman and Tiger Woods Agent Deny Drug Suspension Allegations</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2443" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5318581921978481" task="IE">
+<t>Former PGA Tour player: Tiger Woods suspended for drug test failure</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2444" entailment="Entailment" benchmark="UNKNOWN" confidence="0.43390127871861106" task="IE">
+<t>PGA Tour Pro Claims Tiger Woods Is Currently Suspended For PEDs, Compares Him To Lance Armstrong</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2445" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5155899079060292" task="IE">
+<t>SHOCK CLAIM: PGA Golfer Says Tiger Woods Is Suspended For Failed Drug Test</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2446" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5252312661470726" task="IE">
+<t>Tiger Woods agent shoots down report of failed drug test</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2447" entailment="Unknown" benchmark="CONTRADICTION" confidence="0.4761218822577344" task="IE">
+<t>Tiger Woods is not on suspension for failing a drug test, his agent and a PGA official say</t>
+<h>Tiger Woods is serving a suspension from the PGA Tour after failing a drug test</h>
+</pair>
+<pair id="2448" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5743601029205588" task="IE">
+<t>Tiger Woods selling Swedish villa island included</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2449" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5284455750181888" task="IE">
+<t>Tiger Woods luxe Viking island in Sweden is for sale</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2450" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.5779602859603701" task="IE">
+<t>Tee-off in your own putting paradise: Swedish luxury island owned by Tiger Woods up for sale - and it comes with a villa, a hot tub and a lodge</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2451" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5218620330394836" task="IE">
+<t>For sale: Tiger's former island in Sweden</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2452" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7644052231765915" task="IE">
+<t>Tiger Woods Is Selling His Private Island For 7.1 Million</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2453" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5592919601035371" task="IE">
+<t>Tiger Woods prices private island at 7.1 million</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2454" entailment="Entailment" benchmark="CONTRADICTION" confidence="0.5424441927836277" task="IE">
+<t>No, it is not Tiger Woods selling an island in Lake Mlaren</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2455" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.49671238872287765" task="IE">
+<t>Tiger Woods former luxury island goes on sale</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2456" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4107101597402711" task="IE">
+<t>Email to Tim Cook prompted change of Apple's on hold music quality</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2457" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4790771339587831" task="IE">
+<t>How a Reddit user convinced Tim Cook to change Apple's on-hold music</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2458" entailment="Unknown" benchmark="UNKNOWN" confidence="0.392423723913591" task="IE">
+<t>This Story About How Tim Cook Changed The On Hold Music At Apple Shows Why he is Such A Great CEO</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2459" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4790771339587831" task="IE">
+<t>How a Reddit user convinced Tim Cook to change Apple's on-hold music</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2460" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4416308685666902" task="IE">
+<t>Tim Cook makes change at Apple after reading email from unhappy customer</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2469" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4800687664004573" task="IE">
+<t>Trans Teen Dies by Suicide, Leaves Tumblr Note: there is No Way Out</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2470" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.499102356431938" task="IE">
+<t>Transgender Teen Commits Suicide Pens A Heartbreaking Note Urging The World To Change</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2471" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.4587387655242897" task="IE">
+<t>Transgender teenager, 17, leaves heartbreaking suicide note blaming her Christian parents before walking in front of tractor trailer on highway</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2472" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5628269276587086" task="IE">
+<t>Transgender Teen Leelah Alcorn Blames Christian Parents In Tumblr Suicide Note</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2473" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.40806575691366376" task="IE">
+<t>Transgender Teen Leelah Alcorn Commits Suicide By Walking In Front Of Semi Truck, Blames Parents In Viral Suicide Note</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2474" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5540071225862454" task="IE">
+<t>Transgender teen struck and killed on Ohio interstate in apparent suicide</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2475" entailment="Unknown" benchmark="ENTAILMENT" confidence="0.44473583564296887" task="IE">
+<t>Transgender teen who committed suicide left heartbreaking note saying she would never be happy</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2476" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4996081807416851" task="IE">
+<t>Ohio Trans Teen Commits Suicide, Leaves Heartbreaking Note Declaring there is No Way Out</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2477" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.590395306631221" task="IE">
+<t>Transgender teen leaves note on Tumblr blaming Christian parents for suicide</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2478" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.597342268480464" task="IE">
+<t>Public shaming: Underwear thief forced to walk around the block wearing the bras he stole</t>
+<h>A man caught stealing women's underwear was forced to wear it and walk around in public</h>
+</pair>
+<pair id="2479" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.4953098120112954" task="IE">
+<t>Furious women set trap for underwear thief then shame him in public</t>
+<h>A man caught stealing women's underwear was forced to wear it and walk around in public</h>
+</pair>
+<pair id="2582" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8977775239471734" task="IE">
+<t>Teen wakes up mid-brain surgery and asks doctors how is it going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2583" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.9427825579235741" task="IE">
+<t>Teen wakes up during brain surgery, asks how it is going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2584" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6904723727089702" task="IE">
+<t>Iga Jasica Says Awakening During Brain Surgery Was No Mistake</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2585" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7926986992417756" task="IE">
+<t>Teenager wakes up while undergoing BRAIN SURGERY in Poland... and asks the surgeons how the operation is going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2586" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6890643234531619" task="IE">
+<t>Iga Jasica brain surgery: Teen wakes up mid-procedure on table, chats about cat</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2587" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8668209876247984" task="IE">
+<t>19-year-old girl wakes up during brain surgery, asks doctors how is it going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2588" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6628898931650251" task="IE">
+<t>Brain Surgery Recovery: Teenage Girl Wakes Up During Procedure, Talks About Cats</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2589" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.8358760264832164" task="IE">
+<t>how is it going?: Teenager wakes up during brain surgery and asks doctors for progress report</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2590" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.802325395033898" task="IE">
+<t>how is it going?: Teen wakes up during brain surgery</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2591" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.896419333155956" task="IE">
+<t>Teen Iga Jasica wakes up during brain surgery, asks how it is going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2592" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7995038383410695" task="IE">
+<t>Surgery Patient Wakes Up, Asks Doc how is It Going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2593" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.6785084430406839" task="IE">
+<t>Polish Teenager Wakes Up During Brain Surgery, Talks To Doctor</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+<pair id="2594" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.7697582428829448" task="IE">
+<t>Brain op shock as teen wakes up mid-surgery</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons how is it going?</h>
+</pair>
+</entailment-corpus>

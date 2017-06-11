@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="209" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7637620568914236" task="IE">
+<t>Piper Jaffray pegs stainless steel Apple Watch price at 499, Edition at 4,999</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="210" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9926625183321147" task="IE">
+<t>High-end Apple Watch to start at 5,000 -- analyst</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="211" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8270753114807566" task="IE">
+<t>Gene Munster Predicts 499 Steel Apple Watch, 4,999 for 18k Gold Edition</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="212" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7230714747262998" task="IE">
+<t>Chinese rumor suggests Apple Watch to launch in February, sapphire to blame for low supply</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="213" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.693797047319464" task="IE">
+<t>New rumor backs up reports that the Apple Watch will launch in February</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="214" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9360577611885917" task="IE">
+<t>New Rumour Suggests Apple Watch to Launch in February</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="215" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9115992091078119" task="IE">
+<t>Are Rumors of the Apple Watch in Feb True?</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="216" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6211017689019035" task="IE">
+<t>Apple Watch launch has new timetable: Analyst</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="217" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5559406512604881" task="IE">
+<t>Apple Watch launch reportedly planned for February with limited supply</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="218" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7482263212833269" task="IE">
+<t>Apple Watch delayed for February in limited quantity</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="219" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8413689208905906" task="IE">
+<t>Apple Watch mass production kicks off in January: Report</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="253" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6456253113990766" task="IE">
+<t>NYT: Apple Watch includes Power Reserve mode, shows only the time but conserves battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="254" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8087625020977416" task="IE">
+<t>Apple Watch to reportedly offer Power Reserve to help extend battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="255" entailment="Entailment" benchmark="UNKNOWN" confidence="0.6417865929881788" task="IE">
+<t>Apple Watch Power Reserve feature will save battery life, report says</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="256" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7717751496688064" task="IE">
+<t>The Apple Watch has a low-power mode that only tells the time</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="257" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7685597236471351" task="IE">
+<t>Apple Watch to Feature Time-Only Power Reserve Mode, Prototypes Disguised as Samsung Watches</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="258" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5416460021324399" task="IE">
+<t>Apple Watch's Power Reserve feature combats short battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="259" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9130035664432615" task="IE">
+<t>Apple Watch reportedly has low-energy power reserve mode</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="260" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6020070339259335" task="IE">
+<t>Apple is bringing special safes to its stores just to house the 18k gold Apple Watch</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="261" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7918573186759524" task="IE">
+<t>Apple to keep gold Watch Editions in special in-store safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="262" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7758779452028362" task="IE">
+<t>Apple Stores will have custom-designed safes to store the gold Apple Watch in</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="263" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6576115432579827" task="IE">
+<t>Apple Stores to install safes to secure gold Apple Watches</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="264" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9176526189382846" task="IE">
+<t>Apple Stores Are Reportedly Installing Custom Safes To House Apple Watches</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="265" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6075758655475981" task="IE">
+<t>Apple installing safes in-store to protect gold Watch Edition</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="266" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8444511729504165" task="IE">
+<t>Apple Watch Edition: special safes to be installed in Apple Stores to house luxury smart watch</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="267" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7771604163162873" task="IE">
+<t>Apple Stores to Keep Gold Edition Apple Watch in Custom Safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="268" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8734706770464455" task="IE">
+<t>18-Karat Gold Apple Watch Edition To Be Locked In Safes At Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="269" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7702132518256909" task="IE">
+<t>Gold Apple Watches to be stored in safes in Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="270" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8917944222651536" task="IE">
+<t>Apple Watch Price, Release Date News: Special Safes In Apple Stores For Gold Models, April Launch Confirmed</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="271" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8140926684207845" task="IE">
+<t>Apple Watches to be kept in safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="272" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8525400755477541" task="IE">
+<t>Gold Apple Watch Will Be Stored In Special Safes At Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="304" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6445099023502252" task="IE">
+<t>Apple Watch Takes Two Hours to Charge, Only Delivers Notifications While on the Wrist</t>
+<h>The Apple Watch takes about two hours to charge</h>
+</pair>
+<pair id="752" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.971107849524557" task="IE">
+<t>Crazy Conservatives Are Sure a Gitmo Detainee Killed James Foley</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="753" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8716440342609616" task="IE">
+<t>WaPo: Was Foley's killer a former Gitmo detainee?</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="754" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7873464050594376" task="IE">
+<t>Was James Foley's murderer released from Guantanamo Bay?</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="888" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9104256249047687" task="IE">
+<t>New Twist: Charlie Hebdo Police Investigator Turns Up Dead, Suicided</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="889" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.896061360432083" task="IE">
+<t>Charlie Hebdo investigator took own life hours after attack: report</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="890" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8960871953444872" task="IE">
+<t>Another Mossad victim? Police Chief, Helric Fredou, investigating Charlie Hebdo Commits Suicide</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="891" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8987558891467105" task="IE">
+<t>Top cop investigating Charlie Hebdo attacks kills himself hours after French massacre</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="892" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8987558891467105" task="IE">
+<t>Charlie Hebdo top cop Helric Fredou kills himself hours after magazine massacre</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="893" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7328545534958536" task="IE">
+<t>Police officer in Charlie Hebdo investigation shot himself dead hours after the attack</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="894" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9567648171139804" task="IE">
+<t>Police Chief In Charge of Paris Attacks Commits Suicide</t>
+<h>The police officer leading the Charlie Hebdo investigation committed suicide</h>
+</pair>
+<pair id="1011" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9118958793701423" task="IE">
+<t>Latest iOS 8 bug reportedly causes unwanted deletion of iCloud Drive documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1012" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8819676034085615" task="IE">
+<t>Another huge iOS 8 bug could delete your iCloud Drive files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1013" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8920342757362916" task="IE">
+<t>Nasty iOS 8 Bug Could Erase Your iCloud Drive Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1014" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8136546809664477" task="IE">
+<t>New iOS 8 bug can delete all of your iCloud documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1015" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8921655930563255" task="IE">
+<t>A New iOS 8 Bug Can Delete All Of Your iCloud Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1016" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8587416420220043" task="IE">
+<t>iOS 8 bug could delete your iCloud Drive documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1017" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.70769613207068" task="IE">
+<t>do not Reset All Settings in iOS 8 unless you want to lose your iCloud files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1018" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.789998878075489" task="IE">
+<t>Bug in iOS 8's Reset All Settings Option Also Erases iCloud Drive Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1019" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8511906365012127" task="IE">
+<t>iOS 8 bug reportedly erases iCloud Drive documents when settings are reset</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1020" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7952252156090767" task="IE">
+<t>Resetting iOS 8 Preferences May Wipe iCloud Files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1298" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5692067157607171" task="IE">
+<t>ISIS Is Selling the Body of James Foley for 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1299" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8859263058257316" task="IE">
+<t>ISIS wants 1M for Foley's body</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1300" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9457918118163433" task="IE">
+<t>ISIS Is Reportedly Trying To Sell James Foley's Remains For 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1301" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8110991422755469" task="IE">
+<t>ISIS Is Trying To Sell The Body Of U.S. Hostage James Foley For 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1302" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8051898691926728" task="IE">
+<t>Fresh agony for James Foley's family as sick ISIS militants try to sell them his headless body for 1million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1303" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9367392618081145" task="IE">
+<t>Islamic State trying to SELL decapitated body of US hostage James Foley for 1 MILLION</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1304" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7570348192664168" task="IE">
+<t>Isis: James Foley's beheaded body in 1m humanity case sale offer to family</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1305" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7032984110883348" task="IE">
+<t>James Foley beheading: ISIS militants trying to sell murdered hostage's body to his parents for 1m</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1306" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.853160273156882" task="IE">
+<t>ISIS reportedly wants 1 million for beheaded hostage James Foley's corpse</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1307" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8089436042816157" task="IE">
+<t>Islamic State Attempting to Sell James Foley's Body for 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1308" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8952070144413277" task="IE">
+<t>IS reportedly tries to sell slain US hostage's body for 1 million Read more: IS reportedly tries to sell slain US hostage's body for 1 million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1309" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8920464921434875" task="IE">
+<t>Islamic State puts James Foley's body up for sale for 1M</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1329" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9450168727045696" task="IE">
+<t>Nun Complains Of Stomach Pains, Later Gives Birth To Baby Boy</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1330" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9450811966887889" task="IE">
+<t>Nun who gave birth had no idea she was pregnant</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1331" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8303242785667804" task="IE">
+<t>Nun gives birth, intends to keep baby</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1332" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9162638162285722" task="IE">
+<t>Nun who had no idea she was pregnant gives birth after going to hospital with stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1333" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8530985326606153" task="IE">
+<t>Cloistered nun has a stomach ache hospital gives birth to a baby Google Translate</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1334" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8911361022602672" task="IE">
+<t>Nun complains of stomach pains... and GIVES BIRTH: Sister who had no idea she was pregnant has a baby boy at hospital in Italy</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1335" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8489931394057172" task="IE">
+<t>Nun gives birth to surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1336" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8489931394057172" task="IE">
+<t>Nun gives birth to surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1337" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9355634522700915" task="IE">
+<t>Nun has surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1338" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9272423447499513" task="IE">
+<t>Nun who GAVE BIRTH to baby boy after suffering agonising stomach pains had no idea she was pregnant</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1339" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9392391436150535" task="IE">
+<t>Wayward sister nun the wiser about baby</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1340" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9452903200583983" task="IE">
+<t>Nun Gives Birth To Baby Boy After Suffering Intense Stomach Pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1341" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.855987249249596" task="IE">
+<t>Cloistered nun gives birth to a baby The convent: There is a sister Google Translate</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1587" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6972055943144898" task="IE">
+<t>Government employee fired after skipping work for 24 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1588" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7003292985452808" task="IE">
+<t>Government fires employee who skipped work for 24 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1589" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9529456626839382" task="IE">
+<t>CPWD official sacked for absence from duty for 25 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1590" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7873460713039135" task="IE">
+<t>Govt fires employee who skipped work for 24 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1591" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7003292985452808" task="IE">
+<t>Government fires employee who skipped work for 24 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1592" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.941190523025654" task="IE">
+<t>Indian civil servant sacked after 24-year sickie</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1593" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7756804828541217" task="IE">
+<t>An Indian Civil Servant Just Got Sacked After Not Turning Up For Work For 25 Years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1594" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6920213816512524" task="IE">
+<t>Man who skipped work for 24 years is finally fired</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1595" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8589403271777298" task="IE">
+<t>Indian worker sacked after going on leave for 24 years</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1596" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9561259089346177" task="IE">
+<t>Absent from duty for 25 years, CPWD official dismissed</t>
+<h>The Indian government fired an employee who had not been to work in 24 years</h>
+</pair>
+<pair id="1682" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9452713574086437" task="IE">
+<t>SMALL METEORITE STRIKES NICARAGUA, GOVERNMENT SAYS</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1683" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9700075384826142" task="IE">
+<t>NASA Raises Doubts About Reports of Nicaraguan Meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1684" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9129602351788164" task="IE">
+<t>Large space object slams Nicaragua's capital as asteroid passes Earth</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1685" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5445194851859233" task="IE">
+<t>See the Crater a Meteorite Made in Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1686" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9244203378018877" task="IE">
+<t>Managua explosion not a meteorite, NASA suggests</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1687" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7906480782525335" task="IE">
+<t>Doubts cast over Nicaragua meteorite claim</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1688" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9274168401564887" task="IE">
+<t>Meteorite leaves crater in Nicaraguan capital Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1689" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7911729538423233" task="IE">
+<t>Questions raised over Nicaragua meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1690" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9462251902183718" task="IE">
+<t>Meteorite Strikes Nicaraguan Capital, Creates 16-Foot-Deep Crater</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1691" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7650609936920201" task="IE">
+<t>Meteorite makes big crater in Nicaragua, government says</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1692" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9173273599390043" task="IE">
+<t>Nicaraguan commission on possible meteorite crash presents rock samples</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1693" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8723785612946416" task="IE">
+<t>Nicaragua meteorite: Experts attempt to understand whether mysterious meteorite fell from passing Pitbull asteroid</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1694" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8328617482214774" task="IE">
+<t>Meteorite Leaves House-Sized Crater in Nicaragua's Capital</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1695" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9609170338148355" task="IE">
+<t>Meteor Leaves 40-Foot Crater Near Managua's Airport</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1696" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8969221073512463" task="IE">
+<t>Scientists Doubt That Meteor Caused Crater In Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1697" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9609170338148355" task="IE">
+<t>Small Meteorite Hits Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1698" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7685229771826956" task="IE">
+<t>Nicaragua says meteorite probable cause of blast in capital</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1699" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7579574051577455" task="IE">
+<t>Did a Meteorite Impact in Nicaragua over the Weekend?</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1700" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7715572114598628" task="IE">
+<t>Rare meteorite impact causes blast in Nicaragua's capital, Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1701" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9265887491005799" task="IE">
+<t>Nicaragua Meteorite Impact Theory May Be Meteor-wrong</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1702" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8201994376289606" task="IE">
+<t>Nicaragua asks U.S. for help investigating meteorite crater</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1703" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9274168401564887" task="IE">
+<t>Meteorite leaves crater in Nicaraguan capital Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1704" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7363004349918622" task="IE">
+<t>Meteorite caused mysterious boom in Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1705" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8416318381238442" task="IE">
+<t>Meteorite strike in Nicaragua puzzles experts</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1706" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.687554914208832" task="IE">
+<t>Nasa questions whether crater in Nicaragua caused by meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1707" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9369494695879144" task="IE">
+<t>Explosion reported near the Nicaraguan capital attributed to meteorite impact, but experts, including NASA, cast doubt on claims</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1708" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8079521050391578" task="IE">
+<t>Small meteorite strikes Nicaragua, government says</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1709" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8296337856927144" task="IE">
+<t>Small Meteorite Strikes in Nicaragua's Capital City of Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1718" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9596820607648775" task="IE">
+<t>MIRACLE CAT CLAWS ITS WAY OUT OF ITS OWN GRAVE FIVE DAYS AFTER BEING BURIED</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1719" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9649368073633191" task="IE">
+<t>Zombie Cat: Buried Kitty Believed Dead, Meows Back to Life</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1720" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9640076510379767" task="IE">
+<t>Zombie Cat Claws Way Out of Grave Five Days After Being Buried Alive</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1721" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.90978935747898" task="IE">
+<t>Dead cat claws out of grave 5 days later</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1722" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.951033602126096" task="IE">
+<t>This Zombie Cat Returned Home Five Days After Being Buried By Its Owner</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1723" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9355153557289045" task="IE">
+<t>Miracle cat rises from the dead five days after burial</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1724" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.754876577596021" task="IE">
+<t>Rise of the zombie cat: Pet who was killed and buried by his owner climbed out of his grave five days later</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1725" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.955588957702479" task="IE">
+<t>Zombie Cat Claws Way Out Of Grave And Into Our Hearts UPDATED</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1726" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9507614272445177" task="IE">
+<t>Zombie Cat: Buried Cat Claws Way Out Of Grave After Being Left For Dead</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1727" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9067438079718232" task="IE">
+<t>Tail of survival: Buried cat, believed dead, claws back to life</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1728" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.903052940990549" task="IE">
+<t>Hungry Florida cat defies death, digs its way out of grave to return home VIDEO</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1856" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.555862604187899" task="IE">
+<t>North Dakota Names Landfill After Obama</t>
+<h>North Dakota named a landfill after President Obama</h>
+</pair>
+<pair id="1857" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6529509105818856" task="IE">
+<t>Hilarious: North Dakota Pays Special Tribute to President Obama</t>
+<h>North Dakota named a landfill after President Obama</h>
+</pair>
+<pair id="1875" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9797761858356699" task="IE">
+<t>SNOWDEN: Elf On A Shelf Actually Hugely Successful NSA Project</t>
+<h>Popular Christmas toy Elf On The Shelf is an espionage project run by the National Security Agency</h>
+</pair>
+<pair id="1940" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8924475926651392" task="IE">
+<t>These Men were not Really Tricked Into Sexually Harassing Their Moms</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1941" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7503752181987471" task="IE">
+<t>HOAX: TV show tricks chronic catcallers into harassing their own mothers</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1942" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9483630189802646" task="IE">
+<t>NEWS Viral Video: What Happens When You Accidentally Catcall Your Mom</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1943" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.949820804018132" task="IE">
+<t>CATCALLING IS NEVER FUNNY UNLESS it is THESE BROS TRICKED INTO CATCALLING THEIR MOTHERS</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1944" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8805101600278205" task="IE">
+<t>Watch Two Guys Appear to Get Tricked Into Catcalling Their Own Moms</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1945" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5233442975497545" task="IE">
+<t>A Peruvian TV show is tricking men into catcalling their mothers, for feminism</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1946" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9553379022685682" task="IE">
+<t>Slbale your mother, the mockumentary to stop street harassment in Peru Google Translate</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1947" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.898959352799975" task="IE">
+<t>These Men Freak Out When They Discover The Women They Are Harassing Are Their Moms In Disguise VIDEO</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1948" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9638342496614459" task="IE">
+<t>This Campaign Shows A Pretty Genius Way To Stop Men Catcalling In The Street</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1949" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8667120008354338" task="IE">
+<t>The men caught cat-calling and wolf whistling their own MOTHERS: Hilarious TV show disguises women so they can experience their sons behaviour</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1950" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.941240176581575" task="IE">
+<t>When Street Harassers Realize The Women they are Catcalling Are Their Moms In Disguise</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1951" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9079001931905017" task="IE">
+<t>Whistling At Your Mom: Video Showing Sons Catcalling their Mothers Goes Viral VIDEO</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1952" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9567587585926215" task="IE">
+<t>This Man Kept HARASSING Women On The Streets. Until One Day MOM?</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1953" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9388952763572084" task="IE">
+<t>These Men Catcalling Their Undercover Mothers Is the Best Payback Ever</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1954" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8573214451044647" task="IE">
+<t>Arab woman pilot who is poster girl for Gulf states blitz on ISIS is disowned by her family for bombing Sunni heroes of Iraq and the Levant</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1955" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9599701988545593" task="IE">
+<t>Google translate AED site: Family Flyer Maryam Mansouri emphasizes fabricating a statement repudiating them</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1956" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9282402155047729" task="IE">
+<t>Mariam Al Mansouri: Female Fighter Pilot Disowned By Family For Bombing ISIS Terrorists In Syria</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1983" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7524218328567789" task="IE">
+<t>Apple considering dedicated Apple Watch stores as it sets up Paris booth, London Selfridges Wonder Room</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="1984" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8623377584717921" task="IE">
+<t>Apple Watch pop up stores prognosticated for Paris, London and SXSW</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="1985" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8505722064083675" task="IE">
+<t>Apple Watch Pop-Up Shop Also Planned for London's Selfridges Department Store</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="2112" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9281734798783893" task="IE">
+<t>Mom Calls 911 On Masturbating Teenage Son Boy Arrested, Charged With New Self-Rape State Law</t>
+<h>An Arizona boy was charged with self-rape after his mother caught him masturbating</h>
+</pair>
+<pair id="2113" entailment="Entailment" benchmark="UNKNOWN" confidence="0.7811431846490301" task="IE">
+<t>Seth Rogen will play Steve Wozniak in upcoming Steve Jobs film</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2114" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.947451390086728" task="IE">
+<t>Seth Rogen to play Steve Wozniak alongside Christian Bale's Steve Jobs</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2115" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9455617351005643" task="IE">
+<t>Seth Rogen Is Woz</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2116" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5671593322216092" task="IE">
+<t>Seth Rogen reportedly nabs Steve Wozniak role in Steve Jobs filmSteve Jobs Iconic Moments</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2117" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9330609025999483" task="IE">
+<t>Seth Rogen reported to play Woz in the upcoming Steve Jobs movie</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2118" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7918938735172715" task="IE">
+<t>Seth Rogen to Play Apple Co-Founder Wozniak in Steve Jobs Biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2119" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5562322660838402" task="IE">
+<t>Seth Rogen To Play Steve Wozniak In Steve Jobs Biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2120" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9967652988800303" task="IE">
+<t>Seth Rogen to play Woz in Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2121" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7236541616596236" task="IE">
+<t>Return of the Mac: Seth Rogen in talks to star as Apple co-founder Steve Wozniak in upcoming Steve Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2122" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5769077447539432" task="IE">
+<t>Steve Jobs Biopic Eyes Seth Rogen to Play Apple Co-Founder Steve Wozniak</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2123" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6107980296991288" task="IE">
+<t>Seth Rogen to Star as Steve Wozniak in Sony's Steve Jobs Biopic Updated</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2124" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8302608979902949" task="IE">
+<t>Rumor: Seth Rogen to Appear as Woz in Sony's Steve Jobs Film</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2125" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8284283112035552" task="IE">
+<t>Seth Rogen to Play Apple's Steve Wozniak</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2126" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6848750108196616" task="IE">
+<t>Seth Rogen set to play Steve Wozniak in Danny Boyle's Steve Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2127" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.947451390086728" task="IE">
+<t>Seth Rogen may play Steve Wozniak alongside Christian Bale as Steve Jobs</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2128" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5255314341072602" task="IE">
+<t>Seth Rogen Eyed to Play Apple's Steve Wozniak in Christian Bale's Steve Jobs Movie Exclusive</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2191" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.606685765381133" task="IE">
+<t>NASA Confirms Earth Will Experience 6 Days of Total Darkness in December 2014</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2192" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.5467089970374772" task="IE">
+<t>Nasa's six days of total darkness in December 2014 is a hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2193" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7929254942451026" task="IE">
+<t>Daysofdarkness: No, There will not Be Six Days Of Darkness In December</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2194" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6238278639873533" task="IE">
+<t>Nasa Confirms Earth Will Experience 6 Days of Total Darkness in December Fake News Story Goes Viral</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2195" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9146090432217366" task="IE">
+<t>Nasa Confirms Six Days of Darkness in December: No, they do not - it is a hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2196" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.6645646580384984" task="IE">
+<t>NASA: Viral news on days of darkness in December is hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2197" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.887012039590932" task="IE">
+<t>6 Days Darkness in December 2014 100 Fake NASA Confirmed 3 Days Total Darkness Hoax as Well</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2218" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7818084859210765" task="IE">
+<t>Video Appears to Show ISIS Execution of Second American Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2219" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9152513177227446" task="IE">
+<t>Islamic State video reportedly shows beheading of Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2220" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.709586781499625" task="IE">
+<t>ISIS online video shows beheading of U.S. journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2221" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6319214357577971" task="IE">
+<t>ISIS claims to behead US reporter Steven Sotloff in new video</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2222" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8867784056580014" task="IE">
+<t>Islamic State releases video of beheading of U.S. hostage Steven Sotloff: site intelligence monitoring service</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2223" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8803623527388938" task="IE">
+<t>ISIS Reportedly Beheads A Second American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2224" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8117060780061988" task="IE">
+<t>Islamic State beheads US hostage Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2225" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.884346142368513" task="IE">
+<t>ISIS Executes 2nd American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2226" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7878010873385108" task="IE">
+<t>Stephen Sotloff beheading shown in video, ISIS claims</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2227" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8547415093253623" task="IE">
+<t>U.S.: Video showing Sotloff beheading is authentic</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2228" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9090505224067523" task="IE">
+<t>Video purportedly shows beheading of U.S. hostage Steven J. Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2229" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8689040041040033" task="IE">
+<t>ISIS video shows beheading of American journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2230" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9350818587903522" task="IE">
+<t>White House confirms authenticity of ISIS video showing beheading of reporter</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2231" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7171303638719453" task="IE">
+<t>Steven Sotloff, American Journalist, Beheaded By ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2232" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7147378014238255" task="IE">
+<t>Video Of Steven Sotloff Slaying By ISIS Is Authentic, U.S. Confirms</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2233" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7471165048985545" task="IE">
+<t>Steven Sotloff beheading: British captive shown in Isis video which claims to show death of second US journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2234" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9038339278399443" task="IE">
+<t>Islamic State releases video showing beheading of US hostage Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2235" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.703704654031566" task="IE">
+<t>ISIS Releases Video Allegedly Showing Beheading of U.S. Journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2236" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8122915387690948" task="IE">
+<t>Steven Sotloff beheading: Recap updates as Obama says US will degrade and destroy ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2237" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7984191120396312" task="IE">
+<t>ISIS Beheads American Journalist Steven Sotloff, Monitoring Group Says</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2238" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9318146145976944" task="IE">
+<t>U.S. Authenticates Video Showing Sotloff's Beheading</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2239" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8897454535698541" task="IE">
+<t>ISIS Reported to Behead Second American</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2240" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.703704654031566" task="IE">
+<t>After Beheading of Steven Sotloff, Obama Pledges to Punish ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2241" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8352101267740223" task="IE">
+<t>NSC appalled by Sotloff beheading</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2242" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8117060780061988" task="IE">
+<t>Journalist Steven Sotloff reportedly executed by ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2243" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9554309637213058" task="IE">
+<t>Islamic state issues video of beheading of U.S. hostage: SITE</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2244" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8619785686003002" task="IE">
+<t>Steven Sotloff beheaded by Islamic State - latest</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2245" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9554309637213058" task="IE">
+<t>Second American Journalist Beheaded by Islamic State Terrorists</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2246" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8662190944907292" task="IE">
+<t>ISIS Beheads Second American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2247" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9771081617095393" task="IE">
+<t>ISIL Has Reportedly Beheaded Journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2248" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9554309637213058" task="IE">
+<t>U.S. confirms authenticity of second journalist beheading video</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2249" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9554309637213058" task="IE">
+<t>Video purports to show beheading of US journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2319" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9182372264158554" task="IE">
+<t>US Intel: Taliban Man Released From Gitmo in Bergdahl Deal is Back to Militant Activity</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2320" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9425229643189705" task="IE">
+<t>Guantanamo Detainee Exchanged for American POW Attempts a Return to Battle</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2321" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8629336530683667" task="IE">
+<t>Taliban terrorist swapped for Bowe Bergdahl is under intensified surveillance after he allegedly contacted Al Qaeda</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2322" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9280042946716544" task="IE">
+<t>Official: Gitmo prisoner traded for Bergdahl reaching out to Taliban</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2323" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9373812969943037" task="IE">
+<t>Bergdahl: Senator Says Jihadists Swapped For U.S. Troop In Touch With Al-Qaida Affiliate</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2324" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9066409796667084" task="IE">
+<t>Prisoner Released in Bergdahl Exchange Tried to Reconnect With Taliban</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2325" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9456645843432474" task="IE">
+<t>Senator: Detainees swapped for Bergdahl have contacted militants</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2326" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9365387680824754" task="IE">
+<t>Guantanamo detainee freed in Bowe Bergdahl swap back to terrorism</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2327" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7715919382826866" task="IE">
+<t>Taliban Detainee Swapped for Bowe Bergdahl Suspected of Trying to Return to Terrorism</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2328" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7771493511231029" task="IE">
+<t>One of Taliban Five in Bowe Bergdahl swap allegedly returned to militancy</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2329" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8221099846316245" task="IE">
+<t>Taliban member swapped by Obama for Bowe Bergdahl tried to return to terror: report</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2387" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8267806766350523" task="IE">
+<t>Texas Turkey Farm Contaminated With Ebola, Over 250,000 Holiday Turkeys Infected</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2388" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9254716353900677" task="IE">
+<t>Nationwide turkey recall? Ebola-infected birds? USDA debunks the hoax</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2389" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7957559467225599" task="IE">
+<t>Hoax Report Claims 250,000 Texas Turkeys Infected With Ebola</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2390" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9446921269698259" task="IE">
+<t>TEXAS TURKEY FARM CONTAMINATED WITH EBOLA, OVER 250,000 HOLIDAY TURKEYS INFECTED</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+</entailment-corpus>

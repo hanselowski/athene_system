@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="240" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8912955701357499" task="IE">
+<t>Apple Watch Developers Told to Limit Features to Save Battery Life</t>
+<h>Developers have limited access to Apple Watch sensors and features, to make simpler apps that do not drain battery</h>
+</pair>
+<pair id="241" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6584924481636085" task="IE">
+<t>Apple is limiting features on the Apple Watch to save battery life, according to developers</t>
+<h>Developers have limited access to Apple Watch sensors and features, to make simpler apps that do not drain battery</h>
+</pair>
+<pair id="247" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7302710745241471" task="IE">
+<t>Apple Watch Takes Two Hours to Charge, Only Delivers Notifications While on the Wrist</t>
+<h>The Apple Watch only receives notifications when on the wrist</h>
+</pair>
+<pair id="303" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6930666490426596" task="IE">
+<t>Apple Watch straps will be available to purchase separately at launch</t>
+<h>Apple have different Watch bands for sale at launch</h>
+</pair>
+<pair id="440" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9011621530402278" task="IE">
+<t>The Washington Post Is Now Free On Amazon Kindles</t>
+<h>The Washington Post is developing a new app that will be pre-installed on the new Kindle Fire</h>
+</pair>
+<pair id="441" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8320951822225626" task="IE">
+<t>Jeff Bezos Is Planning To Make The Washington Post Pre-Loaded On Every Kindle HDX</t>
+<h>The Washington Post is developing a new app that will be pre-installed on the new Kindle Fire</h>
+</pair>
+<pair id="494" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9290157571318288" task="IE">
+<t>BiH: Seven Primary School Students Pregnant After Five-Day Excursion</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="495" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5033516003828796" task="IE">
+<t>Seven girls as young as 13 become pregnant on a school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="496" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7788731769533513" task="IE">
+<t>Seven teenage girls get pregnant on school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="497" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9289426936329337" task="IE">
+<t>Media Fooled Again? Story Claims 7 of 28 Girls On School Trip Came Home Pregnant</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="498" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.964833577988478" task="IE">
+<t>You all had an abortion Google Translate</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="499" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7278406454199994" task="IE">
+<t>Parents are furious after seven girls aged 13-14 fall pregnant on a school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="500" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6476951319668829" task="IE">
+<t>Seven girls fall pregnant after five day school trip in Bosnia and Herzegovina</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="501" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8153561597224344" task="IE">
+<t>Parents anger after seven Bosnian schoolgirls aged 13 and 14 fall pregnant on class trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="502" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8907526335707135" task="IE">
+<t>Rare Case: Seven Bosnian Girls, Aged 13 And 14, Fall Pregnant After Five-Day School Trip Parents Outraged After School Cites Parental Neglect</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="503" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5581659558446347" task="IE">
+<t>Bosnia: Seven underage girls return from five day school trip, pregnant</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="504" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9280985020897444" task="IE">
+<t>Seven High School Girls Get Pregnant On Five-Day School Trip, Parents Outraged</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="505" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6476951319668829" task="IE">
+<t>Seven girls fall pregnant after five day school trip in Bosnia and Herzegovina</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="506" entailment="Entailment" benchmark="ENTAILMENT" confidence="0.5390442917786701" task="IE">
+<t>7 Bosnian teens get pregnant on school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="507" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9444909839625704" task="IE">
+<t>7 teen girls get pregnant on school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="609" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8775573181743496" task="IE">
+<t>Comcast calls rumor that it disconnects Tor users wildly inaccurate</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="610" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8456556968290713" task="IE">
+<t>Comcast blocks Tor updated</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="611" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9700075384826142" task="IE">
+<t>Setting the record straight on tor</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="612" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6596686166985947" task="IE">
+<t>Comcast Is Threatening to Cut Off Customers Who Use Tor, a Private Web Browser</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="613" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8450550302693365" task="IE">
+<t>Comcast Denies It Will Cut Off Customers Who Use Tor, The Web Browser For Criminals</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="614" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8497679961591266" task="IE">
+<t>Comcast Declares War on Tor?</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="615" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8588508904710392" task="IE">
+<t>Comcast Says You Can Keep Your Tor</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="728" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.758831871825639" task="IE">
+<t>Fidel Castro Rumors Sweep Internet, but No Sign in Cuba</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="729" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7542966763559532" task="IE">
+<t>Fidel Castro Is Dead, According to Viral Twitter Rumors</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="730" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6562021546043166" task="IE">
+<t>WATCH: Twitter catches fire amid rumors of Fidel Castro's death</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="731" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6823100029642379" task="IE">
+<t>RIPFidel fuels false rumors of Cuban leader's death after another Fidel Castro dies</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="732" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9047686264833976" task="IE">
+<t>Rumor Fatigue Sets In at False Alarms of Castro's Death</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="733" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8541788806866858" task="IE">
+<t>FIDEL CASTRO DEATH WATCH: RUMORS HEAT UP, CUBA DENIES</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="734" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7059517003272401" task="IE">
+<t>Confusion as Cuba's Castro mourned instead of Kenya's Fidel</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="735" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7253338060309343" task="IE">
+<t>Hundreds mourn the death of Fidel Castro after rumours sweep Twitter but are they confusing him with recently departed Fidel Castro Odinga from Nairobi?</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="736" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7165755900883716" task="IE">
+<t>Rumors Of Fidel Castro's Death Circulate After Prolonged Absence From Public Life</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="737" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7972300781931924" task="IE">
+<t>Fidel Castro Dead? Yes, He Is But The Cuban Leader Is Alive, Death Rumors Proven False</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="738" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.758831871825639" task="IE">
+<t>Fidel Castro Rumors Sweep Internet, But No Sign in Cuba</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="739" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7139279592585123" task="IE">
+<t>Rumors about Fidel Castro's death again circulate on the Internet</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="929" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9524177931543897" task="IE">
+<t>Yemen says U.S. man freed, sister says he is dead</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="930" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.526630775943869" task="IE">
+<t>US hostage Luke Somers and SA Pierre Korkie killed during Yemen rescue bid</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="931" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8754938776889453" task="IE">
+<t>REVEALED: Navy Seals hiked six miles and got within 100 yards of Yemen compound where executed US hostage was being held - before a dog bark alerted al-Qaeda captors</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="932" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8376777677476803" task="IE">
+<t>Al-Qaeda kills hostages as US tries dramatic rescue bid</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="933" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9244276894837132" task="IE">
+<t>Barbaric hostage murder condemned</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="934" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8059925702663375" task="IE">
+<t>American, South African hostages die in rescue attempt in Yemen</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="935" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7072865794181349" task="IE">
+<t>American hostage killed in rescue attempt in Yemen - senior official</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="936" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8058035522965731" task="IE">
+<t>British-born journalist and South African aid worker KILLED in hostage rescue attempt</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="937" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9257729141136645" task="IE">
+<t>Luke Somers Dies In Rescue Attempt, Sister Says Yemeni Defense Ministry Says Unnamed US Hostage Freed</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="938" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7927136608829278" task="IE">
+<t>Luke Somers killed: Barack Obama condemns the barbaric murder of British-born photojournalist by al-Qaeda</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="939" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7920526533360176" task="IE">
+<t>U.S. Hostage Luke Somers Killed During Yemen Rescue Bid</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="940" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8156398671063636" task="IE">
+<t>Luke Somers, American Hostage, Is Killed During Rescue Attempt in Yemen</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="941" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6728143199158133" task="IE">
+<t>Luke Somers killed in failed rescue attempt in Yemen</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="942" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8524555667353378" task="IE">
+<t>American journalist killed in failed Yemen rescue attempt</t>
+<h>American hostage Luke Somers was killed during a rescue attempt</h>
+</pair>
+<pair id="1093" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6359191852212367" task="IE">
+<t>Former U.S. soldier says IS used chemical weapons in Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1094" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6901901086745384" task="IE">
+<t>Has ISIS used chemical weapons on Kobane? Claims under-siege town was hit by crude rocket attack</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1095" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8721079177059252" task="IE">
+<t>ISIS Kobani Update: Possible ISIS Chemical Attack On Kurdish Civilians In Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1096" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8591255758075262" task="IE">
+<t>BREAKING UDPATED: ISIS REPORTEDLY USE CHEMICAL WEAPONS IN KOBANE</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1097" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5877196436091634" task="IE">
+<t>Kurds fear Isis use of chemical weapon in Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1123" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7266428647593207" task="IE">
+<t>HORROR: ISIS Fighters Have Reportedly Contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1124" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7988614057286066" task="IE">
+<t>Does ISIS Have Ebola? Probably Not Media Reports It Anyway</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1125" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9026654628782552" task="IE">
+<t>Iraqi media says ISIS militants have contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1126" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8972513403043642" task="IE">
+<t>WHO says reports of suspected Ebola cases in Iraq are untrue</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1127" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6885566873182428" task="IE">
+<t>WHO probing whether ISIS fighters got Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1128" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.747268463224413" task="IE">
+<t>ISIS cracks down on five confirmed Ebola cases among fighters: official</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1129" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9265887491005799" task="IE">
+<t>Daash Ebola transferred to Mosul Google Translate</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1130" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8733349223815349" task="IE">
+<t>IRAQI AND KURDISH MEDIA ISIS FIGHTERS HAVE CONTRACTED EBOLA</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1131" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8642329658065918" task="IE">
+<t>IRAQI HEALTH OFFICIAL: EBOLA HAS KILLED 5 ISIS FIGHTERS</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1132" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8774277245588614" task="IE">
+<t>Is Ebola Virus Spreading Among ISIS Militants? Reports Claim Jihadists Seeking Cure at Mosul Hospital</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1133" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5120734474383599" task="IE">
+<t>ISIS fighters have contracted Ebola: World Health Organisation investigating reports militants showed up at Iraqi hospital with lethal disease</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1134" entailment="Entailment" benchmark="UNKNOWN" confidence="0.5536657953576815" task="IE">
+<t>WHO investigates media reports ISIS fighters contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1135" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8848696238134796" task="IE">
+<t>Fears Islamic State could launch EBOLA attack on Britain after fighters contract virus</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1136" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7997274011107465" task="IE">
+<t>Officials Refute Iraqi Media Reports That ISIS Members Have Contracted Ebola In Mosul</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1137" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7530589814251141" task="IE">
+<t>Has Ebola infected Isis militants in Mosul?</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1138" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7825881083179339" task="IE">
+<t>WHO: Isis does not have Ebola but contingency plan being developed for Iraq</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1139" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7495204363461678" task="IE">
+<t>Reports Isis fighters have contracted Ebola are incorrect, says Iraqi health ministry</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1140" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7898675632390004" task="IE">
+<t>ISIS Militants In Mosul Have Contracted Ebola, Iraqi Media Sources Claim</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1141" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7407693211211822" task="IE">
+<t>Ebola Outbreak 2015 Update: ISIS Fighters May Have Contracted Deadly Virus</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1142" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7988370642323654" task="IE">
+<t>Iraqi Official Dismisses Unfounded Reports That ISIS Fighters Have Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1143" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8858780603880556" task="IE">
+<t>Iraqi and Kurdish media reports cases of Ebola among Islamic State fighters in Mosul</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1144" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8061394030770298" task="IE">
+<t>ISIS Militants Have Contracted Ebola: Iraqi, Kurdish Media Reports</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1145" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.757507653727209" task="IE">
+<t>ISIS Militants Allegedly Contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1146" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8972513403043642" task="IE">
+<t>WHO says reports of suspected Ebola cases in Iraq are untrue</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1147" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8700607502073945" task="IE">
+<t>Biological Warfare on the Horizon? ISIS Soldiers May Be Infected With Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1148" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9049907037656787" task="IE">
+<t>ISIS fighters have contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1149" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9314321601106751" task="IE">
+<t>WHO: Reports of Suspected Ebola Cases in Iraq Untrue</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1150" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9302056555062901" task="IE">
+<t>No, there are not any Ebola cases in Iraq</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1151" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7353643209969324" task="IE">
+<t>ISIS Getting Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1152" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9026654628782552" task="IE">
+<t>Iraqi media: ISIS militants have contracted Ebola</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1153" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7919916988267497" task="IE">
+<t>Weaponized Ebola? ISIS Militants Said To Contract Deadly Virus</t>
+<h>Some ISIS fighters have contracted Ebola</h>
+</pair>
+<pair id="1154" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9599701988545593" task="IE">
+<t>Islamic State Flying Three Jets in Syria</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1155" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9538116300634556" task="IE">
+<t>Islamic State Training Pilots in Military Jets, Monitors Say</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1156" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8743292823525484" task="IE">
+<t>Islamic State training pilots to fly fighter jets</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1157" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9263307191684741" task="IE">
+<t>Opposition group: ISIS militants training to fly warplanes in Syria</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1158" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7699949702320128" task="IE">
+<t>Does ISIS have an airforce? Terrorist fighter pilots are being trained on captured MiGs by Saddam Hussein's ex-air force officers</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1159" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9386966814144339" task="IE">
+<t>Islamic State Militants Have Been Flying 3 Captured Warplanes Over Syrian Airport, Witnesses Say</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1160" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9333426242823439" task="IE">
+<t>Islamic State May Have Fighter Jets Now After Seizing Russian-Made MiGs</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1161" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9171042657025409" task="IE">
+<t>Isis Syria News: Iraqi Pilots Training Isis Fighters to Fly Captured Planes</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1162" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9599701988545593" task="IE">
+<t>Saddam Hussein's pilots training Islamic State group</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1163" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9225855266389984" task="IE">
+<t>Islamic State flying three jets in Syria: monitor</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1164" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8534541712108009" task="IE">
+<t>Islamic State training fighter pilots in captured jets, monitoring group says</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1165" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.917745695672629" task="IE">
+<t>Islamic State training pilots to fly MiG fighter planes, says monitoring group</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1166" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8894464121216049" task="IE">
+<t>Islamic State fighters training to fly captured jets watchdog</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1167" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9696624467755002" task="IE">
+<t>DHS Rebuffs Congressman's Claim ISIS Infiltrating Southern Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1168" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9601760421536689" task="IE">
+<t>4 ISIS Terrorists Caught at Southern Border in 36 Hrs</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1169" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9605032759067127" task="IE">
+<t>Categorically False: DHS Debunks Right-Wing Fiction That ISIS Attempted To Cross The U.S.- Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1170" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9410815733558812" task="IE">
+<t>GOP Rep: At Least Ten ISIS Fighters Have Been Caught Coming Across The Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1171" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8593009145722649" task="IE">
+<t>Officials shoot down congressman's claims ISIS terrorists are running across US-Mexico border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1172" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9495158573866039" task="IE">
+<t>Two GOP Congressmen Say Suspected Terrorists Caught Crossing U.S.Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1173" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9495158573866039" task="IE">
+<t>Two GOP Congressmen Say Suspected Terrorists Caught Crossing U.S.Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1174" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8647749321498074" task="IE">
+<t>This Is Why Rumors That ISIS Is Crossing The Border Into The U.S. are not Going Away</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1175" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9697107934659358" task="IE">
+<t>Homeland Security says terrorists have not crossed U.S-Mexico border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1176" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9156474997513955" task="IE">
+<t>Obama administration DENIES congressman's claim that at least ten ISIS fighters have been caught coming across the Mexican border in Texas</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1177" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8670559145400883" task="IE">
+<t>Congressman: At least 10 ISIS fighters caught trying to cross into US</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1178" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9588883297767637" task="IE">
+<t>GOP Rep. Duncan Hunter Claims At Least 10 ISIS Fighters Apprehended On Texas Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1179" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9557190578253913" task="IE">
+<t>Jeh Johnson: Politicians should not Feed The Flames Of Fear Over ISIS, Ebola</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1180" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9537695014679253" task="IE">
+<t>ISIS Border Crisis: DHS Chief Says Terrorists Not Entering US Through Mexico</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1181" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9444694467487802" task="IE">
+<t>DHS: GOP Rep.s Claim ISIS Members Caught at U.S. Border Categorically False</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1182" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9224863151967789" task="IE">
+<t>ISIS Fighters Getting Caught Coming Across the U.S.-Mexican Border?</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1183" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9340779070886731" task="IE">
+<t>Is There an ISIS Threat on the Texas-Mexico Border or Not?</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1184" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9418031763310858" task="IE">
+<t>No, Islamic State Militants Have Not Been Caught by U.S. Border Patrol</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1185" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9591297996619308" task="IE">
+<t>Rep. Duncan Hunter: At Least 10 ISIS Fighters Caught at Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1186" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9646632348430485" task="IE">
+<t>Judicial Watch's Farrell: ISIS Terrorists Did Cross Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1187" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8068774586669292" task="IE">
+<t>SEE IT: ISIS militants caught trying to cross border into Texas, Congressman claims</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1188" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9637963028288941" task="IE">
+<t>Homeland Security: No ISIL fighters on U.S. border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1189" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8629385197107889" task="IE">
+<t>Pants on Fire: Duncan Hunter makes unconfirmed claim Border Patrol caught at least 10 ISIS fighters</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1190" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9137520197764208" task="IE">
+<t>Lawmaker Says At Least 10 Islamic State Fighters Have Been Captured at the Southern U.S. Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1191" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9397505953637653" task="IE">
+<t>US Lawmaker: Ten ISIS Fighters Have Been Apprehended Coming Across Southern Border Video</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1192" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9415825023279494" task="IE">
+<t>Jeh Johnson shoots down Duncan Hunter's assertion IS is entering U.S. via Mexico</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1459" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>YUM Serving Up Marijuana Fried Chicken</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1460" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7411476187593313" task="IE">
+<t>KFC Locations In Colorado To Begin Selling Marijuana</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1461" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7251567233514306" task="IE">
+<t>KFC Gets Occupational Business License To Sell Marijuana In Colorado Restaurants KFC Gets Occupational Business License To Sell Marijuana In Colorado Restaurants</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1462" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7289679302990325" task="IE">
+<t>Sorry, KFC is not going to be selling weed in Colorado restaurants</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1463" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8358011741726756" task="IE">
+<t>KFC Marijuana Sales To Begin In Colorado? it is Unbelievable Literally</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1464" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9038868010767239" task="IE">
+<t>If you really believed Colorado KFCs were selling pot, here's a reality check</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1789" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9308774123728901" task="IE">
+<t>Airport worker strips naked at security scanner in protest against guards</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1790" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.6261433407630446" task="IE">
+<t>that is one way to get through security Frustrated traveller strips completely NAKED at airport to pass through metal detectors</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1791" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.910808020537502" task="IE">
+<t>Watch NAKED airport worker walk through scanner in bizarre protest against rough guards</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1792" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8830919292051416" task="IE">
+<t>Airport worker strips naked at Russian airport</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1805" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9031736717127868" task="IE">
+<t>Boko Haram Denies Ceasefire, Says Kidnapped Girls Are Now Married</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1806" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.913899523413881" task="IE">
+<t>Continuing Violence Puts Boko Haram Ceasefire In Jeopardy</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1807" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9121781586399232" task="IE">
+<t>Boko Haram denies cease-fire, leader says he married off kidnapped girls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1808" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.853380170206881" task="IE">
+<t>More than 200 kidnapped Nigerian girls to be released after deal reached with Boko Haram</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1809" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8414989822737213" task="IE">
+<t>Nigeria claims deal with Boko Haram on ceasefire, kidnapped girls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1810" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8586320500531373" task="IE">
+<t>Nigeria Claims Boko Haram Will Release the Kidnapped Schoolgirls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1811" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9205614558201819" task="IE">
+<t>Boko Haram denies truce to release kidnapped schoolgirls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1812" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.901603832066449" task="IE">
+<t>Boko Haram Denies Nigeria Cease-Fire Claim</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1813" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8918895837787192" task="IE">
+<t>Nigeria Says Boko Haram Cease-Fire May Lead to Release of Kidnapped Girls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1814" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8317358338398781" task="IE">
+<t>Nigeria says ceasefire agreed with Boko Haram</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1815" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7583833354413296" task="IE">
+<t>Nigeria and Boko Haram agree ceasefire and girls release</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1816" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9305223339807539" task="IE">
+<t>Nigeria Boko Haram blamed for raids despite truce claim</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1817" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7641628494841859" task="IE">
+<t>Boko Haram denies ceasefire claim by Nigeria's government</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1818" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8585293010346099" task="IE">
+<t>Nigerian Claims of Boko Haram Cease-Fire Hurt by Violence</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1819" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8343300744258851" task="IE">
+<t>Boko Haram Could Release Kidnapped Girls, Nigerian Officials Say</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1820" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7894354737564651" task="IE">
+<t>Nigeria, Boko Haram reach ceasefire deal, kidnapped girls to go free, official says</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1821" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8500671546564316" task="IE">
+<t>Despite ceasefire announcement, new Boko Haram attacks reported</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1822" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8019285058902762" task="IE">
+<t>Boko Haram leader denies ceasefire deal, says 200 abducted girls married off</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1823" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.857674989925877" task="IE">
+<t>Boko Haram agrees to ceasefire, release of school girls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1824" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.857674989925877" task="IE">
+<t>Boko Haram ceasefire ignored as violence flares in Borno state</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1825" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.77538553369023" task="IE">
+<t>Boko Haram claims to have German hostage, denies ceasefire</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1826" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8510731427259791" task="IE">
+<t>Nigeria Says It Struck A Cease-Fire With Boko Haram, But Are They Talking To The Right Guy?</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1827" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.919478571022554" task="IE">
+<t>Boko Haram: Kidnapped Girls Have Been Married Off, Truce Never Happened</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1828" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8350731397153012" task="IE">
+<t>Boko Haram Cease-Fire: Abducted Nigerian Schoolgirls To Be Released, Officials Say</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1829" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6643301450571907" task="IE">
+<t>Boko Haram will release abducted schoolgirls and agree to ceasefire claims Nigerian official</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1830" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.6460523036956434" task="IE">
+<t>Kidnapped Nigerian schoolgirls: Government claims ceasefire deal with Boko Haram that will bring missing girls home</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1831" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9205925411556735" task="IE">
+<t>Nigeria announces truce with Boko Haram fate of schoolgirls unclear</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1832" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9089503371846182" task="IE">
+<t>Hope Fades for Girls Release After Boko Haram Truce Breached</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1833" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8675084760216817" task="IE">
+<t>Nigerians doubtful of girls release after Boko Haram truce breached</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1834" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9054864525675319" task="IE">
+<t>Boko Haram Denies Truce, Says Kidnapped Girls Have Been Married Off</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1835" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8544788023932179" task="IE">
+<t>Nigeria's missing girls to be released by Boko Haram, government aide claims</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1836" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8719880449201048" task="IE">
+<t>Boko Haram ceasefire doubts after attacks reported in Nigeria</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1837" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9303512323722085" task="IE">
+<t>Insurgents killed in Nigeria despite alleged truce with Boko Haram</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1838" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8998619564564551" task="IE">
+<t>Boko Haram agrees to release schoolgirls, Nigeria says</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1839" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7815268739027569" task="IE">
+<t>Boko Haram denies it has agreed ceasefire</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1840" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9465862654896289" task="IE">
+<t>Nigeria: hopes for return of kidnapped schoolgirls rise after ceasefire reported</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1841" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9202097898389593" task="IE">
+<t>Boko Haram agrees to cease-fire, may release schoolgirls</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1842" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9125544603249266" task="IE">
+<t>Boko Haram denies truce, says kidnapped girls married</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1843" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8823565145622274" task="IE">
+<t>That Boko Haram Ceasefire in Nigeria is not A Ceasefire</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1844" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8635616120248167" task="IE">
+<t>Six months after abducting Nigerian schoolgirls, Boko Haram reportedly wants to free them</t>
+<h>The Nigerian government and Boko Haram have reached a ceasefire agreement</h>
+</pair>
+<pair id="1876" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9560400132720731" task="IE">
+<t>NYPD to stop arresting people for minor marijuana offenses</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1877" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9065728216972594" task="IE">
+<t>NYPD to issue tickets instead of arrest for weed possession, report says</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1878" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8819583793316939" task="IE">
+<t>Soon Marijuana May Lead to Ticket, Not Arrest, in New York</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1879" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9228934564061777" task="IE">
+<t>New policy could reduce marijuana possession arrests</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1880" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8860933928721153" task="IE">
+<t>NYPD to stop arrests for small amounts of marijuana</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1881" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9223632182149887" task="IE">
+<t>Marijuana May Soon Spark Just a Ticket in New York</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1882" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9082628775053636" task="IE">
+<t>New York Plans to Reduce Marijuana Arrests Using Tickets</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1883" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9071503752997071" task="IE">
+<t>It Just Got Harder To Get Arrested For Pot In New York City</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1884" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9310945863837836" task="IE">
+<t>Pot in NYC may soon net just a ticket, not an arrest</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1885" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8769091237539002" task="IE">
+<t>Marijuana Law New York: How No-Arrest Policy Could Make Things Worse For Minor Offenders</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1886" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8646589155076188" task="IE">
+<t>Low-level marijuana possession could soon land you a ticket instead of arrest in New York City</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1887" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7762390138477718" task="IE">
+<t>NYPD to stop arresting for minor marijuana possession, will issue tickets instead</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1888" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8891994813161523" task="IE">
+<t>In New York City, Marijuana May Mean Ticket, Not Arrest</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1889" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.922730717486737" task="IE">
+<t>New York City Plans to End Arrests for Possession of Small Amounts of Marijuana</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1890" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9492423743532304" task="IE">
+<t>NYC relaxes response to marijuana possession</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1922" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8067554805144636" task="IE">
+<t>Whoa, Paul Rudd Was UPDATE: Not One of the Airport Heroes Who Took Down the Homophobe</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1923" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8077882933678109" task="IE">
+<t>Did Paul Rudd Help Tackle That Dallas Airport Gay-Basher?</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1924" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.9051322977480113" task="IE">
+<t>No, That was not Paul Rudd Tackling an Airport Homophobe</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1925" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8846207734347942" task="IE">
+<t>Oh Hey, Paul Rudd Was One Of The Dallas Airport Homophobe Heroes No He was not</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1926" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.7144826103209004" task="IE">
+<t>Paul Rudd Is Not the Viral Video Hero Who Tackled a Gay Basher in Dallas</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1927" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7876697195058843" task="IE">
+<t>Did Paul Rudd Help Take Down Dallas Airport Homophobe? UPDATED</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1928" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8780516103325696" task="IE">
+<t>Paul Rudd Helped Tackle A Violent Homophobe So that is Another Reason To Love Him UPDATE</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="2077" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.805399460927682" task="IE">
+<t>iPhone 6 and Even Apple Watch To Feature Samsung Components Rumor</t>
+<h>Samsung will supply application processors for Apple Watch</h>
+</pair>
+<pair id="2078" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7341158843672164" task="IE">
+<t>Apple Reportedly Relying More Heavily on Samsung for iPhone 6 and Apple Watch Components</t>
+<h>Samsung will supply application processors for Apple Watch</h>
+</pair>
+<pair id="2105" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9083768191110122" task="IE">
+<t>Scorpion stings woman on OSU plane</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2106" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9284832221946246" task="IE">
+<t>Woman Bit By Scorpion on Alaska Airlines Flight Is Chill as Hell</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2107" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9603616491301211" task="IE">
+<t>Scorpion Sting Delays Oregon State Flight</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2108" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9660990732888869" task="IE">
+<t>Flight Delayed Due To Rampaging Scorpion</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2109" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.923820373781021" task="IE">
+<t>Scorpion stings passenger, delays flight from Los Angeles to Portland</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2110" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.679230400494472" task="IE">
+<t>Woman stung by scorpion on Alaska Airlines flight</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2111" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8571648521827808" task="IE">
+<t>Scorpion stings flier on Alaska Airlines flight from L.A.</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2292" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9189124399763055" task="IE">
+<t>Apple: Citi Sees 550 and 950 Apple Watches, Accessory Plethora</t>
+<h>The stainless steel Apple Watch will cost 550 USD</h>
+</pair>
+<pair id="2293" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.7730653469904287" task="IE">
+<t>Citi sees Apple Watch price points of 550 and 950 myriad accessories</t>
+<h>The stainless steel Apple Watch will cost 550 USD</h>
+</pair>
+<pair id="2311" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9135028982604019" task="IE">
+<t>Texas Boy Suspended For Threatening Classmate With The One Ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2312" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8792713280002458" task="IE">
+<t>Elementary school suspends boy after he threatens to turn fellow student invisible with the One Ring from Tolkien novels</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2313" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9438087691596843" task="IE">
+<t>Kid Suspended For Allegedly Threatening Classmate With Hobbit Magic</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2314" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.931552231557812" task="IE">
+<t>Texas boy suspended for saying he could make classmate disappear with Lord of the Rings sorcery</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2315" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9548331988850137" task="IE">
+<t>Parent: Fourth-grader suspended after using magic from The Hobbit</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2316" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9005880308266045" task="IE">
+<t>Suspended boy threatened to make student disappear with Lord of the Rings replica ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2317" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9005880308266045" task="IE">
+<t>Suspended boy threatened to make student disappear with Lord of the Rings replica ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2318" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.8655351474725423" task="IE">
+<t>Texas boy, 9, suspended for threatening to use Hobbit magic, dad says</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2345" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8501166305825061" task="IE">
+<t>Speeding Up Seinfeld For Younger Viewers</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2346" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7396630106999736" task="IE">
+<t>TBS Speeds up SEINFELD by 7.5 to Add 2 More Minutes of Commercials</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2347" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.5888807610862932" task="IE">
+<t>TBS Is Probably Speeding Up Seinfeld Reruns To Fit In More Commercials</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2348" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.800125488265172" task="IE">
+<t>TBS speeds up Seinfeld a full 7.5 percent - here is the proof</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2349" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5851260095119819" task="IE">
+<t>TBS speeds up Seinfeld 7.5 to gain an extra 2 minutes of commercial ad time.</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2350" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8860953659448261" task="IE">
+<t>What TBS's Sped-Up Seinfeld Reruns Tell Us About the Sorry State of America</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2491" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Crank-Boosting Behind Top Apps in App Store</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2492" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9700075384826142" task="IE">
+<t>App brush list actually do so sister you tired it?</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2493" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.900938793056161" task="IE">
+<t>A viral photo in China shows how to manipulate App Store rankings the hard way</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2494" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9512444469961714" task="IE">
+<t>Crazy iPhone rig shows how Chinese workers manipulate App Store rankings</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2495" entailment="NonEntailment" benchmark="UNKNOWN" confidence="0.9649280452851715" task="IE">
+<t>China App Store Manipulation Photo Goes Viral - But Is It Real?</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2496" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9162132830512906" task="IE">
+<t>Viral Photo Shows How Chinese Workers Are Used to Manipulate App Store Rankings</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2497" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9700075384826142" task="IE">
+<t>Staff Reporter</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2571" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8772926294817387" task="IE">
+<t>Pregnant St. Louis woman loses eye after police fire non-lethal round: reports</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2572" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8544814671443552" task="IE">
+<t>Ferguson protester shot in the eye with rubber bullet by police</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2573" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.7534621825775476" task="IE">
+<t>Pregnant woman loses eye after Ferguson cops fire bean bag</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2574" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.9256111923806647" task="IE">
+<t>Pregnant Woman Loses Eye During Ferguson Riots After Officer Shoots Bean Bag Round At Car</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2575" entailment="NonEntailment" benchmark="CONTRADICTION" confidence="0.8283055667744182" task="IE">
+<t>We just found out the Ferguson Protester who claim she was shot in the eye with a rubber bullet was a false story guys. Smh..</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2576" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8912497747447478" task="IE">
+<t>A Pregnant Woman Has Lost Her Eye After Being Shot W Bean Bag In Ferguson</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2577" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5431597322180589" task="IE">
+<t>Pregnant Ferguson woman loses her EYE after police shoot her car with bean bag during violent protests</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2578" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.5220700022057884" task="IE">
+<t>Pregnant woman loses eye after police shoot bean bag at her</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2579" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8790452720688596" task="IE">
+<t>Ferguson riots: Pregnant woman loses eye after cops fire BEAN BAG round through car window</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2580" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8480234504312265" task="IE">
+<t>I will have justice for what they did to me: Pregnant St. Louis woman loses eye after police fire non-lethal round at car during Ferguson protest VIDEO</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2581" entailment="NonEntailment" benchmark="ENTAILMENT" confidence="0.8544814671443552" task="IE">
+<t>Ferguson protester shot in the eye with rubber bullet by police</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+</entailment-corpus>
