@@ -703,7 +703,7 @@ def pipeline():
 
             run_CV = False # run cross validation
             run_validation = False # run validation on holdout set
-            run_final_train = True # train classifier on all the data available
+            run_final_train = False # train classifier on all the data available
             run_final_prediction = True # run prediction on test data provided by FNC-1 challenge
 
             # run cross validation on the specified folds
