@@ -43,13 +43,13 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
 * Setup tested on Anaconda3 (tensorflow 0.9 gpu version)*
 
-	conda create -n env_python3.4 python=3.4 anaconda
+		conda create -n env_python3.4 python=3.4 anaconda
 	
-	source activate env_python3.4
+		source activate env_python3.4
 	
-	env_python3.4/bin/python3.4 -m pip install -r requirements.txt --upgrade
+		env_python3.4/bin/python3.4 -m pip install -r requirements.txt --upgrade
 	
-	env_python3.4/bin/python3.4 -m pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.9.0rc0-cp34-cp34m-linux_x86_64.whl
+		env_python3.4/bin/python3.4 -m pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.9.0rc0-cp34-cp34m-linux_x86_64.whl
 
 	
 ## To Run
