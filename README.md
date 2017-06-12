@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing 
         
 3. Parts of the Natural Language Toolkit (NLTK) might need to be installed manually.
 
-	    python3.4 -c "import nltk; nltk.download("stopwords"); nltk.download("punkt"); nltk.download("wordnet")"
+	    python3.4 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('wordnet')"
 	
 4. Installation of the packages for anaconda3 (python 3)
 
