@@ -34,7 +34,7 @@ sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 def get_args():
     ''' This function parses and return arguments passed in'''
     parser = argparse.ArgumentParser(description='Scorer pipeline')
-    parser.add_argument('-p', '--pipeline_type', type=str, help='Pipeline Type (test, analysis, train)', required=True)
+    parser.add_argument('-p', '--pipeline_type', type=str, nargs='+', help='Pipeline Type (crossv,holdout,ftrain,ftest), e.g. -p crossv holdout', required=True)
     parser.add_argument('-s', '--scorer_type', type=str, help='Scorer Type (baselines, CNN, tf_idf, avg_embed, sdm, doc2vec, word_mover_sentence, word_mover_wholeText)', required=False)
     parser.add_argument('-t', '--threshold', type=float, help='Threshold', required=False)
 
@@ -447,7 +447,7 @@ def validate_holdout(Xs, ys, X_holdout, y_holdout, non_bleeding_features, featur
     # test saving and restoring model
     filename = scorer_type + ".sav"
     save_model(best_clf, save_folder,filename)
-    load_clf = load_model(parent_folder + scorer_type + "_0/", filename) # the 0th folder should always exist
+    load_clf = load_model(parent_folder + scorer_type + "_new_0/", filename) # the 0th folder should always exist
     print_score_from_restored_model(load_clf, X_holdout, y_holdout)
 
     # add to special file that shows learning rate and loss of optimizer
@@ -531,7 +531,7 @@ def final_clf_training(Xs, ys, X_holdout, y_holdout, scorer_type, sanity_check=F
         # printout results
         printout = printout_manager.get_holdout_printout(save_folder, accuracy_related, accuracy_stance, f1_related,
                                                          f1_stance, score)
-        print("SANITY CHECK:")
+        print("SANITY CHECK (predict on train data):")
         print(printout)
     return clf
 
@@ -558,7 +558,7 @@ def final_clf_prediction(data_path, features, features_dir, scorer_type, run_fin
     parent_folder = "%s/data/fnc-1/mlp_models/" % (path.dirname(path.dirname(path.abspath(__file__))))
     fnc_result_folder = "%s/data/fnc-1/fnc_results/" % (path.dirname(path.dirname(path.abspath(__file__))))
 
-    # load the first saved classifier with scorer_type as name
+    # load model [scorer_type]_final_2 classifier
     filename = scorer_type + "_final.sav"
     load_clf = load_model(parent_folder + scorer_type + "_final_2/",
                           filename)  # TODO set the correct path to the classifier here
@@ -631,7 +631,24 @@ def pipeline():
     bodyDict = reader.load_body("train_bodies.csv")
     train_data = reader.load_dataset("train_stances.csv")
 
-    if pipeline_type == "analysis":
+    # configure pipeline runs by using given terminal arguments
+    run_CV = False
+    if "crossv" in pipeline_type:
+        run_CV = True  # run cross validation
+
+    run_validation = False
+    if "holdout" in pipeline_type:
+        run_validation = True  # run validation on holdout set
+
+    run_final_train = False
+    if "ftrain" in pipeline_type:
+        run_final_train = True  # train classifier on all the data available
+
+    run_final_prediction = False
+    if "ftest" in pipeline_type:
+        run_final_prediction = True  # run prediction on test data provided by FNC-1 challenge
+
+    if "analysis" in pipeline_type:
         if scorer_type == None:
             raise AttributeError("Please specify scorer_type")
         if threshold == None:
@@ -640,7 +657,7 @@ def pipeline():
         model.analyze_data(train_data, bodyDict, threshold=threshold)
 
     # train the model / predict on basis of the model
-    if pipeline_type == "train":
+    if True in [run_CV, run_validation, run_final_train, run_final_prediction]:
 
         if sys.version_info.major < 3:
             sys.stderr.write('Please use Python version 3 and above\n')
@@ -701,11 +718,6 @@ def pipeline():
             result_string = file_head # use head for result file
             learning_rate_string = file_head # use head for learning rate file
 
-            run_CV = False # run cross validation
-            run_validation = False # run validation on holdout set
-            run_final_train = False # train classifier on all the data available
-            run_final_prediction = True # run prediction on test data provided by FNC-1 challenge
-
             # run cross validation on the specified folds
             if run_CV == True:
                 result_string, learning_rate_string = cross_validation(fold_stances, folds, Xs, ys, non_bleeding_features, features_dir,
@@ -728,7 +740,6 @@ def pipeline():
                 else:
                     final_clf_prediction(data_path, features, features_dir, scorer_type, run_final_train, None)
 
-
             # save file with results to disk
             printout_manager.save_file(result_string, result_file_folder + "/result_file_temp.txt", "a+")
 
@@ -736,7 +747,7 @@ def pipeline():
             learning_rate_string += "===================================\n"
             printout_manager.save_file(learning_rate_string, result_file_folder + "/learning_rate_file_temp.txt", "a+")
 
-            # delete old MultiThreadingFeedForwardMLP data if existing
+            # delete temporary saved MultiThreadingFeedForwardMLP models if existing
             delete_ffmlp_data()
 
 if __name__ == '__main__':
