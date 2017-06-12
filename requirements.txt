@@ -8,7 +8,6 @@ scipy==0.18.1
 scikit-learn==0.18.1
 pandas==0.19.2
 matplotlib==2.0.0
-tensorflow==0.9.0
 networkx==1.11
 numba==0.30.1
 pexpect==4.2.1

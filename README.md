@@ -1,3 +1,11 @@
+## Introduction
+
+The project was developed as a part of the Fake News Challenge One (FNC-1 http://www.fakenewschallenge.org/) by team Athene:
+Andreas Hanselowski, Avinesh PVS, Benjamin Schiller and Felix Caspelherr
+
+Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
+
+
 ## Requirements
 
 * Software dependencies
@@ -20,7 +28,7 @@ https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing 
         
 3. Parts of the Natural Language Toolkit (NLTK) might need to be installed manually.
 
-	    python3.4 -c "import nltk; nltk.download("stopwords"); nltk.download("punkt"); nltk.download("wordnet")"
+	    python3.4 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('wordnet')"
 	
 4. Installation of the packages for anaconda3 (python 3)
 
@@ -50,5 +58,7 @@ and the exact library versions stated in requirements.txt, including python 3.4.
         python pipeline.py --pipeline_type=train
 
     The classifier and corresponding features (Installation, step 2) will be loaded and a prediction 
-    will be executed on the unlabled test stances. After the process has finished, the submission.csv can
-    be found at athene_system/data/fnc-1/fnc_results
+    will be executed on the unlabled test stances. 
+    	
+		cat athene_system/data/fnc-1/fnc_results/submission.csv
+   
