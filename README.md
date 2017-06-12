@@ -1,6 +1,6 @@
 ## Introduction
 
-The project was developed for the Fake News Challenge One (FNC-1) http://www.fakenewschallenge.org/ by team Athene:
+The project was developed as a part of the Fake News Challenge One (FNC-1) http://www.fakenewschallenge.org/ by team Athene:
 Andreas Hanselowski, Avinesh PVS, Benjamin Schiller and Felix Caspelherr
 
 Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
