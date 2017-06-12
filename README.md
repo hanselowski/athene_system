@@ -19,7 +19,7 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
         pip install -r requirements.txt
         
-2. To reproduce the the results of our best submission to the FNC-1, please go to 
+2. In order to reproduce the the results of our best submission to the FNC-1, please go to 
 https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing  and download 
      the files features.zip and model.zip.
      
@@ -55,10 +55,14 @@ and the exact library versions stated in requirements.txt, including python 3.4.
 
 1. python pipeline.py --help for more details
     
-        python pipeline.py --pipeline_type=train
+        e.g.: python pipeline.py -p crossv holdout ftrain ftest
+        
+        * crossv: runs 10-fold cross validation on train / validation set and prints the results
+        * holdout: trains classifier on train and validation set, tests it on holdout set and prints the results
+        * ftrain: trains classifier on train/validation/holdout set and saves it to athene_systems/data/fnc-1/mlp_models
+        * ftest: predicts stances of unlabeled test set based on the model (see Installation, step 2) 
 
-    The classifier and corresponding features (Installation, step 2) will be loaded and a prediction 
-    will be executed on the unlabled test stances. 
+    After _ftest_ was executed, the labeled stances will be saved to disk:
     	
 		cat athene_system/data/fnc-1/fnc_results/submission.csv
    
