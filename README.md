@@ -8,21 +8,23 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 ## Requirements
 
 * Software dependencies
-	* python >= 3.4.0 (tested with 3.4.0)
+	
+		python >= 3.4.0 (tested with 3.4.0)
+	
 ## Installation
 
 1. Install required python packages.
 
-        python3.4 -m pip $i install -r requirements.txt
+		python3.4 -m pip install -r requirements.txt --upgrade
         
 2. In order to reproduce the the results of our best submission to the FNC-1, please go to [Athene_FNC-1 Google Drive](https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing) and download the [features.zip](https://drive.google.com/open?id=0B0-muIdcdTp7UWVyU0duSDRUd3c) and [model.zip](https://drive.google.com/open?id=0B0-muIdcdTp7Sm42ZW1yUndyY1E) and unzip them in respective folders.
-     
- 		unzip  features.zip athene_system/data/fnc-1/features
+
+		unzip  features.zip athene_system/data/fnc-1/features
 		unzip  model.zip athene_system/data/fnc-1/mlp_models
         
 3. Parts of the Natural Language Toolkit (NLTK) might need to be installed manually.
 
-	    python3.4 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('wordnet')"
+		python3.4 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('wordnet')"
 	      
 4. Copy Word2Vec [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) in folder athene_system/data/embeddings/google_news/ 
 
@@ -38,15 +40,29 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 ## Additional notes
 
 * In order to reproduce the classification results of the best submission at the day of the FNC-1, it is mandatory to use tensorflow v0.9.0 (ideally GPU version) and the exact library versions stated in requirements.txt, including python 3.4.
+
+* Setup tested on Anaconda3 (tensorflow 0.9 gpu version)*
+
+	conda create -n env_python3.4 python=3.4 anaconda
+	
+	source activate env_python3.4
+	
+	env_python3.4/bin/python3.4 -m pip install -r requirements.txt --upgrade
+	
+	env_python3.4/bin/python3.4 -m pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.9.0rc0-cp34-cp34m-linux_x86_64.whl
+
 	
 ## To Run
 
-1. To run the pre trained model and test
+To run the pre trained model and test
 
 		python pipeline.py -p ftest
 
-	python pipeline.py --help for more details
-   
+
+For more details
+		
+		 python pipeline.py --help         
+        
         e.g.: python pipeline.py -p crossv holdout ftrain ftest
         
         * crossv: runs 10-fold cross validation on train / validation set and prints the results
@@ -54,7 +70,7 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
         * ftrain: trains classifier on train/validation/holdout set and saves it to athene_systems/data/fnc-1/mlp_models
         * ftest: predicts stances of unlabeled test set based on the model (see Installation, step 2) 
 
-    After _ftest_ was executed, the labeled stances will be saved to disk:
+ After _ftest_ was executed, the labeled stances will be saved to disk:
     	
 		cat athene_system/data/fnc-1/fnc_results/submission.csv
    
