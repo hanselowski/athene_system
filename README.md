@@ -58,5 +58,7 @@ and the exact library versions stated in requirements.txt, including python 3.4.
         python pipeline.py --pipeline_type=train
 
     The classifier and corresponding features (Installation, step 2) will be loaded and a prediction 
-    will be executed on the unlabled test stances. After the process has finished, the submission.csv can
-    be found at athene_system/data/fnc-1/fnc_results
+    will be executed on the unlabled test stances. 
+    	
+		cat athene_system/data/fnc-1/fnc_results/submission.csv
+   
