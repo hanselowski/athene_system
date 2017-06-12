@@ -5,43 +5,36 @@ Andreas Hanselowski, Avinesh PVS, Benjamin Schiller and Felix Caspelherr
 
 Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
-
 ## Requirements
 
 * Software dependencies
 	* python >= 3.4.0 (tested with 3.4.0)
-
-
-
 ## Installation
 
 1. Install required python packages.
 
-        pip install -r requirements.txt
+        python3.4 -m pip $i install -r requirements.txt
         
-2. In order to reproduce the the results of our best submission to the FNC-1, please go to 
-[Athene_FNC-1 Google Drive](https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing) and download 
-     the following files:
+2. In order to reproduce the the results of our best submission to the FNC-1, please go to [Athene_FNC-1 Google Drive](https://drive.google.com/drive/folders/0B0-muIdcdTp7cUhVdFFqRHpEcVk?usp=sharing) and download the following files and unzip them in respective folders.
      
-     * [features.zip](https://drive.google.com/open?id=0B0-muIdcdTp7UWVyU0duSDRUd3c) has to unzipped into folder athene_system/data/fnc-1/features
-     * [model.zip](https://drive.google.com/open?id=0B0-muIdcdTp7Sm42ZW1yUndyY1E) has to be unzipped into folder athene_system/data/fnc-1/mlp_models
+ 		unzip [features.zip](https://drive.google.com/open?id=0B0-muIdcdTp7UWVyU0duSDRUd3c) athene_system/data/fnc-1/features
+		unzip [model.zip](https://drive.google.com/open?id=0B0-muIdcdTp7Sm42ZW1yUndyY1E) athene_system/data/fnc-1/mlp_models
         
 3. Parts of the Natural Language Toolkit (NLTK) might need to be installed manually.
 
 	    python3.4 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('wordnet')"
-	
-4. Installation of the packages for anaconda3 (python 3)
-
-        e.g.: python3.4 -m pip $i install nltk
-              python3.4 -m pip $i install -r requirements.txt
 	      
-5. Copy Word2Vec [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) in folder athene_system/data/embeddings/google_news/ 
+4. Copy Word2Vec [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) in folder athene_system/data/embeddings/google_news/ 
 
-6. Download [Paraphrase Database: Lexical XL Paraphrases 1.0](http://www.cis.upenn.edu/~ccb/ppdb/release-1.0/ppdb-1.0-xl-lexical.gz) and extract it in folder athene_system/data/ppdb/
+5. Download [Paraphrase Database: Lexical XL Paraphrases 1.0](http://www.cis.upenn.edu/~ccb/ppdb/release-1.0/ppdb-1.0-xl-lexical.gz) and extract it to the ppdb folder.
+	
+		gunzip ppdb-1.0-xl-lexical.gz athene_system/data/ppdb/
         
-7. To use the Stanford-parser an instance has to be started in parallel: Download [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html), extract anywhere and execute following command: 
+6. To use the Stanford-parser an instance has to be started in parallel: Download [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html), extract anywhere and execute following command: 
 
-        java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9020
+		wget http://nlp.stanford.edu/software/stanford-corenlp-full-2016-10-31.zip
+	
+        	java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9020
 
 ## Additional notes
 
