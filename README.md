@@ -56,12 +56,12 @@ Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
 To run the pre trained model and test
 
-		python pipeline.py -p ftest
+	python pipeline.py -p ftest
 
 
 For more details
 		
-		 python pipeline.py --help         
+	python pipeline.py --help         
         
         e.g.: python pipeline.py -p crossv holdout ftrain ftest
         
@@ -71,6 +71,6 @@ For more details
         * ftest: predicts stances of unlabeled test set based on the model (see Installation, step 2) 
 
  After _ftest_ was executed, the labeled stances will be saved to disk:
-    	
-		cat athene_system/data/fnc-1/fnc_results/submission.csv
+ 
+ 	cat athene_system/data/fnc-1/fnc_results/submission.csv
    
