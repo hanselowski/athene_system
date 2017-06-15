@@ -77,5 +77,5 @@ For more details
 
 ## System description
 
-A more detailed description of the system including the features, which have been used can be found in the document: system_description_athene.pdf
+A more detailed description of the system including the features, which have been used, can be found in the document: [system_description_athene.pdf](https://github.com/hanselowski/athene_system/edit/master/system_description_athene.pdf)
    
