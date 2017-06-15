@@ -73,4 +73,9 @@ For more details
  After _ftest_ was executed, the labeled stances will be saved to disk:
  
  	cat athene_system/data/fnc-1/fnc_results/submission.csv
+
+
+## System description
+
+A more detailed description of the system including the features, which have been used can be found in the document: system_description_athene.pdf
    
