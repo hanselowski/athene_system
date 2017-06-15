@@ -1,3 +1,6 @@
+
+![2010-07-07_ukp_banner](https://user-images.githubusercontent.com/29311022/27184688-27629126-51e3-11e7-9a23-276628da2430.png)
+
 ## Introduction
 
 The project was developed as a part of the Fake News Challenge One (FNC-1 http://www.fakenewschallenge.org/) by team Athene:
