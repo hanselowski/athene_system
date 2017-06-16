@@ -8,7 +8,8 @@
 ## Introduction
 
 The project was developed as a part of the Fake News Challenge One (FNC-1 http://www.fakenewschallenge.org/) by team Athene:
-[Andreas Hanselowski](mailto:hanselowski@aiphes.tu-darmstadt.de), [Avinesh PVS](mailto:avinesh@aiphes.tu-darmstadt.de), [Benjamin Schiller](mailto:schiller.benny@googlemail.com) and Felix Caspelherr
+[Andreas Hanselowski](mailto:hanselowski@aiphes.tu-darmstadt.de), [Avinesh PVS](mailto:avinesh@aiphes.tu-darmstadt.de), [Benjamin Schiller](mailto:schiller.benny@googlemail.com) and Felix Caspelherr 
+Moreover, we worked in close colaboration with [Debanjan Chaudhuri] (chaudhuri@ukp.informatik.tu-darmstadt.de)
 
 Prof. Dr. Iryna Gurevych, Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
