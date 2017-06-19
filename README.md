@@ -1,9 +1,9 @@
 
 
 ![2010-07-07_ukp_banner](https://user-images.githubusercontent.com/29311022/27184688-27629126-51e3-11e7-9a23-276628da2430.png)
-![tud_weblogo](https://user-images.githubusercontent.com/29311022/27184769-65c6583a-51e3-11e7-90e0-12a4bdf292e2.png)
-![aiphes_logo - small](https://user-images.githubusercontent.com/29311022/27278631-2e19f99e-54e2-11e7-919c-f89ae0c90648.png)
 
+![aiphes_logo - small](https://user-images.githubusercontent.com/29311022/27278631-2e19f99e-54e2-11e7-919c-f89ae0c90648.png)
+![tud_weblogo](https://user-images.githubusercontent.com/29311022/27184769-65c6583a-51e3-11e7-90e0-12a4bdf292e2.png)
 
 
 
@@ -13,7 +13,7 @@ The repository was developed as a part of the Fake News Challenge Stage 1 (FNC-1
 [Andreas Hanselowski](mailto:hanselowski@aiphes.tu-darmstadt.de), [Avinesh PVS](mailto:avinesh@aiphes.tu-darmstadt.de), [Benjamin Schiller](mailto:schiller.benny@googlemail.com) and Felix Caspelherr.
 In the project, we worked in close collaboration with [Debanjan Chaudhuri](mailto:deba.kgec@gmail.com). 
 
-Prof. Dr. Iryna Gurevych, Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
+Prof. Dr. Iryna Gurevych, AIPHES-Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
 ## Requirements
 
