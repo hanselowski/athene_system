@@ -2,6 +2,7 @@
 
 ![2010-07-07_ukp_banner](https://user-images.githubusercontent.com/29311022/27184688-27629126-51e3-11e7-9a23-276628da2430.png)
 
+![aiphes_logo - small](https://user-images.githubusercontent.com/29311022/27278631-2e19f99e-54e2-11e7-919c-f89ae0c90648.png)
 
 
 
