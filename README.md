@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The repository was developed as a part of the Fake News Challenge One (FNC-1 http://www.fakenewschallenge.org/) by team Athene:
+The repository was developed as a part of the Fake News Challenge Stage 1 (FNC-1 http://www.fakenewschallenge.org/) by team Athene:
 [Andreas Hanselowski](mailto:hanselowski@aiphes.tu-darmstadt.de), [Avinesh PVS](mailto:avinesh@aiphes.tu-darmstadt.de), [Benjamin Schiller](mailto:schiller.benny@googlemail.com) and Felix Caspelherr.
 In the project, we worked in close collaboration with [Debanjan Chaudhuri](mailto:deba.kgec@gmail.com). 
 
