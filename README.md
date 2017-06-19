@@ -6,6 +6,7 @@
 
 ![aiphes_logo](https://public.ukp.informatik.tu-darmstadt.de/anh/aiphes_logo.png =100x20)
 
+img[alt=aiphes_logo] { width: 200px; }
 
 ## Introduction
 
