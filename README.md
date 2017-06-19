@@ -1,10 +1,8 @@
 
 
 ![2010-07-07_ukp_banner](https://user-images.githubusercontent.com/29311022/27184688-27629126-51e3-11e7-9a23-276628da2430.png)
-![tud_weblogo](https://user-images.githubusercontent.com/29311022/27184769-65c6583a-51e3-11e7-90e0-12a4bdf292e2.png)
-![aiphes_logo](https://user-images.githubusercontent.com/29311022/27277767-a1dfeab2-54df-11e7-8d7e-9617af8787b5.png =100x)
 
-![aiphes_logo](https://public.ukp.informatik.tu-darmstadt.de/anh/aiphes_logo.png){:height="36px" width="36px"}
+
 
 
 
