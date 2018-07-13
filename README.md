@@ -13,7 +13,12 @@ The repository was developed as a part of the Fake News Challenge Stage 1 (FNC-1
 [Andreas Hanselowski](mailto:hanselowski@aiphes.tu-darmstadt.de), [Avinesh PVS](mailto:avinesh@aiphes.tu-darmstadt.de), [Benjamin Schiller](mailto:schiller.benny@googlemail.com) and Felix Caspelherr.
 In the project, we worked in close collaboration with [Debanjan Chaudhuri](mailto:deba.kgec@gmail.com). 
 
+Our new paper on COLING 2018: [A Retrospective Analysis of the Fake News Challenge Stance Detection Task](https://arxiv.org/pdf/1806.05180.pdf)
+
 Our [Blog Post](https://medium.com/@andre134679/team-athene-on-the-fake-news-challenge-28a5cf5e017b) on the Fake News Challenge.
+
+
+
 
 Prof. Dr. Iryna Gurevych, AIPHES-Ubiquitous Knowledge Processing (UKP) Lab, TU-Darmstadt, Germany
 
